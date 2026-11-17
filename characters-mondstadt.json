@@ -162,7 +162,7 @@
     {
       "name": "Barbara",
       "version": "1.0",
-      "element": "pyro",
+      "element": "hydro",
       "banner": "https://paimon.moe/images/characters/full/barbara.png",
       
       "materials": [
