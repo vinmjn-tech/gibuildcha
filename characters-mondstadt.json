@@ -158,6 +158,75 @@
           "members": ["Amber", "Lisa", "Kaeya", "Traveler"]
         }
       ]
+    },
+    {
+      "name": "Barbara",
+      "version": "1.0",
+      "element": "pyro",
+      "banner": "https://paimon.moe/images/characters/full/barbara.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Varunada Lazurite Sliver (1)",
+        "Varunada Lazurite Fragment (9)",
+        "Varunada Lazurite Chunk (9)",
+        "Varunada Lazurite Gemstone (6)",
+        "Cleansing Heart (46)",
+        "Philanemo Mushroom (168)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (30)",
+        "Forbidden Curse Scroll (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (66)",
+        "Forbidden Curse Scroll (93)",
+        "Crown of Insight (3)",
+        "Teachings of Freedom (9)",
+        "Guide to Freedom (63)",
+        "Philosophies of Freedom (114)",
+        "Ring of Boreas (18)"
+      ],
+      
+      "weapons": [
+        "Thrilling Tales of Dragon Slayers",
+        "Everlasting Moonglow",
+        "Prototype Amber"
+      ],
+      
+      "artifacts": [
+        "Ocean-Hued Clam",
+        "Maiden Beloved",
+        "Gilded Dreams"
+      ],
+      
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Nilou",
+          "members": ["Barbara", "Nahida", "Nilou", "Furina"]
+        },
+        {
+          "reaction": "Bloom",
+          "members": ["Barbara", "Fischl", "Xingqiu", "Kaedehara Kazuha"]
+        },
+        {
+          "reaction": "Start Newbie",
+          "members": ["Barbara", "Lisa", "Xingqiu", "Traveler"]
+        }
+      ]
     }
   ]
 }
