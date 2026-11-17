@@ -1,0 +1,93 @@
+{
+  "region": "nodkrai",
+  "regionName": "Nod Krai",
+  "characters": [
+    {
+      "name": "Aino",
+      "version": "6.0",
+      "element": "hydro",
+      "banner": "https://paimon.moe/images/characters/full/aino.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Varunada Lazurite Sliver (1)",
+        "Varunada Lazurite Fragment (9)",
+        "Varunada Lazurite Chunk (9)",
+        "Varunada Lazurite Gemstone (6)",
+        "Precision Kuuvahki Stamping Die (46)",
+        "Portable Bearing (168)",
+        "Broken Drive Shaft (18)",
+        "Reinforced Drive Shaft (30)",
+        "Precision Drive Shaft (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Broken Drive Shaft (18)",
+        "Reinforced Drive Shaft (66)",
+        "Precision Drive Shaft (93)",
+        "Crown of Insight (3)",
+        "Teachings of Elysium (9)",
+        "Guide to Elysium (63)",
+        "Philosophies of Elysium (114)",
+        "Silken Feather (18)"
+      ],
+      
+      "weapons": [
+        "Skyward Pride",
+        "Flame-Forged Insight",
+        "Master Key",
+        "Favonius Greatsword",
+        "Sacrificial Greatsword",
+        "Mailed Flower",
+        "Makhaira Aquamarine",
+        "Forest Regalia"
+      ],
+      
+      "artifacts": [
+        "Silken Moon's Serenade",
+        "Noblesse Oblige",
+        "Aubade of Morningstar and Moon",
+        "Instructor"
+      ],
+      
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Lunar-Charged",
+          "members": ["Aino", "Flins", "Ineffa", "Sucrose"]
+        },
+        {
+          "reaction": "Lunar-Crystalize",
+          "members": ["Aino", "Zibai", "Linnea", "Illuga"]
+        },
+        {
+          "reaction": "Bloom 1",
+          "members": ["Aino", "Nefer", "Columbina", "Lauma"]
+        },
+        {
+          "reaction": "Bloom 2",
+          "members": ["Aino", "Lauma", "Nilou", "Baizhu"]
+        },
+        {
+          "reaction": "Electro-Charged",
+          "members": ["Aino", "Ifa", "Ororon", "Xingqiu"]
+        },
+        {
+          "reaction": "Free Party",
+          "members": ["Aino", "Kaveh", "Kuki Shinobu", "Xingqiu"]
+        }
+      ]
+    }
+  ]
+}
