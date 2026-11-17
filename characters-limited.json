@@ -1,0 +1,67 @@
+{
+  "region": "limited",
+  "regionName": "Limited",
+  "characters": [
+    {
+      "name": "Aloy",
+      "version": "2.1",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/aloy.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Crystalline Bloom (46)",
+        "Crystal Marrow (168)",
+        "Spectral Husk (18)",
+        "Spectral Heart (30)",
+        "Spectral Nucleus (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Spectral Husk (18)",
+        "Spectral Heart (66)",
+        "Spectral Nucleus (93)",
+        "Crown of Insight (3)",
+        "Teachings of Freedom (9)",
+        "Guide to Freedom (63)",
+        "Philosophies of Freedom (114)",
+        "Molten Moment (18)"
+      ],
+      
+      "weapons": [
+        "Polar Star",
+        "Skyward Harp",
+        "Thundering Pulse",
+        "Aqua Simulacra",
+        "Mouuns Moon",
+        "Alley Hunter",
+        "Blackcliff Warbow"
+      ],
+      
+      "artifacts": [
+        "Blizzard Strayer (Tidak Optimal)"
+      ],
+      
+      "talentPriority": [
+        "E.Burst (Kurang Optimal)",
+        "E.Skill (Kurang optimal)"
+      ],
+      
+      "constellationPriority": [
+        ""
+      ],
+      
+      "party": [
+        {
+          "reaction": "",
+          "members": [""]
+        }
+      ]
+    }
+  ]
+}
