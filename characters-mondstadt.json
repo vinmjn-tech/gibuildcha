@@ -1,0 +1,163 @@
+{
+  "region": "mondstadt",
+  "regionName": "Mondstadt",
+  "characters": [
+    {
+      "name": "Albedo",
+      "version": "1.2",
+      "element": "geo",
+      "banner": "https://paimon.moe/images/characters/full/albedo.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Prithiva Topaz Sliver (1)",
+        "Prithiva Topaz Fragment (9)",
+        "Prithiva Topaz Chunk (9)",
+        "Prithiva Topaz Gemstone (6)",
+        "Basalt Pillar (46)",
+        "Cecilia (168)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (30)",
+        "Forbidden Curse Scroll (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (66)",
+        "Forbidden Curse Scroll (93)",
+        "Crown of Insight (3)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Tusk of Monoceros Caeli (18)"
+      ],
+      
+      "weapons": [
+        "Uraku Misugiri",
+        "Lightbearing Moonshard",
+        "Primordial Jade Cutter",
+        "Peak Patrol Song",
+        "Wolf-Fang",
+        "Cinnabar Spindle",
+        "Flute of Ezpitzal",
+        "Harbinger of Dawn"
+      ],
+      
+      "artifacts": [
+        "Golden Troupe",
+        "Husk of Opulent Dreams"
+      ],
+      
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C3"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Navia I",
+          "members": ["Albedo", "Navia", "Durin", "Bennett"]
+        },
+        {
+          "reaction": "Klee II",
+          "members": ["Albedo", "Klee", "Yelan", "Bennett"]
+        },
+        {
+          "reaction": "Lunar III",
+          "members": ["Albedo", "Venti", "Columbina", "Ineffa"]
+        },
+        {
+          "reaction": "Free Team",
+          "members": ["Albedo", "Razor", "Fischl", "Bennett"]
+        },
+        {
+          "reaction": "Free Team II",
+          "members": ["Albedo", "Noelle", "Gorou", "Yun Jin"]
+        },
+        {
+          "reaction": "Mona-Geo",
+          "members": ["Albedo", "Arataki Itto", "Gorou", "Zhongli"]
+        },
+        {
+          "reaction": "Lunar Crystallize",
+          "members": ["Albedo", "Zibai", "Columbina", "Illuga"]
+        }
+      ]
+    },
+    {
+      "name": "Amber",
+      "version": "1.0",
+      "element": "pyro",
+      "banner": "https://paimon.moe/images/characters/full/amber.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Agnidus Agate Sliver (1)",
+        "Agnidus Agate Fragment (9)",
+        "Agnidus Agate Chunk (9)",
+        "Agnidus Agate Gemstone (6)",
+        "Everflame Seed (46)",
+        "Small Lamp Grass (168)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (30)",
+        "Weathered Arrowhead (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (66)",
+        "Weathered Arrowhead (93)",
+        "Crown of Insight (3)",
+        "Teachings of Freedom (9)",
+        "Guide to Freedom (63)",
+        "Philosophies of Freedom (114)",
+        "Dvalins Sigh (18)"
+      ],
+      
+      "weapons": [
+        "Elegy for the End",
+        "Favonius Warbow",
+        "Sacrificial Bow"
+      ],
+      
+      "artifacts": [
+        "Noblesse Oblige",
+        "Wanderer's Troupe"
+      ],
+      
+      "talentPriority": [
+        "E.Burst",
+        "N.Attack"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C3"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Vaporize",
+          "members": ["Amber", "Xingqiu", "Hu Tao", "Kaedehara Kazuha"]
+        },
+        {
+          "reaction": "Pyro",
+          "members": ["Amber", "Bennett", "Kaedehara Kazuha", "Lyney"]
+        },
+        {
+          "reaction": "Start Newbie",
+          "members": ["Amber", "Lisa", "Kaeya", "Traveler"]
+        }
+      ]
+    }
+  ]
+}
