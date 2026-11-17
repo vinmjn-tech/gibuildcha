@@ -1,0 +1,14 @@
+{
+  "regions": [
+    { "id": "limited", "name": "Limited",  "file": "characters-limited.json" },
+    { "id": "mondstadt", "name": "Mondstadt",  "file": "characters-mondstadt.json" },
+    { "id": "liyue",     "name": "Liyue",      "file": "characters-liyue.json" },
+    { "id": "inazuma",   "name": "Inazuma",    "file": "characters-inazuma.json" },
+    { "id": "sumeru",    "name": "Sumeru",     "file": "characters-sumeru.json" },
+    { "id": "fontaine",  "name": "Fontaine",   "file": "characters-fontaine.json" },
+    { "id": "natlan",    "name": "Natlan",     "file": "characters-natlan.json" },
+    { "id": "nodkrai",    "name": "Nod Krai",     "file": "characters-nodkrai.json" },
+    { "id": "snezhnaya", "name": "Snezhnaya",  "file": "characters-snezhnaya.json" },
+    { "id": "khaenriah", "name": "Khaenri'ah / Kolaborasi", "file": "characters-khaenriah.json" }
+  ]
+}
