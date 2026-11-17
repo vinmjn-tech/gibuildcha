@@ -1,0 +1,477 @@
+{
+  "region": "snezhnaya",
+  "regionName": "Snezhnaya",
+  "characters": [
+    {
+      "name": "Vodyanitsa",
+      "version": "7.1",
+      "element": "hydro",
+      "banner": "https://paimon.moe/images/characters/full/vodyanitsa.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Varunada Lazurite Sliver (1)",
+        "Varunada Lazurite Fragment (9)",
+        "Varunada Lazurite Chunk (9)",
+        "Varunada Lazurite Gemstone (6)",
+        "Unscorched Blossom Branch (46)",
+        "Frostfairy Flower (168)",
+        "Chimeric Core (18)",
+        "Symbiotic Chimeric Nucleus (30)",
+        "Prime Chimeric Nexus (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Chimeric Core (18)",
+        "Symbiotic Chimeric Nucleus (66)",
+        "Prime Chimeric Nexus (93)",
+        "Crown of Insight (3)",
+        "Teachings of Fortitude (9)",
+        "Guide to Fortitude (63)",
+        "Philosophies of Fortitude (114)",
+        "Madmans Restraint (18)"
+      ],
+      
+      "weapons": [
+        "Hymn of the Maelstrom",
+        "Jadefalls Splendor",
+        "Everlasting Moonglow",
+        "Prototype Amber",
+        "Thrilling Tales of Dragon Slayers"
+      ],
+      
+      "artifacts": [
+        "Tenacity of the Millelith",
+        "Song of Days Past",
+        "instructor"
+      ],
+      
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Stellar I",
+          "members": ["Vodyanitsa", "Vesna", "Traveler", "Odette"]
+        },
+        {
+          "reaction": "Stellar II",
+          "members": ["Vodyanitsa", "Yumemizuki Mizuki", "Faruzan", "Odette"]
+        },
+        {
+          "reaction": "Stellar Free",
+          "members": ["Vodyanitsa", "Yumemizuki Mizuki", "Faruzan", "Diona"]
+        },
+        {
+          "reaction": "Freeze Premium",
+          "members": ["Vodyanitsa", "Lohen", "Escoffier", "Mona"]
+        },
+        {
+          "reaction": "Freeze Semi-Premium",
+          "members": ["Vodyanitsa", "Chongyun", "Escoffier", "Xingqiu"]
+        }
+      ]
+    },
+    {
+      "name": "Alyosha",
+      "version": "7.0",
+      "element": "electro",
+      "banner": "https://paimon.moe/images/characters/full/alyosha.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Vajrada Amethyst Sliver (1)",
+        "Vajrada Amethyst Fragment (9)",
+        "Vajrada Amethyst Chunk (9)",
+        "Vajrada Amethyst Gemstone (6)",
+        "Severed Tail of the Skyroamer (46)",
+        "Flockingweed (168)",
+        "Chimeric Core (18)",
+        "Symbiotic Chimeric Nucleus (30)",
+        "Prime Chimeric Nexus (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Chimeric Core (18)",
+        "Symbiotic Chimeric Nucleus (66)",
+        "Prime Chimeric Nexus (93)",
+        "Crown of Insight (3)",
+        "Teachings of Fortitude (9)",
+        "Guide to Fortitude (63)",
+        "Philosophies of Fortitude (114)",
+        "Elixir of the Heretic (18)"
+      ],
+      
+      "weapons": [
+        "Engulfing Lightning",
+        "Skyward Spine",
+        "Favonius Lance",
+        "Song of the Vigil",
+        "Tamayuratei no Ohanashi",
+        "The Catch"
+      ],
+      
+      "artifacts": [
+        "Noblesse Oblige",
+        "Heart of the Furnace",
+        "Instructor"
+      ],
+      
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C4",
+        "C6"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Sandrone-Stellar",
+          "members": ["Alyosha", "Sandrone", "Odette", "Yae Miko"]
+        },
+        {
+          "reaction": "Spread",
+          "members": ["Alyosha", "Nahida", "Fischl", "Yae Miko"]
+        },
+        {
+          "reaction": "Furina",
+          "members": ["Alyosha", "Furina", "Lauma", "Kuki Shinobu"]
+        },
+        {
+          "reaction": "Free Team",
+          "members": ["Alyosha", "Collei", "Xingqiu", "Kuki Shinobu"]
+        }
+      ]
+    },
+    {
+      "name": "Odette",
+      "version": "7.0",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/odette.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Unscorched Blossom Branch (46)",
+        "Frostfairy Flower (168)",
+        "Ethereal Glimmershard (18)",
+        "Ethereal Crystal (30)",
+        "Ethereal Crystalscale Stone (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Ethereal Glimmershard (18)",
+        "Ethereal Crystal (66)",
+        "Ethereal Crystalscale Stone (93)",
+        "Crown of Insight (3)",
+        "Teachings of Charity (9)",
+        "Guide to Charity (63)",
+        "Philosophies of Charity (114)",
+        "Twisted Withered Branch (18)"
+      ],
+      
+      "weapons": [
+        "Whitelake Frostfeather",
+        "Exaiphanes Blade",
+        "Azurelight",
+        "Freedom-Sworn",
+        "Emberwell",
+        "Finale of the Deep",
+        "Heretics Molten Blade",
+        "Harbinger of Dawn"
+      ],
+      
+      "artifacts": [
+        "Heart of the Furnace",
+        "Disenchantment in Deep Shadow",
+        "Gilded Dreams"
+      ],
+      
+      "talentPriority": [
+        "Skill",
+        "Burst"
+      ],
+      
+      "constellationPriority": [
+        "C2",
+        "C6",
+        "C4"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Sandrone",
+          "members": ["Odette", "Sandrone", "Yae Miko", "Alyosha"]
+        },
+        {
+          "reaction": "Mizuki",
+          "members": ["Odette", "Yumemizuki Mizuki", "Qiqi", "Sucrose"]
+        },
+        {
+          "reaction": "Cyno",
+          "members": ["Odette", "Cyno", "Yae Miko", "Nicole"]
+        },
+        {
+          "reaction": "Wriothesley",
+          "members": ["Odette", "Wriothesley", "Nicole", "Yae Miko"]
+        },
+        {
+          "reaction": "Free Team",
+          "members": ["Odette", "Traveler", "Diona", "Alyosha"]
+        }
+      ]
+    },
+    {
+      "name": "Vesna",
+      "version": "7.1",
+      "element": "anemo",
+      "banner": "https://paimon.moe/images/characters/full/vesna.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Vayuda Turquoise Sliver (1)",
+        "Vayuda Turquoise Fragment (9)",
+        "Vayuda Turquoise Chunk (9)",
+        "Vayuda Turquoise Gemstone (6)",
+        "Vagabonds Cracked Armor (46)",
+        "Golden Fern (168)",
+        "Ethereal Glimmershard (18)",
+        "Ethereal Crystal (30)",
+        "Ethereal Crystalscale Stone (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Ethereal Glimmershard (18)",
+        "Ethereal Crystal (66)",
+        "Ethereal Crystalscale Stone (93)",
+        "Crown of Insight (3)",
+        "Teachings of Glory (9)",
+        "Guide to Glory (63)",
+        "Philosophies of Glory (114)",
+        "Profaned Sprout (18)"
+      ],
+      
+      "weapons": [
+        "Beyond the Chrysalis",
+        "Whitelake Frostfeather",
+        "Azurelight",
+        "Emberwell",
+        "Heretics Molten Blade"
+      ],
+      
+      "artifacts": [
+        "Scarlet Proof",
+        "Viridescent Venerer"
+      ],
+      
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C4",
+        "C6"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Premium",
+          "members": ["Vesna", "Faruzan", "Traveler", "Odette"]
+        },
+        {
+          "reaction": "Premium II",
+          "members": ["Vesna", "Odette", "Vodyanitsa", "Traveler"]
+        },
+        {
+          "reaction": "Free Team",
+          "members": ["Vesna", "Diona", "Qiqi", "Sucrose"]
+        },
+        {
+          "reaction": "Free Team II",
+          "members": ["Vesna", "Diona", "Traveler", "Faruzan"]
+        }
+      ]
+    },
+    {
+      "name": "Mitya",
+      "version": "7.2",
+      "element": "electro",
+      "newcha": "BARU",
+      "banner": "https://paimon.moe/images/characters/full/mitya.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Vajrada Amethyst Sliver (1)",
+        "Vajrada Amethyst Fragment (9)",
+        "Vajrada Amethyst Chunk (9)",
+        "Vajrada Amethyst Gemstone (6)",
+        "Shattered Stability Anchor (46)",
+        "Kristallfold (168)",
+        "Chimeric Core (18)",
+        "Symbiotic Chimeric Nucleus (30)",
+        "Prime Chimeric Nexus (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Chimeric Core (18)",
+        "Symbiotic Chimeric Nucleus (66)",
+        "Prime Chimeric Nexus (93)",
+        "Crown of Insight (3)",
+        "Teachings of Charity (9)",
+        "Guide to Charity (63)",
+        "Philosophies of Charity (114)",
+        "Mask of the Virtuous Doctor (18)"
+      ],
+      
+      "weapons": [
+        "Starsealed Edict",
+        "Reliquary of Truth",
+        "Lost Prayer to the Sacred Winds",
+        "Dawning Frost",
+        "Winters Heavy Heart",
+        "The Widsith",
+        "Etherlight Spindlelute",
+        "Wandering Evenstar"
+      ],
+      
+      "artifacts": [
+        "Gilded Dreams",
+        "Disenchantment in Deep Shadow",
+        "Tenacity of the Millelith"
+      ],
+      
+      "talentPriority": [
+        "Normal Attack",
+        "E.Skill"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Stellar Conduct",
+          "members": ["Mitya", "Sandrone", "Odette", "Yae Miko"]
+        },
+        {
+          "reaction": "Stellar Conduct I",
+          "members": ["Mitya", "Wriothesley", "Odette", "Nicole"]
+        },
+        {
+          "reaction": "Lunar/Stellar",
+          "members": ["Mitya", "Columbina", "Odette", "Ineffa"]
+        },
+        {
+          "reaction": "Free Team Stellar Conduct",
+          "members": ["Mitya", "Traveler", "Sucrose", "Valeriy"]
+        }
+      ]
+    },
+    {
+      "name": "Valeriy",
+      "version": "7.2",
+      "element": "electro",
+      "newcha": "BARU",
+      "banner": "https://paimon.moe/images/characters/full/valeriy.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Vajrada Amethyst Sliver (1)",
+        "Vajrada Amethyst Fragment (9)",
+        "Vajrada Amethyst Chunk (9)",
+        "Vajrada Amethyst Gemstone (6)",
+        "Severed Tail Of the Skyroamer (46)",
+        "Fairy Wormwood (168)",
+        "Ethereal Crystal (18)",
+        "Ethereal Glimmershard (30)",
+        "Ethereal Crystalscale Stone (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Ethereal Crystal (18)",
+        "Ethereal Glimmershard (66)",
+        "Ethereal Crystalscale Stone (93)",
+        "Crown of Insight (3)",
+        "Teachings of Glory (9)",
+        "Guide to Glory (63)",
+        "Philosophies of Glory (114)",
+        "Counterfeit Resin (18)"
+      ],
+      
+      "weapons": [
+        "Starsealed Edict",
+        "Reliquary of Truth",
+        "Lost Prayer to the Sacred Winds",
+        "Dawning Frost",
+        "Winters Heavy Heart",
+        "The Widsith",
+        "Etherlight Spindlelute",
+        "Wandering Evenstar"
+      ],
+      
+      "artifacts": [
+        "Gilded Dreams",
+        "Disenchantment in Deep Shadow",
+        "Tenacity of the Millelith"
+      ],
+      
+      "talentPriority": [
+        "Normal Attack",
+        "E.Skill"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Stellar Conduct",
+          "members": ["Valeriy", "Odette", "Mitya", "Yae Miko"]
+        },
+        {
+          "reaction": "Stellar Conduct I",
+          "members": ["Valeriy", "Alyosha", "Odette", "Cyno"]
+        },
+        {
+          "reaction": "Electro overload",
+          "members": ["Valeriy", "Nicole", "Clorinde", "Durin"]
+        },
+        {
+          "reaction": "Lunar Bloom",
+          "members": ["Valeriy", "Lauma", "Nefer", "Columbina"]
+        }
+      ]
+    }
+  ]
+}
