@@ -1,0 +1,90 @@
+{
+  "region": "sumeru",
+  "regionName": "Sumeru",
+  "characters": [
+    {
+      "name": "Alhaitham",
+      "version": "3.4",
+      "element": "dendro",
+      "banner": "https://paimon.moe/images/characters/full/alhaitham.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Nagadus Emerald Sliver (1)",
+        "Nagadus Emerald Fragment (9)",
+        "Nagadus Emerald Chunk (9)",
+        "Nagadus Emerald Gemstone (6)",
+        "Pseudostamens (46)",
+        "Sand Grease Pupa (168)",
+        "Faded Red Satin (18)",
+        "Trimmed Red Silk (30)",
+        "Rich Red Brocade (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Faded Red Satin (18)",
+        "Trimmed Red Silk (66)",
+        "Rich Red Brocade (93)",
+        "Crown of Insight (3)",
+        "Teachings of Ingenuity (9)",
+        "Guide to Ingenuity (63)",
+        "Philosophies of Ingenuity (114)",
+        "Mirror of Mushin (18)"
+      ],
+      
+      "weapons": [
+        "Light of Foliar Incision",
+        "Harbinger of Dawn",
+        "Uraku Misugiri",
+        "Primordial Jade Cutter",
+        "Haran Geppaku Futsu",
+        "Iron Sting",
+        "Wolf-Fang",
+        "The Black Sword",
+        "Toukabou Shigure"
+      ],
+      
+      "artifacts": [
+        "Gilded Dreams",
+        "Deepwood Memories"
+      ],
+      
+      "talentPriority": [
+        "E.Skill",
+        "Normal Attack"
+      ],
+      
+      "constellationPriority": [
+        "C2",
+        "C4",
+        "C6"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Quick bloom",
+          "members": ["Alhaitham", "Lauma", "Yelan", "Kuki Shinobu"]
+        },
+        {
+          "reaction": "Spread",
+          "members": ["Alhaitham", "Nahida", "Fischl", "Yae Miko"]
+        },
+        {
+          "reaction": "Furina",
+          "members": ["Alhaitham", "Furina", "Lauma", "Kuki Shinobu"]
+        },
+        {
+          "reaction": "Free Team",
+          "members": ["Alhaitham", "Collei", "Xingqiu", "Kuki Shinobu"]
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
