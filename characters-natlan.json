@@ -1,1 +1,947 @@
-.
+{
+  "region": "natlan",
+  "regionName": "Natlan",
+  "characters": [
+  {
+    "name": "Mualani",
+    "version": "5.0",
+    "element": "Hydro",
+    "banner": "https://paimon.moe/images/characters/full/mualani.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Mark of the Binding Blessing (46)",
+      "Sprayfeather Gill (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Contention (9)",
+      "Guide to Contention (63)",
+      "Philosophies of Contention (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Lightless Mass (18)"
+    ],
+    "weapons": [
+      "Surf's Up",
+      "Tome of the Eternal Flow",
+      "Ring of Yaxche",
+      "The Widsith"
+    ],
+    "artifacts": [
+      "Obsidian Codex",
+      "Heart of Depth",
+      "Marechaussee Hunter"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C2",
+      "C3",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Mualani",
+          "Xiangling",
+          "Xilonen",
+          "Candace"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Mualani",
+          "Furina",
+          "Xiangling",
+          "Xianyun"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Mualani",
+          "Dehya",
+          "Nahida",
+          "Xilonen"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kachina",
+    "version": "5.0",
+    "element": "Geo",
+    "banner": "https://paimon.moe/images/characters/full/kachina.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Overripe Flamegranate (46)",
+      "Quenepa Berry (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Conflict (9)",
+      "Guide to Conflict (63)",
+      "Philosophies of Conflict (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Fading Candle (18)"
+    ],
+    "weapons": [
+      "Footprint of the Rainbow",
+      "Favonius Lance",
+      "Engulfing Lightning"
+    ],
+    "artifacts": [
+      "Scroll of the Hero of Cinder City",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C2",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Geo",
+        "members": [
+          "Kachina",
+          "Navia",
+          "Bennett",
+          "Xiangling"
+        ]
+      },
+      {
+        "reaction": "Mono Geo",
+        "members": [
+          "Kachina",
+          "Noelle",
+          "Gorou",
+          "Furina"
+        ]
+      },
+      {
+        "reaction": "Support",
+        "members": [
+          "Kachina",
+          "Arlecchino",
+          "Bennett",
+          "Xingqiu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kinich",
+    "version": "5.0",
+    "element": "Dendro",
+    "banner": "https://paimon.moe/images/characters/full/kinich.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Overripe Flamegranate (46)",
+      "Saurian Claw Succulent (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Kindling (9)",
+      "Guide to Kindling (63)",
+      "Philosophies of Kindling (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Denial and Judgment (18)"
+    ],
+    "weapons": [
+      "Fang of the Mountain King",
+      "Beacon of the Reed Sea",
+      "Serpent Spine",
+      "Earth Shaker"
+    ],
+    "artifacts": [
+      "Obsidian Codex",
+      "Deepwood Memories"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Burning",
+        "members": [
+          "Kinich",
+          "Emilie",
+          "Dehya",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Burgeon",
+        "members": [
+          "Kinich",
+          "Furina",
+          "Thoma",
+          "Baizhu"
+        ]
+      },
+      {
+        "reaction": "Burning",
+        "members": [
+          "Kinich",
+          "Mavuika",
+          "Emilie",
+          "Bennett"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Xilonen",
+    "version": "5.1",
+    "element": "Geo",
+    "banner": "https://paimon.moe/images/characters/full/xilonen.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Gold-Inscribed Secret Source Core (46)",
+      "Brilliant Chrysanthemum (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Kindling (9)",
+      "Guide to Kindling (63)",
+      "Philosophies of Kindling (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Mirror of Mushin (18)"
+    ],
+    "weapons": [
+      "Peak Patrol Song",
+      "Freedom-Sworn",
+      "Favonius Sword",
+      "Flute of Ezpitzal"
+    ],
+    "artifacts": [
+      "Scroll of the Hero of Cinder City",
+      "Archaic Petra"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Support",
+        "members": [
+          "Neuvillette",
+          "Furina",
+          "Xilonen",
+          "Kaedehara Kazuha"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Arlecchino",
+          "Yelan",
+          "Bennett",
+          "Xilonen"
+        ]
+      },
+      {
+        "reaction": "Hypercarry",
+        "members": [
+          "Mualani",
+          "Xiangling",
+          "Xilonen",
+          "Candace"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chasca",
+    "version": "5.2",
+    "element": "Anemo",
+    "banner": "https://paimon.moe/images/characters/full/chasca.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Ensnaring Gaze (46)",
+      "Withering Purpurbloom (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Conflict (9)",
+      "Guide to Conflict (63)",
+      "Philosophies of Conflict (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Silken Feather (18)"
+    ],
+    "weapons": [
+      "Astral Vulture's Crimson Plumage",
+      "The First Great Magic",
+      "Aqua Simulacra",
+      "Song of Stillness"
+    ],
+    "artifacts": [
+      "Obsidian Codex",
+      "Shimenawa's Reminiscence"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "Elemental Skill",
+      "Elemental Burst"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C2",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Elemental mix",
+        "members": [
+          "Chasca",
+          "Furina",
+          "Bennett",
+          "Ororon"
+        ]
+      },
+      {
+        "reaction": "Elemental mix",
+        "members": [
+          "Chasca",
+          "Furina",
+          "Bennett",
+          "Fischl"
+        ]
+      },
+      {
+        "reaction": "Elemental mix",
+        "members": [
+          "Chasca",
+          "Mavuika",
+          "Bennett",
+          "Furina"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ororon",
+    "version": "5.2",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/ororon.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Mark of the Binding Blessing (46)",
+      "Glowing Hornshroom (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Kindling (9)",
+      "Guide to Kindling (63)",
+      "Philosophies of Kindling (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Lightless Silk String (18)"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "The Stringless",
+      "Chain Breaker",
+      "Favonius Warbow"
+    ],
+    "artifacts": [
+      "Scroll of the Hero of Cinder City",
+      "Golden Troupe",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Electro-Charged",
+        "members": [
+          "Ororon",
+          "Neuvillette",
+          "Furina",
+          "Xilonen"
+        ]
+      },
+      {
+        "reaction": "Overload",
+        "members": [
+          "Ororon",
+          "Chasca",
+          "Bennett",
+          "Furina"
+        ]
+      },
+      {
+        "reaction": "Taser",
+        "members": [
+          "Ororon",
+          "Fischl",
+          "Xingqiu",
+          "Sucrose"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mavuika",
+    "version": "5.3",
+    "element": "Pyro",
+    "banner": "https://paimon.moe/images/characters/full/mavuika.png",
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Gold-Inscribed Secret Source Core (46)",
+      "Withering Purpurbloom (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Contention (9)",
+      "Guide to Contention (63)",
+      "Philosophies of Contention (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Eroded Horn (18)"
+    ],
+    "weapons": [
+      "A Thousand Blazing Suns",
+      "Beacon of the Reed Sea",
+      "Serpent Spine",
+      "Earth Shaker"
+    ],
+    "artifacts": [
+      "Obsidian Codex",
+      "Crimson Witch of Flames"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Melt",
+        "members": [
+          "Mavuika",
+          "Citlali",
+          "Xilonen",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Mavuika",
+          "Furina",
+          "Xilonen",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Overload",
+        "members": [
+          "Mavuika",
+          "Chevreuse",
+          "Iansan",
+          "Fischl"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Citlali",
+    "version": "5.3",
+    "element": "Cryo",
+    "banner": "https://paimon.moe/images/characters/full/citlali.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Talisman of the Enigmatic Land (46)",
+      "Quenepa Berry (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Kindling (9)",
+      "Guide to Kindling (63)",
+      "Philosophies of Kindling (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Denial and Judgment (18)"
+    ],
+    "weapons": [
+      "Starcaller's Watch",
+      "Thrilling Tales of Dragon Slayers",
+      "Sacrificial Fragments",
+      "A Thousand Floating Dreams"
+    ],
+    "artifacts": [
+      "Scroll of the Hero of Cinder City",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Melt",
+        "members": [
+          "Mavuika",
+          "Citlali",
+          "Xilonen",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Melt",
+        "members": [
+          "Arlecchino",
+          "Citlali",
+          "Bennett",
+          "Xilonen"
+        ]
+      },
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Neuvillette",
+          "Furina",
+          "Citlali",
+          "Kaedehara Kazuha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Varesa",
+    "version": "5.5",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/varesa.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Sparkless Statue Core (46)",
+      "Skysplit Gembloom (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Conflict (9)",
+      "Guide to Conflict (63)",
+      "Philosophies of Conflict (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Eroded Scale-Feather (18)"
+    ],
+    "weapons": [
+      "Vivid Notions",
+      "Lost Prayer to the Sacred Winds",
+      "The Widsith",
+      "Flowing Purity"
+    ],
+    "artifacts": [
+      "Long Night's Oath",
+      "Obsidian Codex"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "Elemental Burst",
+      "Elemental Skill"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Plunge",
+        "members": [
+          "Varesa",
+          "Iansan",
+          "Fischl",
+          "Xianyun"
+        ]
+      },
+      {
+        "reaction": "Overload",
+        "members": [
+          "Varesa",
+          "Chevreuse",
+          "Fischl",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Varesa",
+          "Fischl",
+          "Nahida",
+          "Xianyun"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iansan",
+    "version": "5.5",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/iansan.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Ensnaring Gaze (46)",
+      "Skysplit Gembloom (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Contention (9)",
+      "Guide to Contention (63)",
+      "Philosophies of Contention (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Denial and Judgment (18)"
+    ],
+    "weapons": [
+      "Calamity Queller",
+      "Engulfing Lightning",
+      "Favonius Lance",
+      "Prototype Starglitter"
+    ],
+    "artifacts": [
+      "Scroll of the Hero of Cinder City",
+      "Noblesse Oblige",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "Elemental Burst",
+      "Elemental Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Plunge",
+        "members": [
+          "Varesa",
+          "Iansan",
+          "Fischl",
+          "Xianyun"
+        ]
+      },
+      {
+        "reaction": "Hypercarry",
+        "members": [
+          "Mavuika",
+          "Iansan",
+          "Xilonen",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Support",
+        "members": [
+          "Clorinde",
+          "Iansan",
+          "Fischl",
+          "Nahida"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ifa",
+    "version": "5.6",
+    "element": "Anemo",
+    "banner": "https://paimon.moe/images/characters/full/ifa.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Sparkless Statue Core (46)",
+      "Glowing Hornshroom (168)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (30)",
+      "Saurian-Crowned Warrior's Golden Whistle (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Conflict (9)",
+      "Guide to Conflict (63)",
+      "Philosophies of Conflict (114)",
+      "Crown of Insight (3)",
+      "Sentry's Wooden Whistle (18)",
+      "Warrior's Metal Whistle (66)",
+      "Saurian-Crowned Warrior's Golden Whistle (93)",
+      "Ascended Sample: Rook (18)"
+    ],
+    "weapons": [
+      "Sunny Morning Sleep-In",
+      "Wandering Evenstar",
+      "Sacrificial Fragments",
+      "Favonius Codex"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Scroll of the Hero of Cinder City",
+      "Flower of Paradise Lost"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Swirl",
+        "members": [
+          "Ifa",
+          "Furina",
+          "Ororon",
+          "Fischl"
+        ]
+      },
+      {
+        "reaction": "Electro-Charged",
+        "members": [
+          "Ifa",
+          "Ororon",
+          "Furina",
+          "Iansan"
+        ]
+      },
+      {
+        "reaction": "Hyperbloom",
+        "members": [
+          "Ifa",
+          "Furina",
+          "Nahida",
+          "Ororon"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Skirk",
+    "version": "5.7",
+    "element": "Cryo",
+    "banner": "https://paimon.moe/images/characters/full/skirk.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Ensnaring Gaze (46)",
+      "Skysplit Gembloom (168)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Contention (9)",
+      "Guide to Contention (63)",
+      "Philosophies of Contention (114)",
+      "Crown of Insight (3)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (66)",
+      "Artificed Dynamic Gear (93)",
+      "Ascended Sample: Knight (18)"
+    ],
+    "weapons": [
+      "Azurelight",
+      "Haran Geppaku Futsu",
+      "Mistsplitter Reforged",
+      "Finale of the Deep"
+    ],
+    "artifacts": [
+      "Finale of the Deep Galleries",
+      "Marechaussee Hunter",
+      "Blizzard Strayer"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Normal Attack",
+      "Elemental Burst"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Cryo",
+        "members": [
+          "Skirk",
+          "Escoffier",
+          "Furina",
+          "Shenhe"
+        ]
+      },
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Skirk",
+          "Escoffier",
+          "Furina",
+          "Kaedehara Kazuha"
+        ]
+      },
+      {
+        "reaction": "Cryo",
+        "members": [
+          "Skirk",
+          "Escoffier",
+          "Shenhe",
+          "Mona"
+        ]
+      }
+    ]
+  }
+  ]
+}
