@@ -53,13 +53,13 @@
       ],
       
       "constellationPriority": [
-        ""
+        "Tidak Diketahui"
       ],
       
       "party": [
         {
-          "reaction": "",
-          "members": [""]
+          "reaction": "Tidak Diketahui",
+          "members": ["Aloy"]
         }
       ]
     }
