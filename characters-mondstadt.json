@@ -175,7 +175,7 @@
         "Aquila Favonia",
         "Skyward Blade",
         "Favonius Sword",
-        "Freedom-Sworn",
+        "Freedom Sworn",
         "Fleuve Cendre Ferryman"
       ],
       
@@ -304,8 +304,656 @@
           "members": ["Albedo", "Zibai", "Columbina", "Illuga"]
         }
       ]
-    }
-    
-    
+    },
+  {
+    "name": "Diluc",
+    "version": "1.0",
+    "buildVersion": "7.2",
+    "element": "pyro",
+    "weaponType": "claymore",
+    "role": [
+      "on-field DPS"
+    ],
+    "banner": "https://paimon.moe/images/characters/full/diluc.png",
+    "materials": [],
+    "talenta": [],
+    "weapons": [
+      "Gest of the Mighty Wolf",
+      "Wolf's Gravestone",
+      "Beacon of the Reed Sea",
+      "Serpent Spine",
+      "The Unforged",
+      "Prototype Archaic"
+    ],
+    "artifacts": [
+      "Crimson Witch of Flames",
+      "Marechaussee Hunter",
+      "Crimson Witch of Flames + ATK% (2pc + 2pc)"
+    ],
+    "mainStats": {
+      "sands": [
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "goblet": [
+        "Pyro DMG Bonus"
+      ],
+      "circlet": [
+        "CRIT Rate",
+        "CRIT DMG"
+      ]
+    },
+    "substats": [
+      "CRIT Rate",
+      "CRIT DMG",
+      "Elemental Mastery",
+      "ATK%",
+      "Energy Recharge"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "E.Skill",
+      "E.Burst"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C2",
+      "C4",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Diluc",
+          "Xingqiu",
+          "Bennett",
+          "Kaedehara Kazuha"
+        ]
+      },
+      {
+        "reaction": "Plunge Vaporize",
+        "members": [
+          "Diluc",
+          "Furina",
+          "Xianyun",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Overload",
+        "members": [
+          "Diluc",
+          "Fischl",
+          "Chevreuse",
+          "Bennett"
+        ]
+      }
+    ],
+    "notes": [
+      "Crimson Witch is the general reaction-focused option. Marechaussee Hunter is especially effective with Furina.",
+      "Use EM sands when Vaporize reactions are consistent and its substats outperform ATK%."
+    ]
+  },
+  {
+    "name": "Fischl",
+    "version": "1.0",
+    "buildVersion": "7.2",
+    "element": "electro",
+    "weaponType": "bow",
+    "role": [
+      "off-field DPS",
+      "Electro support"
+    ],
+    "banner": "https://paimon.moe/images/characters/full/fischl.png",
+    "materials": [],
+    "talenta": [],
+    "weapons": [
+      "The Daybreak Chronicles",
+      "Polar Star",
+      "Aqua Simulacra",
+      "Skyward Harp",
+      "Elegy for the End",
+      "The Stringless",
+      "Alley Hunter",
+      "Favonius Warbow"
+    ],
+    "artifacts": [
+      "Golden Troupe",
+      "Thundering Fury",
+      "Golden Troupe + ATK% (2pc + 2pc)",
+      "Celestial Gift"
+    ],
+    "mainStats": {
+      "sands": [
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "goblet": [
+        "Electro DMG Bonus"
+      ],
+      "circlet": [
+        "CRIT Rate",
+        "CRIT DMG"
+      ]
+    },
+    "substats": [
+      "CRIT Rate",
+      "CRIT DMG",
+      "ATK%",
+      "Elemental Mastery",
+      "Energy Recharge"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C3",
+      "C5"
+    ],
+    "party": [
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Fischl",
+          "Nahida",
+          "Keqing",
+          "Kaedehara Kazuha"
+        ]
+      },
+      {
+        "reaction": "Overload / Hexerei",
+        "members": [
+          "Fischl",
+          "Durin",
+          "Nicole",
+          "Chevreuse"
+        ]
+      },
+      {
+        "reaction": "Electro-Charged",
+        "members": [
+          "Fischl",
+          "Mona",
+          "Beidou",
+          "Jean"
+        ]
+      }
+    ],
+    "notes": [
+      "Golden Troupe is the usual off-field damage set. Hexerei-related team value and support options depend on unlocking the relevant character mechanics."
+    ]
+  },
+  {
+    "name": "Jean",
+    "version": "1.0",
+    "buildVersion": "7.2",
+    "element": "anemo",
+    "weaponType": "sword",
+    "role": [
+      "healer",
+      "Anemo support",
+      "sub-DPS"
+    ],
+    "banner": "https://paimon.moe/images/characters/full/jean.png",
+    "materials": [],
+    "talenta": [],
+    "weapons": [
+      "Freedom-Sworn",
+      "Favonius Sword",
+      "Skyward Blade",
+      "Primordial Jade Cutter",
+      "Amenoma Kageuchi",
+      "Fleuve Cendre Ferryman"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Noblesse Oblige",
+      "Song of Days Past",
+      "Ocean-Hued Clam"
+    ],
+    "mainStats": {
+      "sands": [
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "goblet": [
+        "ATK%",
+        "Anemo DMG Bonus"
+      ],
+      "circlet": [
+        "Healing Bonus",
+        "CRIT Rate",
+        "CRIT DMG"
+      ]
+    },
+    "substats": [
+      "Energy Recharge",
+      "ATK%",
+      "CRIT Rate",
+      "CRIT DMG"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C4",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Sunfire / Vaporize",
+        "members": [
+          "Jean",
+          "Bennett",
+          "Furina",
+          "Xiangling"
+        ]
+      },
+      {
+        "reaction": "Electro-Charged",
+        "members": [
+          "Jean",
+          "Mona",
+          "Fischl",
+          "Beidou"
+        ]
+      },
+      {
+        "reaction": "Superconduct",
+        "members": [
+          "Jean",
+          "Eula",
+          "Raiden Shogun",
+          "Rosaria"
+        ]
+      }
+    ],
+    "notes": [
+      "Viridescent Venerer is the standard elemental RES-shred support set when Jean can Swirl the relevant element.",
+      "Prioritize enough Energy Recharge to use Burst reliably; ATK improves healing."
+    ]
+  },
+  {
+    "name": "Kaeya",
+    "version": "1.0",
+    "buildVersion": "7.2",
+    "element": "cryo",
+    "weaponType": "sword",
+    "role": [
+      "off-field DPS",
+      "on-field DPS"
+    ],
+    "banner": "https://paimon.moe/images/characters/full/kaeya.png",
+    "materials": [],
+    "talenta": [],
+    "weapons": [
+      "Mistsplitter Reforged",
+      "Light of Foliar Incision",
+      "Primordial Jade Cutter",
+      "Haran Geppaku Futsu",
+      "Wolf-Fang",
+      "Favonius Sword",
+      "Amenoma Kageuchi"
+    ],
+    "artifacts": [
+      "Blizzard Strayer",
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Golden Troupe (situational)"
+    ],
+    "mainStats": {
+      "sands": [
+        "ATK%",
+        "Energy Recharge"
+      ],
+      "goblet": [
+        "Cryo DMG Bonus"
+      ],
+      "circlet": [
+        "CRIT DMG",
+        "CRIT Rate"
+      ]
+    },
+    "substats": [
+      "CRIT Rate",
+      "CRIT DMG",
+      "ATK%",
+      "Energy Recharge"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C6",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Kaeya",
+          "Chongyun",
+          "Xingqiu",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Melt",
+        "members": [
+          "Kaeya",
+          "Bennett",
+          "Xiangling",
+          "Chongyun"
+        ]
+      },
+      {
+        "reaction": "Quickswap Cryo",
+        "members": [
+          "Kaeya",
+          "Rosaria",
+          "Bennett",
+          "Xiangling"
+        ]
+      }
+    ],
+    "notes": [
+      "Blizzard Strayer is strongest against enemies that can be Frozen; use a non-Freeze set when fighting bosses or enemies immune to Freeze.",
+      "Freeze builds can overcap CRIT Rate, so account for set and Cryo Resonance bonuses."
+    ]
+  },
+  {
+    "name": "Klee",
+    "version": "1.0",
+    "buildVersion": "7.2",
+    "element": "pyro",
+    "weaponType": "catalyst",
+    "role": [
+      "on-field DPS"
+    ],
+    "banner": "https://paimon.moe/images/characters/full/klee.png",
+    "materials": [],
+    "talenta": [],
+    "weapons": [
+      "Vivid Notions",
+      "Reliquary of Truth",
+      "Cashflow Supervision",
+      "Lost Prayer to the Sacred Winds",
+      "Skyward Atlas",
+      "The Widsith",
+      "Solar Pearl",
+      "Flowing Purity"
+    ],
+    "artifacts": [
+      "Crimson Witch of Flames",
+      "A Day Carved From Rising Winds",
+      "Marechaussee Hunter",
+      "Crimson Witch + ATK% (2pc + 2pc)"
+    ],
+    "mainStats": {
+      "sands": [
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "goblet": [
+        "Pyro DMG Bonus"
+      ],
+      "circlet": [
+        "CRIT Rate",
+        "CRIT DMG"
+      ]
+    },
+    "substats": [
+      "CRIT Rate",
+      "CRIT DMG",
+      "ATK%",
+      "Elemental Mastery",
+      "Energy Recharge"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "E.Burst",
+      "E.Skill"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C4",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Klee",
+          "Furina",
+          "Yelan",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Overload / Hexerei",
+        "members": [
+          "Klee",
+          "Fischl",
+          "Chevreuse",
+          "Durin"
+        ]
+      },
+      {
+        "reaction": "Mono Pyro",
+        "members": [
+          "Klee",
+          "Bennett",
+          "Xiangling",
+          "Kaedehara Kazuha"
+        ]
+      }
+    ],
+    "notes": [
+      "Klee's 2026 Hexerei-related options depend on completing the relevant Witch's Homework condition and team composition.",
+      "Artifact choice varies with team, reaction uptime and weapon."
+    ]
+  },
+  {
+    "name": "Lisa",
+    "version": "1.0",
+    "buildVersion": "7.2",
+    "element": "electro",
+    "weaponType": "catalyst",
+    "role": [
+      "off-field DPS",
+      "support",
+      "on-field Aggravate DPS"
+    ],
+    "banner": "https://paimon.moe/images/characters/full/lisa.png",
+    "materials": [],
+    "talenta": [],
+    "weapons": [
+      "Reliquary of Truth",
+      "The Widsith",
+      "Lost Prayer to the Sacred Winds",
+      "Skyward Atlas",
+      "Kagura's Verity",
+      "Oathsworn Eye",
+      "Favonius Codex",
+      "Hakushin Ring"
+    ],
+    "artifacts": [
+      "Thundering Fury",
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Gilded Dreams",
+      "Celestial Gift"
+    ],
+    "mainStats": {
+      "sands": [
+        "ATK%",
+        "Energy Recharge",
+        "Elemental Mastery"
+      ],
+      "goblet": [
+        "Electro DMG Bonus"
+      ],
+      "circlet": [
+        "CRIT Rate",
+        "CRIT DMG"
+      ]
+    },
+    "substats": [
+      "Energy Recharge",
+      "CRIT Rate",
+      "CRIT DMG",
+      "ATK%",
+      "Elemental Mastery"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C4",
+      "C6",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Lisa",
+          "Nahida",
+          "Fischl",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Electro support",
+        "members": [
+          "Lisa",
+          "Raiden Shogun",
+          "Kujou Sara",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Superconduct support",
+        "members": [
+          "Lisa",
+          "Eula",
+          "Rosaria",
+          "Zhongli"
+        ]
+      }
+    ],
+    "notes": [
+      "Lisa can be built as an Aggravate damage dealer or an off-field support; weapon, sands and artifact set should match the role.",
+      "Energy Recharge is important for consistent Burst uptime."
+    ]
+  },
+  {
+    "name": "Mona",
+    "version": "1.0",
+    "buildVersion": "7.2",
+    "element": "hydro",
+    "weaponType": "catalyst",
+    "role": [
+      "buffer",
+      "Burst DPS",
+      "Hydro support"
+    ],
+    "banner": "https://paimon.moe/images/characters/full/mona.png",
+    "materials": [],
+    "talenta": [],
+    "weapons": [
+      "Thrilling Tales of Dragon Slayers",
+      "Favonius Codex",
+      "Prototype Amber",
+      "The Widsith",
+      "Skyward Atlas",
+      "Lost Prayer to the Sacred Winds",
+      "Hakushin Ring"
+    ],
+    "artifacts": [
+      "Celestial Gift",
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Tenacity of the Millelith",
+      "Heart of Depth"
+    ],
+    "mainStats": {
+      "sands": [
+        "Energy Recharge",
+        "ATK%",
+        "Elemental Mastery"
+      ],
+      "goblet": [
+        "Hydro DMG Bonus"
+      ],
+      "circlet": [
+        "CRIT Rate",
+        "CRIT DMG"
+      ]
+    },
+    "substats": [
+      "Energy Recharge",
+      "CRIT Rate",
+      "CRIT DMG",
+      "ATK%",
+      "Elemental Mastery"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C4",
+      "C2",
+      "C6 (on-field build)"
+    ],
+    "party": [
+      {
+        "reaction": "Freeze / Omen support",
+        "members": [
+          "Mona",
+          "Ganyu",
+          "Venti",
+          "Diona"
+        ]
+      },
+      {
+        "reaction": "Hexerei support",
+        "members": [
+          "Mona",
+          "Durin",
+          "Xingqiu",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Electro-Charged",
+        "members": [
+          "Mona",
+          "Fischl",
+          "Beidou",
+          "Jean"
+        ]
+      }
+    ],
+    "notes": [
+      "For support, prioritize Burst uptime; Thrilling Tales is valuable when buffing an ATK-scaling carry.",
+      "Celestial Gift is a current support option in Hexerei-oriented builds; Emblem remains a strong Burst-damage option."
+    ]
+  }
   ]
 }
