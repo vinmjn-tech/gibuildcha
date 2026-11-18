@@ -7,66 +7,61 @@
       "version": "1.0",
       "element": "pyro",
       "banner": "https://paimon.moe/images/characters/full/amber.png",
-      
       "materials": [
         "Mora (420.000)",
         "Agnidus Agate Sliver (1)",
         "Agnidus Agate Fragment (9)",
         "Agnidus Agate Chunk (9)",
         "Agnidus Agate Gemstone (6)",
-        "Everflame Seed (46)",
         "Small Lamp Grass (168)",
         "Firm Arrowhead (18)",
         "Sharp Arrowhead (30)",
-        "Weathered Arrowhead (36)"
+        "Weathered Arrowhead (36)",
+        "Everflame Seed (46)"
       ],
-      
       "talenta": [
         "Mora (4.957.500)",
-        "Firm Arrowhead (18)",
-        "Sharp Arrowhead (66)",
-        "Weathered Arrowhead (93)",
-        "Crown of Insight (3)",
         "Teachings of Freedom (9)",
         "Guide to Freedom (63)",
         "Philosophies of Freedom (114)",
-        "Dvalins Sigh (18)"
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (66)",
+        "Weathered Arrowhead (93)",
+        "Dvalin's Sigh (18)",
+        "Crown of Insight (3)"
       ],
-      
       "weapons": [
         "Elegy for the End",
-        "Favonius Warbow",
-        "Sacrificial Bow"
+        "The First Great Magic",
+        "Skyward Harp",
+        "Favonius Warbow"
       ],
-      
       "artifacts": [
         "Noblesse Oblige",
-        "Wanderer's Troupe"
+        "Wanderer's Troupe",
+        "Crimson Witch of Flames"
       ],
-      
       "talentPriority": [
         "E.Burst",
         "N.Attack"
       ],
-      
       "constellationPriority": [
         "C1",
         "C2",
-        "C3"
+        "C4"
       ],
-      
       "party": [
         {
           "reaction": "Vaporize",
-          "members": ["Amber", "Xingqiu", "Hu Tao", "Kaedehara Kazuha"]
+          "members": ["Amber", "Xingqiu", "Bennett", "Kaedehara Kazuha"]
         },
         {
-          "reaction": "Pyro",
-          "members": ["Amber", "Bennett", "Kaedehara Kazuha", "Lyney"]
+          "reaction": "Melt",
+          "members": ["Amber", "Rosaria", "Bennett", "Sucrose"]
         },
         {
-          "reaction": "Start Newbie",
-          "members": ["Amber", "Lisa", "Kaeya", "Traveler"]
+          "reaction": "Overload",
+          "members": ["Amber", "Fischl", "Chevreuse", "Bennett"]
         }
       ]
     },
@@ -75,67 +70,59 @@
       "version": "1.0",
       "element": "hydro",
       "banner": "https://paimon.moe/images/characters/full/barbara.png",
-      
       "materials": [
         "Mora (420.000)",
         "Varunada Lazurite Sliver (1)",
         "Varunada Lazurite Fragment (9)",
         "Varunada Lazurite Chunk (9)",
         "Varunada Lazurite Gemstone (6)",
-        "Cleansing Heart (46)",
         "Philanemo Mushroom (168)",
         "Divining Scroll (18)",
         "Sealed Scroll (30)",
-        "Forbidden Curse Scroll (36)"
+        "Forbidden Curse Scroll (36)",
+        "Cleansing Heart (46)"
       ],
-      
       "talenta": [
         "Mora (4.957.500)",
-        "Divining Scroll (18)",
-        "Sealed Scroll (66)",
-        "Forbidden Curse Scroll (93)",
-        "Crown of Insight (3)",
         "Teachings of Freedom (9)",
         "Guide to Freedom (63)",
         "Philosophies of Freedom (114)",
-        "Ring of Boreas (18)"
+        "Divining Scroll (18)",
+        "Sealed Scroll (66)",
+        "Forbidden Curse Scroll (93)",
+        "Ring of Boreas (18)",
+        "Crown of Insight (3)"
       ],
-      
       "weapons": [
         "Thrilling Tales of Dragon Slayers",
-        "Everlasting Moonglow",
-        "Prototype Amber"
+        "Prototype Amber",
+        "Everlasting Moonglow"
       ],
-      
       "artifacts": [
         "Ocean-Hued Clam",
         "Maiden Beloved",
-        "Gilded Dreams"
+        "Noblesse Oblige"
       ],
-      
       "talentPriority": [
         "E.Skill",
         "E.Burst"
       ],
-      
       "constellationPriority": [
-        "C1",
         "C2",
         "C6"
       ],
-      
       "party": [
         {
-          "reaction": "Nilou",
-          "members": ["Barbara", "Nahida", "Nilou", "Furina"]
-        },
-        {
           "reaction": "Bloom",
-          "members": ["Barbara", "Fischl", "Xingqiu", "Kaedehara Kazuha"]
+          "members": ["Barbara", "Nahida", "Nilou", "Collei"]
         },
         {
-          "reaction": "Start Newbie",
-          "members": ["Barbara", "Lisa", "Xingqiu", "Traveler"]
+          "reaction": "Vaporize",
+          "members": ["Barbara", "Xiangling", "Bennett", "Sucrose"]
+        },
+        {
+          "reaction": "Support",
+          "members": ["Barbara", "Furina", "Neuvillette", "Kazuha"]
         }
       ]
     },
@@ -144,75 +131,822 @@
       "version": "1.0",
       "element": "pyro",
       "banner": "https://paimon.moe/images/characters/full/bennett.png",
-      
       "materials": [
         "Mora (420.000)",
         "Agnidus Agate Sliver (1)",
         "Agnidus Agate Fragment (9)",
         "Agnidus Agate Chunk (9)",
         "Agnidus Agate Gemstone (6)",
-        "Everflame Seed (46)",
         "Windwheel Aster (168)",
         "Treasure Hoarder Insignia (18)",
         "Silver Raven Insignia (30)",
-        "Golden Raven Insignia (36)"
+        "Golden Raven Insignia (36)",
+        "Everflame Seed (46)"
       ],
-      
       "talenta": [
         "Mora (4.957.500)",
-        "Treasure Hoarder Insignia (18)",
-        "Silver Raven Insignia (66)",
-        "Golden Raven Insignia (93)",
-        "Crown of Insight (3)",
         "Teachings of Resistance (9)",
         "Guide to Resistance (63)",
         "Philosophies of Resistance (114)",
-        "Dvalin's Plume (18)"
+        "Treasure Hoarder Insignia (18)",
+        "Silver Raven Insignia (66)",
+        "Golden Raven Insignia (93)",
+        "Dvalin's Plume (18)",
+        "Crown of Insight (3)"
       ],
-      
       "weapons": [
         "Mistsplitter Reforged",
         "Aquila Favonia",
         "Skyward Blade",
         "Favonius Sword",
-        "Freedomsworn",
-        "Fleuve Cendre Ferryman"
+        "Sapwood Blade"
       ],
-      
       "artifacts": [
         "Noblesse Oblige",
-        "Emblem of Severed Fate",
-        "Scroll of the Hero of Cinder City"
+        "Instructor"
       ],
-      
       "talentPriority": [
         "E.Burst",
         "E.Skill"
       ],
-      
       "constellationPriority": [
         "C1",
-        "C2",
         "C5",
         "C6"
       ],
-      
       "party": [
         {
           "reaction": "Mavuika",
           "members": ["Bennett", "Mavuika", "Citlali", "Xilonen"]
         },
         {
-          "reaction": "Kinich",
+          "reaction": "Kinich Burning",
           "members": ["Bennett", "Kinich", "Emilie", "Xiangling"]
         },
         {
-          "reaction": "Arlecchino",
-          "members": ["Bennett", "Arlecchino", "Yelan", "Xilonen"]
+          "reaction": "National",
+          "members": ["Bennett", "Raiden Shogun", "Xingqiu", "Xiangling"]
+        }
+      ]
+    },
+    {
+      "name": "Diluc",
+      "version": "1.0",
+      "element": "pyro",
+      "banner": "https://paimon.moe/images/characters/full/diluc.png",
+      "materials": [
+        "Mora (420.000)",
+        "Agnidus Agate Sliver (1)",
+        "Agnidus Agate Fragment (9)",
+        "Agnidus Agate Chunk (9)",
+        "Agnidus Agate Gemstone (6)",
+        "Small Lamp Grass (168)",
+        "Recruit's Insignia (18)",
+        "Sergeant's Insignia (30)",
+        "Lieutenant's Insignia (36)",
+        "Everflame Seed (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Recruit's Insignia (18)",
+        "Sergeant's Insignia (66)",
+        "Lieutenant's Insignia (93)",
+        "Dvalin's Plume (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Beacon of the Reed Sea",
+        "Wolf's Gravestone",
+        "Serpent Spine",
+        "Redhorn Stonethresher",
+        "Prototype Archaic"
+      ],
+      "artifacts": [
+        "Crimson Witch of Flames",
+        "Marechaussee Hunter"
+      ],
+      "talentPriority": [
+        "N.Attack",
+        "E.Skill",
+        "E.Burst"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C4",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Plunge Vaporize",
+          "members": ["Diluc", "Furina", "Xianyun", "Bennett"]
         },
         {
-          "reaction": "Team Rakyat",
-          "members": ["Bennett", "Raiden Shogun", "Xingqiu", "Xiangling"]
+          "reaction": "Vaporize",
+          "members": ["Diluc", "Xingqiu", "Bennett", "Kaedehara Kazuha"]
+        },
+        {
+          "reaction": "Melt",
+          "members": ["Diluc", "Rosaria", "Bennett", "Sucrose"]
+        }
+      ]
+    },
+    {
+      "name": "Fischl",
+      "version": "1.0",
+      "element": "electro",
+      "banner": "https://paimon.moe/images/characters/full/fischl.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vajrada Amethyst Sliver (1)",
+        "Vajrada Amethyst Fragment (9)",
+        "Vajrada Amethyst Chunk (9)",
+        "Vajrada Amethyst Gemstone (6)",
+        "Small Lamp Grass (168)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (30)",
+        "Weathered Arrowhead (36)",
+        "Lightning Prism (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (66)",
+        "Weathered Arrowhead (93)",
+        "Spirit Locket of Boreas (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "The Stringless",
+        "Polar Star",
+        "Aqua Simulacra",
+        "Skyward Harp",
+        "Alley Hunter"
+      ],
+      "artifacts": [
+        "Golden Troupe",
+        "Thundering Fury"
+      ],
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst",
+        "N.Attack"
+      ],
+      "constellationPriority": [
+        "C6",
+        "C3",
+        "C5"
+      ],
+      "party": [
+        {
+          "reaction": "Aggravate",
+          "members": ["Fischl", "Keqing", "Nahida", "Kazuha"]
+        },
+        {
+          "reaction": "Aggravate",
+          "members": ["Fischl", "Alhaitham", "Nahida", "Zhongli"]
+        },
+        {
+          "reaction": "Overload",
+          "members": ["Fischl", "Chevreuse", "Bennett", "Beidou"]
+        }
+      ]
+    },
+    {
+      "name": "Jean",
+      "version": "1.0",
+      "element": "anemo",
+      "banner": "https://paimon.moe/images/characters/full/jean.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vayuda Turquoise Sliver (1)",
+        "Vayuda Turquoise Fragment (9)",
+        "Vayuda Turquoise Chunk (9)",
+        "Vayuda Turquoise Gemstone (6)",
+        "Dandelion Seed (168)",
+        "Damaged Mask (18)",
+        "Stained Mask (30)",
+        "Ominous Mask (36)",
+        "Hurricane Seed (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Damaged Mask (18)",
+        "Stained Mask (66)",
+        "Ominous Mask (93)",
+        "Dvalin's Plume (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Favonius Sword",
+        "Amenoma Kageuchi",
+        "Freedom-Sworn",
+        "Skyward Blade"
+      ],
+      "artifacts": [
+        "Viridescent Venerer",
+        "Noblesse Oblige",
+        "Song of Days Past"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C4",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Furina team",
+          "members": ["Jean", "Furina", "Raiden Shogun", "Yelan"]
+        },
+        {
+          "reaction": "Sunfire",
+          "members": ["Jean", "Bennett", "Furina", "Xiangling"]
+        },
+        {
+          "reaction": "Xiao support",
+          "members": ["Jean", "Xiao", "Faruzan", "Zhongli"]
+        }
+      ]
+    },
+    {
+      "name": "Kaeya",
+      "version": "1.0",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/kaeya.png",
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Calla Lily (168)",
+        "Treasure Hoarder Insignia (18)",
+        "Silver Raven Insignia (30)",
+        "Golden Raven Insignia (36)",
+        "Hoarfrost Core (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Treasure Hoarder Insignia (18)",
+        "Silver Raven Insignia (66)",
+        "Golden Raven Insignia (93)",
+        "Spirit Locket of Boreas (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Mistsplitter Reforged",
+        "Primordial Jade Cutter",
+        "Haran Geppaku Futsu",
+        "Favonius Sword"
+      ],
+      "artifacts": [
+        "Blizzard Strayer",
+        "Emblem of Severed Fate",
+        "Noblesse Oblige"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill",
+        "N.Attack"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C6",
+        "C1"
+      ],
+      "party": [
+        {
+          "reaction": "Freeze",
+          "members": ["Kaeya", "Chongyun", "Xingqiu", "Sucrose"]
+        },
+        {
+          "reaction": "Melt",
+          "members": ["Kaeya", "Bennett", "Xiangling", "Chongyun"]
+        },
+        {
+          "reaction": "Reverse Melt",
+          "members": ["Kaeya", "Rosaria", "Bennett", "Xiangling"]
+        }
+      ]
+    },
+    {
+      "name": "Klee",
+      "version": "1.0",
+      "element": "pyro",
+      "banner": "https://paimon.moe/images/characters/full/klee.png",
+      "materials": [
+        "Mora (420.000)",
+        "Agnidus Agate Sliver (1)",
+        "Agnidus Agate Fragment (9)",
+        "Agnidus Agate Chunk (9)",
+        "Agnidus Agate Gemstone (6)",
+        "Philanemo Mushroom (168)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (30)",
+        "Forbidden Curse Scroll (36)",
+        "Everflame Seed (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Freedom (9)",
+        "Guide to Freedom (63)",
+        "Philosophies of Freedom (114)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (66)",
+        "Forbidden Curse Scroll (93)",
+        "Ring of Boreas (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Lost Prayer to the Sacred Winds",
+        "The Widsith",
+        "Skyward Atlas",
+        "Dodoco Tales"
+      ],
+      "artifacts": [
+        "Crimson Witch of Flames",
+        "Marechaussee Hunter",
+        "Wanderer's Troupe"
+      ],
+      "talentPriority": [
+        "N.Attack",
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C4",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Hexerei",
+          "members": ["Klee", "Durin", "Sucrose", "Prune"]
+        },
+        {
+          "reaction": "Vaporize",
+          "members": ["Klee", "Xingqiu", "Yelan", "Bennett"]
+        },
+        {
+          "reaction": "Mono Pyro",
+          "members": ["Klee", "Xiangling", "Kaedehara Kazuha", "Bennett"]
+        }
+      ]
+    },
+    {
+      "name": "Lisa",
+      "version": "1.0",
+      "element": "electro",
+      "banner": "https://paimon.moe/images/characters/full/lisa.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vajrada Amethyst Sliver (1)",
+        "Vajrada Amethyst Fragment (9)",
+        "Vajrada Amethyst Chunk (9)",
+        "Vajrada Amethyst Gemstone (6)",
+        "Valberry (168)",
+        "Slime Condensate (18)",
+        "Slime Secretions (30)",
+        "Slime Concentrate (36)",
+        "Lightning Prism (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Slime Condensate (18)",
+        "Slime Secretions (66)",
+        "Slime Concentrate (93)",
+        "Dvalin's Claw (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Kagura's Verity",
+        "The Widsith",
+        "Lost Prayer to the Sacred Winds",
+        "Hakushin Ring"
+      ],
+      "artifacts": [
+        "Thundering Fury",
+        "Gilded Dreams",
+        "Emblem of Severed Fate"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill",
+        "N.Attack"
+      ],
+      "constellationPriority": [
+        "C4",
+        "C6",
+        "C3"
+      ],
+      "party": [
+        {
+          "reaction": "Aggravate",
+          "members": ["Lisa", "Fischl", "Nahida", "Zhongli"]
+        },
+        {
+          "reaction": "Aggravate",
+          "members": ["Lisa", "Fischl", "Yaoyao", "Kaedehara Kazuha"]
+        },
+        {
+          "reaction": "Superconduct",
+          "members": ["Lisa", "Eula", "Rosaria", "Diona"]
+        }
+      ]
+    },
+    {
+      "name": "Mona",
+      "version": "1.0",
+      "element": "hydro",
+      "banner": "https://paimon.moe/images/characters/full/mona.png",
+      "materials": [
+        "Mora (420.000)",
+        "Varunada Lazurite Sliver (1)",
+        "Varunada Lazurite Fragment (9)",
+        "Varunada Lazurite Chunk (9)",
+        "Varunada Lazurite Gemstone (6)",
+        "Philanemo Mushroom (168)",
+        "Whopperflower Nectar (18)",
+        "Shimmering Nectar (30)",
+        "Energy Nectar (36)",
+        "Cleansing Heart (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Whopperflower Nectar (18)",
+        "Shimmering Nectar (66)",
+        "Energy Nectar (93)",
+        "Ring of Boreas (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Thrilling Tales of Dragon Slayers",
+        "Favonius Codex",
+        "The Widsith",
+        "Skyward Atlas"
+      ],
+      "artifacts": [
+        "Noblesse Oblige",
+        "Emblem of Severed Fate",
+        "Tenacity of the Millelith"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C4",
+        "C2"
+      ],
+      "party": [
+        {
+          "reaction": "Freeze",
+          "members": ["Mona", "Ganyu", "Diona", "Venti"]
+        },
+        {
+          "reaction": "Vaporize",
+          "members": ["Mona", "Xiangling", "Bennett", "Sucrose"]
+        },
+        {
+          "reaction": "Electro-Charged",
+          "members": ["Mona", "Beidou", "Fischl", "Sucrose"]
+        }
+      ]
+    },
+    {
+      "name": "Noelle",
+      "version": "1.0",
+      "element": "geo",
+      "banner": "https://paimon.moe/images/characters/full/noelle.png",
+      "materials": [
+        "Mora (420.000)",
+        "Prithiva Topaz Sliver (1)",
+        "Prithiva Topaz Fragment (9)",
+        "Prithiva Topaz Chunk (9)",
+        "Prithiva Topaz Gemstone (6)",
+        "Valberry (168)",
+        "Damaged Mask (18)",
+        "Stained Mask (30)",
+        "Ominous Mask (36)",
+        "Basalt Pillar (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Damaged Mask (18)",
+        "Stained Mask (66)",
+        "Ominous Mask (93)",
+        "Dvalin's Claw (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Redhorn Stonethresher",
+        "Serpent Spine",
+        "Whiteblind",
+        "Favonius Greatsword"
+      ],
+      "artifacts": [
+        "Husk of Opulent Dreams",
+        "Marechaussee Hunter"
+      ],
+      "talentPriority": [
+        "N.Attack",
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C6",
+        "C5"
+      ],
+      "party": [
+        {
+          "reaction": "Mono Geo",
+          "members": ["Noelle", "Gorou", "Albedo", "Yun Jin"]
+        },
+        {
+          "reaction": "Lunar Crystallize",
+          "members": ["Noelle", "Zibai", "Columbina", "Illuga"]
+        },
+        {
+          "reaction": "Double Hydro",
+          "members": ["Noelle", "Furina", "Yelan", "Gorou"]
+        }
+      ]
+    },
+    {
+      "name": "Razor",
+      "version": "1.0",
+      "element": "electro",
+      "banner": "https://paimon.moe/images/characters/full/razor.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vajrada Amethyst Sliver (1)",
+        "Vajrada Amethyst Fragment (9)",
+        "Vajrada Amethyst Chunk (9)",
+        "Vajrada Amethyst Gemstone (6)",
+        "Wolfhook (168)",
+        "Damaged Mask (18)",
+        "Stained Mask (30)",
+        "Ominous Mask (36)",
+        "Lightning Prism (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Damaged Mask (18)",
+        "Stained Mask (66)",
+        "Ominous Mask (93)",
+        "Dvalin's Claw (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Wolf's Gravestone",
+        "Serpent Spine",
+        "Beacon of the Reed Sea",
+        "Snow-Tombed Starsilver"
+      ],
+      "artifacts": [
+        "Gilded Dreams",
+        "Pale Flame",
+        "Thundering Fury"
+      ],
+      "talentPriority": [
+        "N.Attack",
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C4",
+        "C6",
+        "C2"
+      ],
+      "party": [
+        {
+          "reaction": "Physical",
+          "members": ["Razor", "Fischl", "Diona", "Rosaria"]
+        },
+        {
+          "reaction": "Thundering Furry",
+          "members": ["Razor", "Xingqiu", "Nahida", "Bennett"]
+        },
+        {
+          "reaction": "Overload",
+          "members": ["Razor", "Fischl", "Chevreuse", "Bennett"]
+        }
+      ]
+    },
+    {
+      "name": "Sucrose",
+      "version": "1.0",
+      "element": "anemo",
+      "banner": "https://paimon.moe/images/characters/full/sucrose.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vayuda Turquoise Sliver (1)",
+        "Vayuda Turquoise Fragment (9)",
+        "Vayuda Turquoise Chunk (9)",
+        "Vayuda Turquoise Gemstone (6)",
+        "Windwheel Aster (168)",
+        "Whopperflower Nectar (18)",
+        "Shimmering Nectar (30)",
+        "Energy Nectar (36)",
+        "Hurricane Seed (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Freedom (9)",
+        "Guide to Freedom (63)",
+        "Philosophies of Freedom (114)",
+        "Whopperflower Nectar (18)",
+        "Shimmering Nectar (66)",
+        "Energy Nectar (93)",
+        "Spirit Locket of Boreas (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Sacrificial Fragments",
+        "A Thousand Floating Dreams",
+        "Thrilling Tales of Dragon Slayers",
+        "Favonius Codex"
+      ],
+      "artifacts": [
+        "Viridescent Venerer",
+        "Instructor"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C6",
+        "C2"
+      ],
+      "party": [
+        {
+          "reaction": "National",
+          "members": ["Sucrose", "Xingqiu", "Xiangling", "Bennett"]
+        },
+        {
+          "reaction": "Taser",
+          "members": ["Sucrose", "Xingqiu", "Beidou", "Fischl"]
+        },
+        {
+          "reaction": "Aggravate",
+          "members": ["Sucrose", "Fischl", "Beidou", "Dendro Traveler"]
+        }
+      ]
+    },
+    {
+      "name": "Venti",
+      "version": "1.0",
+      "element": "anemo",
+      "banner": "https://paimon.moe/images/characters/full/venti.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vayuda Turquoise Sliver (1)",
+        "Vayuda Turquoise Fragment (9)",
+        "Vayuda Turquoise Chunk (9)",
+        "Vayuda Turquoise Gemstone (6)",
+        "Cecilia (168)",
+        "Slime Condensate (18)",
+        "Slime Secretions (30)",
+        "Slime Concentrate (36)",
+        "Hurricane Seed (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Slime Condensate (18)",
+        "Slime Secretions (66)",
+        "Slime Concentrate (93)",
+        "Tail of Boreas (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Elegy for the End",
+        "The Stringless",
+        "Favonius Warbow",
+        "Skyward Harp"
+      ],
+      "artifacts": [
+        "Viridescent Venerer",
+        "Elegy-support build"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C4",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Freeze",
+          "members": ["Venti", "Ayaka", "Kokomi", "Shenhe"]
+        },
+        {
+          "reaction": "Morgana",
+          "members": ["Venti", "Ganyu", "Mona", "Diona"]
+        },
+        {
+          "reaction": "Hexerei",
+          "members": ["Venti", "Durin", "Nicole", "Prune"]
+        }
+      ]
+    },
+    {
+      "name": "Diona",
+      "version": "1.1",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/diona.png",
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Calla Lily (168)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (30)",
+        "Weathered Arrowhead (36)",
+        "Hoarfrost Core (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Freedom (9)",
+        "Guide to Freedom (63)",
+        "Philosophies of Freedom (114)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (66)",
+        "Weathered Arrowhead (93)",
+        "Shard of a Foul Legacy (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Elegy for the End",
+        "Favonius Warbow",
+        "Sacrificial Bow",
+        "Recurve Bow"
+      ],
+      "artifacts": [
+        "Noblesse Oblige",
+        "Tenacity of the Millelith",
+        "2pc HP sets"
+      ],
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C5",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Freeze",
+          "members": ["Diona", "Ayaka", "Mona", "Venti"]
+        },
+        {
+          "reaction": "Physical",
+          "members": ["Diona", "Eula", "Raiden Shogun", "Rosaria"]
+        },
+        {
+          "reaction": "Varka support",
+          "members": ["Diona", "Varka", "Prune", "Durin"]
         }
       ]
     },
@@ -221,82 +955,55 @@
       "version": "1.2",
       "element": "geo",
       "banner": "https://paimon.moe/images/characters/full/albedo.png",
-      
       "materials": [
         "Mora (420.000)",
         "Prithiva Topaz Sliver (1)",
         "Prithiva Topaz Fragment (9)",
         "Prithiva Topaz Chunk (9)",
         "Prithiva Topaz Gemstone (6)",
-        "Basalt Pillar (46)",
         "Cecilia (168)",
         "Divining Scroll (18)",
         "Sealed Scroll (30)",
-        "Forbidden Curse Scroll (36)"
+        "Forbidden Curse Scroll (36)",
+        "Basalt Pillar (46)"
       ],
-      
       "talenta": [
         "Mora (4.957.500)",
-        "Divining Scroll (18)",
-        "Sealed Scroll (66)",
-        "Forbidden Curse Scroll (93)",
-        "Crown of Insight (3)",
         "Teachings of Ballad (9)",
         "Guide to Ballad (63)",
         "Philosophies of Ballad (114)",
-        "Tusk of Monoceros Caeli (18)"
+        "Divining Scroll (18)",
+        "Sealed Scroll (66)",
+        "Forbidden Curse Scroll (93)",
+        "Tusk of Monoceros Caeli (18)",
+        "Crown of Insight (3)"
       ],
-      
       "weapons": [
         "Uraku Misugiri",
-        "Lightbearing Moonshard",
-        "Primordial Jade Cutter",
-        "Peak Patrol Song",
-        "Wolf-Fang",
         "Cinnabar Spindle",
-        "Flute of Ezpitzal",
+        "Primordial Jade Cutter",
         "Harbinger of Dawn"
       ],
-      
       "artifacts": [
-        "Golden Troupe",
-        "Husk of Opulent Dreams"
+        "Husk of Opulent Dreams",
+        "Golden Troupe"
       ],
-      
       "talentPriority": [
         "E.Skill",
         "E.Burst"
       ],
-      
       "constellationPriority": [
-        "C1",
         "C2",
-        "C3"
+        "C3",
+        "C6"
       ],
-      
       "party": [
         {
-          "reaction": "Navia I",
-          "members": ["Albedo", "Navia", "Durin", "Bennett"]
+          "reaction": "Navia",
+          "members": ["Albedo", "Navia", "Bennett", "Xiangling"]
         },
         {
-          "reaction": "Klee II",
-          "members": ["Albedo", "Klee", "Yelan", "Bennett"]
-        },
-        {
-          "reaction": "Lunar III",
-          "members": ["Albedo", "Venti", "Columbina", "Ineffa"]
-        },
-        {
-          "reaction": "Free Team",
-          "members": ["Albedo", "Razor", "Fischl", "Bennett"]
-        },
-        {
-          "reaction": "Free Team II",
-          "members": ["Albedo", "Noelle", "Gorou", "Yun Jin"]
-        },
-        {
-          "reaction": "Mona-Geo",
+          "reaction": "Mono Geo",
           "members": ["Albedo", "Arataki Itto", "Gorou", "Zhongli"]
         },
         {
@@ -305,632 +1012,512 @@
         }
       ]
     },
-    
-  {
-    "name": "Diluc",
-    "version": "1.0",
-    "element": "pyro",
-    "banner": "https://paimon.moe/images/characters/full/diluc.png",
-    "materials": [
-      "Mora (420.000)",
-      "Agnidus Agate Sliver (1)",
-      "Agnidus Agate Fragment (9)",
-      "Agnidus Agate Chunk (9)",
-      "Agnidus Agate Gemstone (6)",
-      "Everflame Seed (46)",
-      "Small Lamp Grass (168)",
-      "Recruit's Insignia (18)",
-      "Sergeant's Insignia (30)",
-      "Lieutenant's Insignia (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Recruit's Insignia (18)",
-      "Sergeant's Insignia (66)",
-      "Lieutenant's Insignia (93)",
-      "Crown of Insight (3)",
-      "Teachings of Resistance (9)",
-      "Guide to Resistance (63)",
-      "Philosophies of Resistance (114)",
-      "Dvalin's Plume (18)"
-    ],
-    "weapons": [
-      "A Thousand Blazing Suns",
-      "Wolf's Gravestone",
-      "Serpent Spine",
-      "Beacon of the Reed Sea",
-      "Redhorn Stonethresher",
-      "Prototype Archaic"
-    ],
-    "artifacts": [
-      "Crimson Witch of Flames",
-      "Marechaussee Hunter",
-      "Crimson Witch of Flames"
-    ],
-    "talentPriority": [
-      "Normal Attack",
-      "E.Skill",
-      "E.Burst"
-    ],
-    "constellationPriority": [
-      "C1",
-      "C2",
-      "C4",
-      "C6"
-    ],
-    "party": [
-      {
-        "reaction": "Plunge Vaporize",
-        "members": [
-          "Diluc",
-          "Furina",
-          "Xianyun",
-          "Bennett"
-        ]
-      },
-      {
-        "reaction": "Vaporize",
-        "members": [
-          "Diluc",
-          "Xingqiu",
-          "Bennett",
-          "Kaedehara Kazuha"
-        ]
-      },
-      {
-        "reaction": "Melt",
-        "members": [
-          "Diluc",
-          "Rosaria",
-          "Bennett",
-          "Sucrose"
-        ]
-      },
-      {
-        "reaction": "Overload",
-        "members": [
-          "Diluc",
-          "Fischl",
-          "Chevreuse",
-          "Bennett"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Fischl",
-    "version": "1.0",
-    "element": "electro",
-    "banner": "https://paimon.moe/images/characters/full/fischl.png",
-    "materials": [
-      "Mora (420.000)",
-      "Vajrada Amethyst Sliver (1)",
-      "Vajrada Amethyst Fragment (9)",
-      "Vajrada Amethyst Chunk (9)",
-      "Vajrada Amethyst Gemstone (6)",
-      "Lightning Prism (46)",
-      "Small Lamp Grass (168)",
-      "Firm Arrowhead (18)",
-      "Sharp Arrowhead (30)",
-      "Weathered Arrowhead (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Firm Arrowhead (18)",
-      "Sharp Arrowhead (66)",
-      "Weathered Arrowhead (93)",
-      "Crown of Insight (3)",
-      "Teachings of Ballad (9)",
-      "Guide to Ballad (63)",
-      "Philosophies of Ballad (114)",
-      "Spirit Locket of Boreas (18)"
-    ],
-    "weapons": [
-      "Polar Star",
-      "Aqua Simulacra",
-      "Skyward Harp",
-      "Elegy for the End",
-      "The Stringless",
-      "Alley Hunter",
-      "Mitternachts Waltz"
-    ],
-    "artifacts": [
-      "Golden Troupe",
-      "Thundering Fury",
-      "Golden Troupe"
-    ],
-    "talentPriority": [
-      "E.Skill",
-      "E.Burst",
-      "Normal Attack"
-    ],
-    "constellationPriority": [
-      "C6",
-      "C3",
-      "C5"
-    ],
-    "party": [
-      {
-        "reaction": "Aggravate",
-        "members": [
-          "Fischl",
-          "Keqing",
-          "Nahida",
-          "Kaedehara Kazuha"
-        ]
-      },
-      {
-        "reaction": "Aggravate",
-        "members": [
-          "Fischl",
-          "Alhaitham",
-          "Nahida",
-          "Zhongli"
-        ]
-      },
-      {
-        "reaction": "Overload",
-        "members": [
-          "Fischl",
-          "Chevreuse",
-          "Bennett",
-          "Beidou"
-        ]
-      },
-      {
-        "reaction": "Electro-Charged",
-        "members": [
-          "Fischl",
-          "Mona",
-          "Beidou",
-          "Sucrose"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Jean",
-    "version": "1.0",
-    "element": "anemo",
-    "banner": "https://paimon.moe/images/characters/full/jean.png",
-    "materials": [
-      "Mora (420.000)",
-      "Vayuda Turquoise Sliver (1)",
-      "Vayuda Turquoise Fragment (9)",
-      "Vayuda Turquoise Chunk (9)",
-      "Vayuda Turquoise Gemstone (6)",
-      "Hurricane Seed (46)",
-      "Dandelion Seed (168)",
-      "Damaged Mask (18)",
-      "Stained Mask (30)",
-      "Ominous Mask (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Damaged Mask (18)",
-      "Stained Mask (66)",
-      "Ominous Mask (93)",
-      "Crown of Insight (3)",
-      "Teachings of Resistance (9)",
-      "Guide to Resistance (63)",
-      "Philosophies of Resistance (114)",
-      "Dvalin's Plume (18)"
-    ],
-    "weapons": [
-      "Freedom-Sworn",
-      "Primordial Jade Cutter",
-      "Favonius Sword",
-      "Aquila Favonia",
-      "Skyward Blade",
-      "Amenoma Kageuchi"
-    ],
-    "artifacts": [
-      "Viridescent Venerer",
-      "Noblesse Oblige",
-      "Song of Days Past"
-    ],
-    "talentPriority": [
-      "E.Burst",
-      "E.Skill",
-      "Normal Attack"
-    ],
-    "constellationPriority": [
-      "C2",
-      "C4",
-      "C6"
-    ],
-    "party": [
-      {
-        "reaction": "Furina Support",
-        "members": [
-          "Jean",
-          "Furina",
-          "Raiden Shogun",
-          "Yelan"
-        ]
-      },
-      {
-        "reaction": "Sunfire",
-        "members": [
-          "Jean",
-          "Bennett",
-          "Furina",
-          "Xiangling"
-        ]
-      },
-      {
-        "reaction": "Xiao Support",
-        "members": [
-          "Jean",
-          "Xiao",
-          "Faruzan",
-          "Zhongli"
-        ]
-      },
-      {
-        "reaction": "Vaporize",
-        "members": [
-          "Jean",
-          "Tartaglia",
-          "Xiangling",
-          "Bennett"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Kaeya",
-    "version": "1.0",
-    "element": "cryo",
-    "banner": "https://paimon.moe/images/characters/full/kaeya.png",
-    "materials": [
-      "Mora (420.000)",
-      "Shivada Jade Sliver (1)",
-      "Shivada Jade Fragment (9)",
-      "Shivada Jade Chunk (9)",
-      "Shivada Jade Gemstone (6)",
-      "Hoarfrost Core (46)",
-      "Calla Lily (168)",
-      "Treasure Hoarder Insignia (18)",
-      "Silver Raven Insignia (30)",
-      "Golden Raven Insignia (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Treasure Hoarder Insignia (18)",
-      "Silver Raven Insignia (66)",
-      "Golden Raven Insignia (93)",
-      "Crown of Insight (3)",
-      "Teachings of Ballad (9)",
-      "Guide to Ballad (63)",
-      "Philosophies of Ballad (114)",
-      "Spirit Locket of Boreas (18)"
-    ],
-    "weapons": [
-      "Mistsplitter Reforged",
-      "Freedom-Sworn",
-      "Primordial Jade Cutter",
-      "Haran Geppaku Futsu",
-      "Favonius Sword",
-      "Sacrificial Sword"
-    ],
-    "artifacts": [
-      "Blizzard Strayer",
-      "Emblem of Severed Fate",
-      "Noblesse Oblige"
-    ],
-    "talentPriority": [
-      "E.Burst",
-      "E.Skill",
-      "Normal Attack"
-    ],
-    "constellationPriority": [
-      "C2",
-      "C6",
-      "C1"
-    ],
-    "party": [
-      {
-        "reaction": "Freeze",
-        "members": [
-          "Kaeya",
-          "Chongyun",
-          "Xingqiu",
-          "Sucrose"
-        ]
-      },
-      {
-        "reaction": "Melt",
-        "members": [
-          "Kaeya",
-          "Bennett",
-          "Xiangling",
-          "Chongyun"
-        ]
-      },
-      {
-        "reaction": "Quickswap Cryo",
-        "members": [
-          "Kaeya",
-          "Rosaria",
-          "Bennett",
-          "Xiangling"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Klee",
-    "version": "1.0",
-    "element": "pyro",
-    "banner": "https://paimon.moe/images/characters/full/klee.png",
-    "materials": [
-      "Mora (420.000)",
-      "Agnidus Agate Sliver (1)",
-      "Agnidus Agate Fragment (9)",
-      "Agnidus Agate Chunk (9)",
-      "Agnidus Agate Gemstone (6)",
-      "Everflame Seed (46)",
-      "Philanemo Mushroom (168)",
-      "Divining Scroll (18)",
-      "Sealed Scroll (30)",
-      "Forbidden Curse Scroll (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Divining Scroll (18)",
-      "Sealed Scroll (66)",
-      "Forbidden Curse Scroll (93)",
-      "Crown of Insight (3)",
-      "Teachings of Freedom (9)",
-      "Guide to Freedom (63)",
-      "Philosophies of Freedom (114)",
-      "Ring of Boreas (18)"
-    ],
-    "weapons": [
-      "Lost Prayer to the Sacred Winds",
-      "The Widsith",
-      "Tome of the Eternal Flow",
-      "Cashflow Supervision",
-      "Skyward Atlas",
-      "Flowing Purity",
-      "Dodoco Tales"
-    ],
-    "artifacts": [
-      "Crimson Witch of Flames",
-      "Marechaussee Hunter",
-      "Crimson Witch of Flames"
-    ],
-    "talentPriority": [
-      "Normal Attack",
-      "E.Burst",
-      "E.Skill"
-    ],
-    "constellationPriority": [
-      "C2",
-      "C4",
-      "C6"
-    ],
-    "party": [
-      {
-        "reaction": "Hexerei",
-        "members": [
-          "Klee",
-          "Durin",
-          "Sucrose",
-          "Nicole"
-        ]
-      },
-      {
-        "reaction": "Overload",
-        "members": [
-          "Klee",
-          "Fischl",
-          "Chevreuse",
-          "Bennett"
-        ]
-      },
-      {
-        "reaction": "Vaporize",
-        "members": [
-          "Klee",
-          "Xingqiu",
-          "Kazuha",
-          "Bennett"
-        ]
-      },
-      {
-        "reaction": "Mono Pyro",
-        "members": [
-          "Klee",
-          "Xiangling",
-          "Kaedehara Kazuha",
-          "Bennett"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Lisa",
-    "version": "1.0",
-    "element": "electro",
-    "banner": "https://paimon.moe/images/characters/full/lisa.png",
-    "materials": [
-      "Mora (420.000)",
-      "Vajrada Amethyst Sliver (1)",
-      "Vajrada Amethyst Fragment (9)",
-      "Vajrada Amethyst Chunk (9)",
-      "Vajrada Amethyst Gemstone (6)",
-      "Lightning Prism (46)",
-      "Valberry (168)",
-      "Slime Condensate (18)",
-      "Slime Secretions (30)",
-      "Slime Concentrate (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Slime Condensate (18)",
-      "Slime Secretions (66)",
-      "Slime Concentrate (93)",
-      "Crown of Insight (3)",
-      "Teachings of Ballad (9)",
-      "Guide to Ballad (63)",
-      "Philosophies of Ballad (114)",
-      "Dvalin's Claw (18)"
-    ],
-    "weapons": [
-      "Kagura's Verity",
-      "The Widsith",
-      "Lost Prayer to the Sacred Winds",
-      "Skyward Atlas",
-      "Solar Pearl",
-      "Hakushin Ring",
-      "Mappa Mare"
-    ],
-    "artifacts": [
-      "Thundering Fury",
-      "Emblem of Severed Fate",
-      "Noblesse Oblige",
-      "Gilded Dreams"
-    ],
-    "talentPriority": [
-      "E.Burst",
-      "E.Skill",
-      "Normal Attack"
-    ],
-    "constellationPriority": [
-      "C4",
-      "C6",
-      "C3"
-    ],
-    "party": [
-      {
-        "reaction": "Aggravate",
-        "members": [
-          "Lisa",
-          "Fischl",
-          "Nahida",
-          "Zhongli"
-        ]
-      },
-      {
-        "reaction": "Aggravate",
-        "members": [
-          "Lisa",
-          "Fischl",
-          "Yaoyao",
-          "Kaedehara Kazuha"
-        ]
-      },
-      {
-        "reaction": "Electro Support",
-        "members": [
-          "Lisa",
-          "Raiden Shogun",
-          "Kujou Sara",
-          "Bennett"
-        ]
-      },
-      {
-        "reaction": "Superconduct",
-        "members": [
-          "Lisa",
-          "Eula",
-          "Rosaria",
-          "Diona"
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Mona",
-    "version": "1.0",
-    "element": "hydro",
-    "banner": "https://paimon.moe/images/characters/full/mona.png",
-    "materials": [
-      "Mora (420.000)",
-      "Varunada Lazurite Sliver (1)",
-      "Varunada Lazurite Fragment (9)",
-      "Varunada Lazurite Chunk (9)",
-      "Varunada Lazurite Gemstone (6)",
-      "Cleansing Heart (46)",
-      "Philanemo Mushroom (168)",
-      "Whopperflower Nectar (18)",
-      "Shimmering Nectar (30)",
-      "Energy Nectar (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Whopperflower Nectar (18)",
-      "Shimmering Nectar (66)",
-      "Energy Nectar (93)",
-      "Crown of Insight (3)",
-      "Teachings of Resistance (9)",
-      "Guide to Resistance (63)",
-      "Philosophies of Resistance (114)",
-      "Ring of Boreas (18)"
-    ],
-    "weapons": [
-      "Thrilling Tales of Dragon Slayers",
-      "Favonius Codex",
-      "Prototype Amber",
-      "The Widsith",
-      "Lost Prayer to the Sacred Winds",
-      "Skyward Atlas"
-    ],
-    "artifacts": [
-      "Noblesse Oblige",
-      "Emblem of Severed Fate",
-      "Tenacity of the Millelith"
-    ],
-    "talentPriority": [
-      "E.Burst",
-      "E.Skill",
-      "Normal Attack"
-    ],
-    "constellationPriority": [
-      "C1",
-      "C4",
-      "C2"
-    ],
-    "party": [
-      {
-        "reaction": "Freeze",
-        "members": [
-          "Mona",
-          "Ganyu",
-          "Layla",
-          "Venti"
-        ]
-      },
-      {
-        "reaction": "Hexerei",
-        "members": [
-          "Mona",
-          "Durin",
-          "Bennett",
-          "Kaedehara Kazuha"
-        ]
-      },
-      {
-        "reaction": "Vaporize",
-        "members": [
-          "Mona",
-          "Xiangling",
-          "Bennett",
-          "Xianyun"
-        ]
-      },
-      {
-        "reaction": "Electro-Charged",
-        "members": [
-          "Mona",
-          "Beidou",
-          "Fischl",
-          "Sucrose"
-        ]
-      }
-    ]
-  }
+    {
+      "name": "Rosaria",
+      "version": "1.4",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/rosaria.png",
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Valberry (168)",
+        "Recruit's Insignia (18)",
+        "Sergeant's Insignia (30)",
+        "Lieutenant's Insignia (36)",
+        "Hoarfrost Core (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Recruit's Insignia (18)",
+        "Sergeant's Insignia (66)",
+        "Lieutenant's Insignia (93)",
+        "Shadow of the Warrior (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Staff of Homa",
+        "Primordial Jade Winged-Spear",
+        "The Catch",
+        "Favonius Lance"
+      ],
+      "artifacts": [
+        "Noblesse Oblige",
+        "Emblem of Severed Fate",
+        "Blizzard Strayer"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Reverse Melt",
+          "members": ["Rosaria", "Kaeya", "Bennett", "Xiangling"]
+        },
+        {
+          "reaction": "Freeze",
+          "members": ["Rosaria", "Ayaka", "Kokomi", "Kazuha"]
+        },
+        {
+          "reaction": "Physical",
+          "members": ["Rosaria", "Eula", "Fischl", "Mika"]
+        }
+      ]
+    },
+    {
+      "name": "Eula",
+      "version": "1.5",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/eula.png",
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Dandelion Seed (168)",
+        "Damaged Mask (18)",
+        "Stained Mask (30)",
+        "Ominous Mask (36)",
+        "Crystalline Bloom (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Damaged Mask (18)",
+        "Stained Mask (66)",
+        "Ominous Mask (93)",
+        "Dragon Lord's Crown (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Song of Broken Pines",
+        "Beacon of the Reed Sea",
+        "Serpent Spine",
+        "Snow-Tombed Starsilver"
+      ],
+      "artifacts": [
+        "Pale Flame",
+        "2pc Pale Flame + 2pc Bloodstained Chivalry"
+      ],
+      "talentPriority": [
+        "N.Attack",
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Physical",
+          "members": ["Eula", "Raiden Shogun", "Mika", "Rosaria"]
+        },
+        {
+          "reaction": "Double Cryo",
+          "members": ["Eula", "Fischl", "Diona", "Rosaria"]
+        },
+        {
+          "reaction": "Hypercarry",
+          "members": ["Eula", "Raiden Shogun", "Bennett", "Mika"]
+        }
+      ]
+    },
+    {
+      "name": "Mika",
+      "version": "3.5",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/mika.png",
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Wolfhook (168)",
+        "Recruit's Insignia (18)",
+        "Sergeant's Insignia (30)",
+        "Lieutenant's Insignia (36)",
+        "Pseudo-Stamens (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Recruit's Insignia (18)",
+        "Sergeant's Insignia (66)",
+        "Lieutenant's Insignia (93)",
+        "Mirror of Mushin (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Favonius Lance",
+        "Rightful Reward",
+        "Prototype Starglitter",
+        "Engulfing Lightning"
+      ],
+      "artifacts": [
+        "Noblesse Oblige",
+        "Ocean-Hued Clam",
+        "Song of Days Past"
+      ],
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C4",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Eula Physical",
+          "members": ["Mika", "Eula", "Raiden Shogun", "Rosaria"]
+        },
+        {
+          "reaction": "Physical carry",
+          "members": ["Mika", "Razor", "Fischl", "Rosaria"]
+        },
+        {
+          "reaction": "Support",
+          "members": ["Mika", "Wanderer", "Faruzan", "Bennett"]
+        }
+      ]
+    },
+    {
+      "name": "Dahlia",
+      "version": "5.7",
+      "element": "hydro",
+      "banner": "https://paimon.moe/images/characters/full/dahlia.png",
+      "materials": [
+        "Mora (420.000)",
+        "Varunada Lazurite Sliver (1)",
+        "Varunada Lazurite Fragment (9)",
+        "Varunada Lazurite Chunk (9)",
+        "Varunada Lazurite Gemstone (6)",
+        "Calla Lily (168)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (30)",
+        "Weathered Arrowhead (36)",
+        "Secret Source Airflow Accumulator (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (66)",
+        "Weathered Arrowhead (93)",
+        "Eroded Scale-Feather (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Favonius Sword",
+        "Key of Khaj-Nisut",
+        "Freedom-Sworn",
+        "Sacrificial Sword",
+        "The Dockhand's Assistant"
+      ],
+      "artifacts": [
+        "Noblesse Oblige",
+        "Scroll of the Hero of Cinder City",
+        "Archaic Petra",
+        "2pc HP sets"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Freeze",
+          "members": ["Dahlia", "Skirk", "Furina", "Escoffier"]
+        },
+        {
+          "reaction": "Wanderer hypercarry",
+          "members": ["Dahlia", "Wanderer", "Faruzan", "Bennett"]
+        },
+        {
+          "reaction": "Normal Attack carry",
+          "members": ["Dahlia", "Yoimiya", "Yelan", "Bennett"]
+        }
+      ]
+    },
+    {
+      "name": "Durin",
+      "version": "6.3",
+      "element": "pyro",
+      "banner": "https://paimon.moe/images/characters/full/durin.png",
+      "materials": [
+        "Mora (420.000)",
+        "Agnidus Agate Sliver (1)",
+        "Agnidus Agate Fragment (9)",
+        "Agnidus Agate Chunk (9)",
+        "Agnidus Agate Gemstone (6)",
+        "Frostlamp Flower (168)",
+        "Tattered Warrant (18)",
+        "Immaculate Warrant (30)",
+        "Frost-Etched Warrant (36)",
+        "Cyclic Military Kuuvahki Core (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Tattered Warrant (18)",
+        "Immaculate Warrant (66)",
+        "Frost-Etched Warrant (93)",
+        "Eroded Sunfire (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Athame Artis",
+        "Primordial Jade Cutter",
+        "Mistsplitter Reforged",
+        "Wolf-Fang",
+        "New Bough"
+      ],
+      "artifacts": [
+        "Celestial Gift",
+        "A Day Carved From Rising Winds",
+        "Noblesse Oblige",
+        "Emblem of Severed Fate"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Varka Hexerei",
+          "members": ["Varka", "Durin", "Prune", "Nicole"]
+        },
+        {
+          "reaction": "Vaporize",
+          "members": ["Durin", "Furina", "Bennett", "Xilonen"]
+        },
+        {
+          "reaction": "Melt",
+          "members": ["Durin", "Wriothesley", "Bennett", "Citlali"]
+        }
+      ]
+    },
+    {
+      "name": "Varka",
+      "version": "6.5",
+      "element": "anemo",
+      "banner": "https://paimon.moe/images/characters/full/varka.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vayuda Turquoise Sliver (1)",
+        "Vayuda Turquoise Fragment (9)",
+        "Vayuda Turquoise Chunk (9)",
+        "Vayuda Turquoise Gemstone (6)",
+        "Wolfhook (168)",
+        "Broken Drive Shaft (18)",
+        "Reinforced Drive Shaft (30)",
+        "Precision Drive Shaft (36)",
+        "Prismatic Severed Tail (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Freedom (9)",
+        "Guide to Freedom (63)",
+        "Philosophies of Freedom (114)",
+        "Broken Drive Shaft (18)",
+        "Reinforced Drive Shaft (66)",
+        "Precision Drive Shaft (93)",
+        "Ascended Sample: Rook (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Gest of the Mighty Wolf",
+        "Skyward Pride",
+        "Beacon of the Reed Sea",
+        "Serpent Spine"
+      ],
+      "artifacts": [
+        "A Day Carved From Rising Winds",
+        "Viridescent Venerer",
+        "Celestial Gift"
+      ],
+      "talentPriority": [
+        "E.Skill",
+        "N.Attack",
+        "E.Burst"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Hexerei premium",
+          "members": ["Varka", "Durin", "Prune", "Nicole"]
+        },
+        {
+          "reaction": "Venti variant",
+          "members": ["Varka", "Durin", "Venti", "Nicole"]
+        },
+        {
+          "reaction": "Accessible",
+          "members": ["Varka", "Bennett", "Fischl", "Sucrose"]
+        }
+      ]
+    },
+    {
+      "name": "Lohen",
+      "version": "6.7",
+      "element": "cryo",
+      "banner": "https://paimon.moe/images/characters/full/lohen.png",
+      "materials": [
+        "Mora (420.000)",
+        "Shivada Jade Sliver (1)",
+        "Shivada Jade Fragment (9)",
+        "Shivada Jade Chunk (9)",
+        "Shivada Jade Gemstone (6)",
+        "Etherwing Moth (168)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (30)",
+        "Weathered Arrowhead (36)",
+        "Prismatic Severed Tail (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Firm Arrowhead (18)",
+        "Sharp Arrowhead (66)",
+        "Weathered Arrowhead (93)",
+        "Ascended Sample: Knight (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Calamity Queller",
+        "Staff of Homa",
+        "Primordial Jade Winged-Spear",
+        "Favonius Lance"
+      ],
+      "artifacts": [
+        "TBA - verify current guide"
+      ],
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst",
+        "N.Attack"
+      ],
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C6"
+      ],
+      "party": [
+        {
+          "reaction": "Hexerei",
+          "members": ["Lohen", "Durin", "Prune", "Nicole"]
+        },
+        {
+          "reaction": "Cryo support",
+          "members": ["Lohen", "Furina", "Escoffier", "Shenhe"]
+        },
+        {
+          "reaction": "Freeze",
+          "members": ["Lohen", "Furina", "Escoffier", "Venti"]
+        }
+      ]
+    },
+    {
+      "name": "Prune",
+      "version": "6.7",
+      "element": "anemo",
+      "banner": "https://paimon.moe/images/characters/full/prune.png",
+      "materials": [
+        "Mora (420.000)",
+        "Vayuda Turquoise Sliver (1)",
+        "Vayuda Turquoise Fragment (9)",
+        "Vayuda Turquoise Chunk (9)",
+        "Vayuda Turquoise Gemstone (6)",
+        "Winter Icelea (168)",
+        "Treasure Hoarder Insignia (18)",
+        "Silver Raven Insignia (30)",
+        "Golden Raven Insignia (36)",
+        "Radiant Antler (46)"
+      ],
+      "talenta": [
+        "Mora (4.957.500)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Treasure Hoarder Insignia (18)",
+        "Silver Raven Insignia (66)",
+        "Golden Raven Insignia (93)",
+        "Mask of the Virtuous Doctor (18)",
+        "Crown of Insight (3)"
+      ],
+      "weapons": [
+        "Angelos' Heptade",
+        "Thrilling Tales of Dragon Slayers",
+        "Favonius Codex",
+        "Oathsworn Eye"
+      ],
+      "artifacts": [
+        "Viridescent Venerer",
+        "Celestial Gift",
+        "Noblesse Oblige"
+      ],
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      "constellationPriority": [
+        "C2",
+        "C6",
+        "C1"
+      ],
+      "party": [
+        {
+          "reaction": "Varka Hexerei",
+          "members": ["Prune", "Varka", "Durin", "Nicole"]
+        },
+        {
+          "reaction": "Venti Hexerei",
+          "members": ["Prune", "Venti", "Durin", "Nicole"]
+        },
+        {
+          "reaction": "Aggravate",
+          "members": ["Prune", "Keqing", "Fischl", "Kirara"]
+        }
+      ]
+    }
   ]
 }
