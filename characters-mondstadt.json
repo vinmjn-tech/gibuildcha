@@ -3,95 +3,6 @@
   "regionName": "Mondstadt",
   "characters": [
     {
-      "name": "Albedo",
-      "version": "1.2",
-      "element": "geo",
-      "banner": "https://paimon.moe/images/characters/full/albedo.png",
-      
-      "materials": [
-        "Mora (420.000)",
-        "Prithiva Topaz Sliver (1)",
-        "Prithiva Topaz Fragment (9)",
-        "Prithiva Topaz Chunk (9)",
-        "Prithiva Topaz Gemstone (6)",
-        "Basalt Pillar (46)",
-        "Cecilia (168)",
-        "Divining Scroll (18)",
-        "Sealed Scroll (30)",
-        "Forbidden Curse Scroll (36)"
-      ],
-      
-      "talenta": [
-        "Mora (4.957.500)",
-        "Divining Scroll (18)",
-        "Sealed Scroll (66)",
-        "Forbidden Curse Scroll (93)",
-        "Crown of Insight (3)",
-        "Teachings of Ballad (9)",
-        "Guide to Ballad (63)",
-        "Philosophies of Ballad (114)",
-        "Tusk of Monoceros Caeli (18)"
-      ],
-      
-      "weapons": [
-        "Uraku Misugiri",
-        "Lightbearing Moonshard",
-        "Primordial Jade Cutter",
-        "Peak Patrol Song",
-        "Wolf-Fang",
-        "Cinnabar Spindle",
-        "Flute of Ezpitzal",
-        "Harbinger of Dawn"
-      ],
-      
-      "artifacts": [
-        "Golden Troupe",
-        "Husk of Opulent Dreams"
-      ],
-      
-      "talentPriority": [
-        "E.Skill",
-        "E.Burst"
-      ],
-      
-      "constellationPriority": [
-        "C1",
-        "C2",
-        "C3"
-      ],
-      
-      "party": [
-        {
-          "reaction": "Navia I",
-          "members": ["Albedo", "Navia", "Durin", "Bennett"]
-        },
-        {
-          "reaction": "Klee II",
-          "members": ["Albedo", "Klee", "Yelan", "Bennett"]
-        },
-        {
-          "reaction": "Lunar III",
-          "members": ["Albedo", "Venti", "Columbina", "Ineffa"]
-        },
-        {
-          "reaction": "Free Team",
-          "members": ["Albedo", "Razor", "Fischl", "Bennett"]
-        },
-        {
-          "reaction": "Free Team II",
-          "members": ["Albedo", "Noelle", "Gorou", "Yun Jin"]
-        },
-        {
-          "reaction": "Mona-Geo",
-          "members": ["Albedo", "Arataki Itto", "Gorou", "Zhongli"]
-        },
-        {
-          "reaction": "Lunar Crystallize",
-          "members": ["Albedo", "Zibai", "Columbina", "Illuga"]
-        }
-      ]
-    },
-    {
       "name": "Amber",
       "version": "1.0",
       "element": "pyro",
@@ -227,6 +138,174 @@
           "members": ["Barbara", "Lisa", "Xingqiu", "Traveler"]
         }
       ]
+    },
+    {
+      "name": "Bennett",
+      "version": "1.0",
+      "element": "pyro",
+      "banner": "https://paimon.moe/images/characters/full/bennett.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Agnidus Agate Sliver (1)",
+        "Agnidus Agate Fragment (9)",
+        "Agnidus Agate Chunk (9)",
+        "Agnidus Agate Gemstone (6)",
+        "Everflame Seed (46)",
+        "Windwheel Aster (168)",
+        "Treasure Hoarder Insignia (18)",
+        "Silver Raven Insignia (30)",
+        "Golden Raven Insignia (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Treasure Hoarder Insignia (18)",
+        "Silver Raven Insignia (66)",
+        "Golden Raven Insignia (93)",
+        "Crown of Insight (3)",
+        "Teachings of Resistance (9)",
+        "Guide to Resistance (63)",
+        "Philosophies of Resistance (114)",
+        "Dvalin's Plume (18)"
+      ],
+      
+      "weapons": [
+        "Mistsplitter Reforged",
+        "Aquila Favonia",
+        "Skyward Blade",
+        "Favonius Sword",
+        "Freedom-Sworn",
+        "Fleuve Cendre Ferryman"
+      ],
+      
+      "artifacts": [
+        "Noblesse Oblige",
+        "Emblem of Severed Fate",
+        "Scroll of the Hero of Cinder City"
+      ],
+      
+      "talentPriority": [
+        "E.Burst",
+        "E.Skill"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C5",
+        "C6"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Mavuika",
+          "members": ["Bennett", "Mavuika", "Citlali", "Xilonen"]
+        },
+        {
+          "reaction": "Kinich",
+          "members": ["Bennett", "Kinich", "Emilie", "Xiangling"]
+        },
+        {
+          "reaction": "Arlecchino",
+          "members": ["Bennett", "Arlecchino", "Yelan", "Xilonen"]
+        },
+        {
+          "reaction": "Team Rakyat",
+          "members": ["Bennett", "Raiden Shogun", "Xingqiu", "Xiangling"]
+        }
+      ]
+    },
+    {
+      "name": "Albedo",
+      "version": "1.2",
+      "element": "geo",
+      "banner": "https://paimon.moe/images/characters/full/albedo.png",
+      
+      "materials": [
+        "Mora (420.000)",
+        "Prithiva Topaz Sliver (1)",
+        "Prithiva Topaz Fragment (9)",
+        "Prithiva Topaz Chunk (9)",
+        "Prithiva Topaz Gemstone (6)",
+        "Basalt Pillar (46)",
+        "Cecilia (168)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (30)",
+        "Forbidden Curse Scroll (36)"
+      ],
+      
+      "talenta": [
+        "Mora (4.957.500)",
+        "Divining Scroll (18)",
+        "Sealed Scroll (66)",
+        "Forbidden Curse Scroll (93)",
+        "Crown of Insight (3)",
+        "Teachings of Ballad (9)",
+        "Guide to Ballad (63)",
+        "Philosophies of Ballad (114)",
+        "Tusk of Monoceros Caeli (18)"
+      ],
+      
+      "weapons": [
+        "Uraku Misugiri",
+        "Lightbearing Moonshard",
+        "Primordial Jade Cutter",
+        "Peak Patrol Song",
+        "Wolf-Fang",
+        "Cinnabar Spindle",
+        "Flute of Ezpitzal",
+        "Harbinger of Dawn"
+      ],
+      
+      "artifacts": [
+        "Golden Troupe",
+        "Husk of Opulent Dreams"
+      ],
+      
+      "talentPriority": [
+        "E.Skill",
+        "E.Burst"
+      ],
+      
+      "constellationPriority": [
+        "C1",
+        "C2",
+        "C3"
+      ],
+      
+      "party": [
+        {
+          "reaction": "Navia I",
+          "members": ["Albedo", "Navia", "Durin", "Bennett"]
+        },
+        {
+          "reaction": "Klee II",
+          "members": ["Albedo", "Klee", "Yelan", "Bennett"]
+        },
+        {
+          "reaction": "Lunar III",
+          "members": ["Albedo", "Venti", "Columbina", "Ineffa"]
+        },
+        {
+          "reaction": "Free Team",
+          "members": ["Albedo", "Razor", "Fischl", "Bennett"]
+        },
+        {
+          "reaction": "Free Team II",
+          "members": ["Albedo", "Noelle", "Gorou", "Yun Jin"]
+        },
+        {
+          "reaction": "Mona-Geo",
+          "members": ["Albedo", "Arataki Itto", "Gorou", "Zhongli"]
+        },
+        {
+          "reaction": "Lunar Crystallize",
+          "members": ["Albedo", "Zibai", "Columbina", "Illuga"]
+        }
+      ]
     }
+    
+    
   ]
 }
