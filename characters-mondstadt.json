@@ -175,7 +175,7 @@
         "Aquila Favonia",
         "Skyward Blade",
         "Favonius Sword",
-        "Freedom Sworn",
+        "Freedomsworn",
         "Fleuve Cendre Ferryman"
       ],
       
@@ -305,50 +305,47 @@
         }
       ]
     },
+    
   {
     "name": "Diluc",
     "version": "1.0",
-    "buildVersion": "7.2",
     "element": "pyro",
-    "weaponType": "claymore",
-    "role": [
-      "on-field DPS"
-    ],
     "banner": "https://paimon.moe/images/characters/full/diluc.png",
-    "materials": [],
-    "talenta": [],
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Everflame Seed (46)",
+      "Small Lamp Grass (168)",
+      "Recruit's Insignia (18)",
+      "Sergeant's Insignia (30)",
+      "Lieutenant's Insignia (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Recruit's Insignia (18)",
+      "Sergeant's Insignia (66)",
+      "Lieutenant's Insignia (93)",
+      "Crown of Insight (3)",
+      "Teachings of Resistance (9)",
+      "Guide to Resistance (63)",
+      "Philosophies of Resistance (114)",
+      "Dvalin's Plume (18)"
+    ],
     "weapons": [
-      "Gest of the Mighty Wolf",
+      "A Thousand Blazing Suns",
       "Wolf's Gravestone",
-      "Beacon of the Reed Sea",
       "Serpent Spine",
-      "The Unforged",
+      "Beacon of the Reed Sea",
+      "Redhorn Stonethresher",
       "Prototype Archaic"
     ],
     "artifacts": [
       "Crimson Witch of Flames",
       "Marechaussee Hunter",
-      "Crimson Witch of Flames + ATK% (2pc + 2pc)"
-    ],
-    "mainStats": {
-      "sands": [
-        "ATK%",
-        "Elemental Mastery"
-      ],
-      "goblet": [
-        "Pyro DMG Bonus"
-      ],
-      "circlet": [
-        "CRIT Rate",
-        "CRIT DMG"
-      ]
-    },
-    "substats": [
-      "CRIT Rate",
-      "CRIT DMG",
-      "Elemental Mastery",
-      "ATK%",
-      "Energy Recharge"
+      "Crimson Witch of Flames"
     ],
     "talentPriority": [
       "Normal Attack",
@@ -363,6 +360,15 @@
     ],
     "party": [
       {
+        "reaction": "Plunge Vaporize",
+        "members": [
+          "Diluc",
+          "Furina",
+          "Xianyun",
+          "Bennett"
+        ]
+      },
+      {
         "reaction": "Vaporize",
         "members": [
           "Diluc",
@@ -372,12 +378,12 @@
         ]
       },
       {
-        "reaction": "Plunge Vaporize",
+        "reaction": "Melt",
         "members": [
           "Diluc",
-          "Furina",
-          "Xianyun",
-          "Bennett"
+          "Rosaria",
+          "Bennett",
+          "Sucrose"
         ]
       },
       {
@@ -389,60 +395,49 @@
           "Bennett"
         ]
       }
-    ],
-    "notes": [
-      "Crimson Witch is the general reaction-focused option. Marechaussee Hunter is especially effective with Furina.",
-      "Use EM sands when Vaporize reactions are consistent and its substats outperform ATK%."
     ]
   },
   {
     "name": "Fischl",
     "version": "1.0",
-    "buildVersion": "7.2",
     "element": "electro",
-    "weaponType": "bow",
-    "role": [
-      "off-field DPS",
-      "Electro support"
-    ],
     "banner": "https://paimon.moe/images/characters/full/fischl.png",
-    "materials": [],
-    "talenta": [],
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Lightning Prism (46)",
+      "Small Lamp Grass (168)",
+      "Firm Arrowhead (18)",
+      "Sharp Arrowhead (30)",
+      "Weathered Arrowhead (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Firm Arrowhead (18)",
+      "Sharp Arrowhead (66)",
+      "Weathered Arrowhead (93)",
+      "Crown of Insight (3)",
+      "Teachings of Ballad (9)",
+      "Guide to Ballad (63)",
+      "Philosophies of Ballad (114)",
+      "Spirit Locket of Boreas (18)"
+    ],
     "weapons": [
-      "The Daybreak Chronicles",
       "Polar Star",
       "Aqua Simulacra",
       "Skyward Harp",
       "Elegy for the End",
       "The Stringless",
       "Alley Hunter",
-      "Favonius Warbow"
+      "Mitternachts Waltz"
     ],
     "artifacts": [
       "Golden Troupe",
       "Thundering Fury",
-      "Golden Troupe + ATK% (2pc + 2pc)",
-      "Celestial Gift"
-    ],
-    "mainStats": {
-      "sands": [
-        "ATK%",
-        "Elemental Mastery"
-      ],
-      "goblet": [
-        "Electro DMG Bonus"
-      ],
-      "circlet": [
-        "CRIT Rate",
-        "CRIT DMG"
-      ]
-    },
-    "substats": [
-      "CRIT Rate",
-      "CRIT DMG",
-      "ATK%",
-      "Elemental Mastery",
-      "Energy Recharge"
+      "Golden Troupe"
     ],
     "talentPriority": [
       "E.Skill",
@@ -459,18 +454,27 @@
         "reaction": "Aggravate",
         "members": [
           "Fischl",
-          "Nahida",
           "Keqing",
+          "Nahida",
           "Kaedehara Kazuha"
         ]
       },
       {
-        "reaction": "Overload / Hexerei",
+        "reaction": "Aggravate",
         "members": [
           "Fischl",
-          "Durin",
-          "Nicole",
-          "Chevreuse"
+          "Alhaitham",
+          "Nahida",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Overload",
+        "members": [
+          "Fischl",
+          "Chevreuse",
+          "Bennett",
+          "Beidou"
         ]
       },
       {
@@ -479,62 +483,51 @@
           "Fischl",
           "Mona",
           "Beidou",
-          "Jean"
+          "Sucrose"
         ]
       }
-    ],
-    "notes": [
-      "Golden Troupe is the usual off-field damage set. Hexerei-related team value and support options depend on unlocking the relevant character mechanics."
     ]
   },
   {
     "name": "Jean",
     "version": "1.0",
-    "buildVersion": "7.2",
     "element": "anemo",
-    "weaponType": "sword",
-    "role": [
-      "healer",
-      "Anemo support",
-      "sub-DPS"
-    ],
     "banner": "https://paimon.moe/images/characters/full/jean.png",
-    "materials": [],
-    "talenta": [],
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Hurricane Seed (46)",
+      "Dandelion Seed (168)",
+      "Damaged Mask (18)",
+      "Stained Mask (30)",
+      "Ominous Mask (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Damaged Mask (18)",
+      "Stained Mask (66)",
+      "Ominous Mask (93)",
+      "Crown of Insight (3)",
+      "Teachings of Resistance (9)",
+      "Guide to Resistance (63)",
+      "Philosophies of Resistance (114)",
+      "Dvalin's Plume (18)"
+    ],
     "weapons": [
       "Freedom-Sworn",
-      "Favonius Sword",
-      "Skyward Blade",
       "Primordial Jade Cutter",
-      "Amenoma Kageuchi",
-      "Fleuve Cendre Ferryman"
+      "Favonius Sword",
+      "Aquila Favonia",
+      "Skyward Blade",
+      "Amenoma Kageuchi"
     ],
     "artifacts": [
       "Viridescent Venerer",
       "Noblesse Oblige",
-      "Song of Days Past",
-      "Ocean-Hued Clam"
-    ],
-    "mainStats": {
-      "sands": [
-        "ATK%",
-        "Energy Recharge"
-      ],
-      "goblet": [
-        "ATK%",
-        "Anemo DMG Bonus"
-      ],
-      "circlet": [
-        "Healing Bonus",
-        "CRIT Rate",
-        "CRIT DMG"
-      ]
-    },
-    "substats": [
-      "Energy Recharge",
-      "ATK%",
-      "CRIT Rate",
-      "CRIT DMG"
+      "Song of Days Past"
     ],
     "talentPriority": [
       "E.Burst",
@@ -548,7 +541,16 @@
     ],
     "party": [
       {
-        "reaction": "Sunfire / Vaporize",
+        "reaction": "Furina Support",
+        "members": [
+          "Jean",
+          "Furina",
+          "Raiden Shogun",
+          "Yelan"
+        ]
+      },
+      {
+        "reaction": "Sunfire",
         "members": [
           "Jean",
           "Bennett",
@@ -557,75 +559,65 @@
         ]
       },
       {
-        "reaction": "Electro-Charged",
+        "reaction": "Xiao Support",
         "members": [
           "Jean",
-          "Mona",
-          "Fischl",
-          "Beidou"
+          "Xiao",
+          "Faruzan",
+          "Zhongli"
         ]
       },
       {
-        "reaction": "Superconduct",
+        "reaction": "Vaporize",
         "members": [
           "Jean",
-          "Eula",
-          "Raiden Shogun",
-          "Rosaria"
+          "Tartaglia",
+          "Xiangling",
+          "Bennett"
         ]
       }
-    ],
-    "notes": [
-      "Viridescent Venerer is the standard elemental RES-shred support set when Jean can Swirl the relevant element.",
-      "Prioritize enough Energy Recharge to use Burst reliably; ATK improves healing."
     ]
   },
   {
     "name": "Kaeya",
     "version": "1.0",
-    "buildVersion": "7.2",
     "element": "cryo",
-    "weaponType": "sword",
-    "role": [
-      "off-field DPS",
-      "on-field DPS"
-    ],
     "banner": "https://paimon.moe/images/characters/full/kaeya.png",
-    "materials": [],
-    "talenta": [],
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Hoarfrost Core (46)",
+      "Calla Lily (168)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (30)",
+      "Golden Raven Insignia (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (66)",
+      "Golden Raven Insignia (93)",
+      "Crown of Insight (3)",
+      "Teachings of Ballad (9)",
+      "Guide to Ballad (63)",
+      "Philosophies of Ballad (114)",
+      "Spirit Locket of Boreas (18)"
+    ],
     "weapons": [
       "Mistsplitter Reforged",
-      "Light of Foliar Incision",
+      "Freedom-Sworn",
       "Primordial Jade Cutter",
       "Haran Geppaku Futsu",
-      "Wolf-Fang",
       "Favonius Sword",
-      "Amenoma Kageuchi"
+      "Sacrificial Sword"
     ],
     "artifacts": [
       "Blizzard Strayer",
       "Emblem of Severed Fate",
-      "Noblesse Oblige",
-      "Golden Troupe (situational)"
-    ],
-    "mainStats": {
-      "sands": [
-        "ATK%",
-        "Energy Recharge"
-      ],
-      "goblet": [
-        "Cryo DMG Bonus"
-      ],
-      "circlet": [
-        "CRIT DMG",
-        "CRIT Rate"
-      ]
-    },
-    "substats": [
-      "CRIT Rate",
-      "CRIT DMG",
-      "ATK%",
-      "Energy Recharge"
+      "Noblesse Oblige"
     ],
     "talentPriority": [
       "E.Burst",
@@ -665,59 +657,49 @@
           "Xiangling"
         ]
       }
-    ],
-    "notes": [
-      "Blizzard Strayer is strongest against enemies that can be Frozen; use a non-Freeze set when fighting bosses or enemies immune to Freeze.",
-      "Freeze builds can overcap CRIT Rate, so account for set and Cryo Resonance bonuses."
     ]
   },
   {
     "name": "Klee",
     "version": "1.0",
-    "buildVersion": "7.2",
     "element": "pyro",
-    "weaponType": "catalyst",
-    "role": [
-      "on-field DPS"
-    ],
     "banner": "https://paimon.moe/images/characters/full/klee.png",
-    "materials": [],
-    "talenta": [],
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Everflame Seed (46)",
+      "Philanemo Mushroom (168)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (30)",
+      "Forbidden Curse Scroll (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (66)",
+      "Forbidden Curse Scroll (93)",
+      "Crown of Insight (3)",
+      "Teachings of Freedom (9)",
+      "Guide to Freedom (63)",
+      "Philosophies of Freedom (114)",
+      "Ring of Boreas (18)"
+    ],
     "weapons": [
-      "Vivid Notions",
-      "Reliquary of Truth",
-      "Cashflow Supervision",
       "Lost Prayer to the Sacred Winds",
-      "Skyward Atlas",
       "The Widsith",
-      "Solar Pearl",
-      "Flowing Purity"
+      "Tome of the Eternal Flow",
+      "Cashflow Supervision",
+      "Skyward Atlas",
+      "Flowing Purity",
+      "Dodoco Tales"
     ],
     "artifacts": [
       "Crimson Witch of Flames",
-      "A Day Carved From Rising Winds",
       "Marechaussee Hunter",
-      "Crimson Witch + ATK% (2pc + 2pc)"
-    ],
-    "mainStats": {
-      "sands": [
-        "ATK%",
-        "Elemental Mastery"
-      ],
-      "goblet": [
-        "Pyro DMG Bonus"
-      ],
-      "circlet": [
-        "CRIT Rate",
-        "CRIT DMG"
-      ]
-    },
-    "substats": [
-      "CRIT Rate",
-      "CRIT DMG",
-      "ATK%",
-      "Elemental Mastery",
-      "Energy Recharge"
+      "Crimson Witch of Flames"
     ],
     "talentPriority": [
       "Normal Attack",
@@ -731,89 +713,85 @@
     ],
     "party": [
       {
-        "reaction": "Vaporize",
+        "reaction": "Hexerei",
         "members": [
           "Klee",
-          "Furina",
-          "Yelan",
-          "Bennett"
+          "Durin",
+          "Sucrose",
+          "Nicole"
         ]
       },
       {
-        "reaction": "Overload / Hexerei",
+        "reaction": "Overload",
         "members": [
           "Klee",
           "Fischl",
           "Chevreuse",
-          "Durin"
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Klee",
+          "Xingqiu",
+          "Kazuha",
+          "Bennett"
         ]
       },
       {
         "reaction": "Mono Pyro",
         "members": [
           "Klee",
-          "Bennett",
           "Xiangling",
-          "Kaedehara Kazuha"
+          "Kaedehara Kazuha",
+          "Bennett"
         ]
       }
-    ],
-    "notes": [
-      "Klee's 2026 Hexerei-related options depend on completing the relevant Witch's Homework condition and team composition.",
-      "Artifact choice varies with team, reaction uptime and weapon."
     ]
   },
   {
     "name": "Lisa",
     "version": "1.0",
-    "buildVersion": "7.2",
     "element": "electro",
-    "weaponType": "catalyst",
-    "role": [
-      "off-field DPS",
-      "support",
-      "on-field Aggravate DPS"
-    ],
     "banner": "https://paimon.moe/images/characters/full/lisa.png",
-    "materials": [],
-    "talenta": [],
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Lightning Prism (46)",
+      "Valberry (168)",
+      "Slime Condensate (18)",
+      "Slime Secretions (30)",
+      "Slime Concentrate (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Slime Condensate (18)",
+      "Slime Secretions (66)",
+      "Slime Concentrate (93)",
+      "Crown of Insight (3)",
+      "Teachings of Ballad (9)",
+      "Guide to Ballad (63)",
+      "Philosophies of Ballad (114)",
+      "Dvalin's Claw (18)"
+    ],
     "weapons": [
-      "Reliquary of Truth",
+      "Kagura's Verity",
       "The Widsith",
       "Lost Prayer to the Sacred Winds",
       "Skyward Atlas",
-      "Kagura's Verity",
-      "Oathsworn Eye",
-      "Favonius Codex",
-      "Hakushin Ring"
+      "Solar Pearl",
+      "Hakushin Ring",
+      "Mappa Mare"
     ],
     "artifacts": [
       "Thundering Fury",
       "Emblem of Severed Fate",
       "Noblesse Oblige",
-      "Gilded Dreams",
-      "Celestial Gift"
-    ],
-    "mainStats": {
-      "sands": [
-        "ATK%",
-        "Energy Recharge",
-        "Elemental Mastery"
-      ],
-      "goblet": [
-        "Electro DMG Bonus"
-      ],
-      "circlet": [
-        "CRIT Rate",
-        "CRIT DMG"
-      ]
-    },
-    "substats": [
-      "Energy Recharge",
-      "CRIT Rate",
-      "CRIT DMG",
-      "ATK%",
-      "Elemental Mastery"
+      "Gilded Dreams"
     ],
     "talentPriority": [
       "E.Burst",
@@ -823,20 +801,29 @@
     "constellationPriority": [
       "C4",
       "C6",
-      "C1"
+      "C3"
     ],
     "party": [
       {
         "reaction": "Aggravate",
         "members": [
           "Lisa",
-          "Nahida",
           "Fischl",
+          "Nahida",
           "Zhongli"
         ]
       },
       {
-        "reaction": "Electro support",
+        "reaction": "Aggravate",
+        "members": [
+          "Lisa",
+          "Fischl",
+          "Yaoyao",
+          "Kaedehara Kazuha"
+        ]
+      },
+      {
+        "reaction": "Electro Support",
         "members": [
           "Lisa",
           "Raiden Shogun",
@@ -845,70 +832,56 @@
         ]
       },
       {
-        "reaction": "Superconduct support",
+        "reaction": "Superconduct",
         "members": [
           "Lisa",
           "Eula",
           "Rosaria",
-          "Zhongli"
+          "Diona"
         ]
       }
-    ],
-    "notes": [
-      "Lisa can be built as an Aggravate damage dealer or an off-field support; weapon, sands and artifact set should match the role.",
-      "Energy Recharge is important for consistent Burst uptime."
     ]
   },
   {
     "name": "Mona",
     "version": "1.0",
-    "buildVersion": "7.2",
     "element": "hydro",
-    "weaponType": "catalyst",
-    "role": [
-      "buffer",
-      "Burst DPS",
-      "Hydro support"
-    ],
     "banner": "https://paimon.moe/images/characters/full/mona.png",
-    "materials": [],
-    "talenta": [],
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Cleansing Heart (46)",
+      "Philanemo Mushroom (168)",
+      "Whopperflower Nectar (18)",
+      "Shimmering Nectar (30)",
+      "Energy Nectar (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Whopperflower Nectar (18)",
+      "Shimmering Nectar (66)",
+      "Energy Nectar (93)",
+      "Crown of Insight (3)",
+      "Teachings of Resistance (9)",
+      "Guide to Resistance (63)",
+      "Philosophies of Resistance (114)",
+      "Ring of Boreas (18)"
+    ],
     "weapons": [
       "Thrilling Tales of Dragon Slayers",
       "Favonius Codex",
       "Prototype Amber",
       "The Widsith",
-      "Skyward Atlas",
       "Lost Prayer to the Sacred Winds",
-      "Hakushin Ring"
+      "Skyward Atlas"
     ],
     "artifacts": [
-      "Celestial Gift",
-      "Emblem of Severed Fate",
       "Noblesse Oblige",
-      "Tenacity of the Millelith",
-      "Heart of Depth"
-    ],
-    "mainStats": {
-      "sands": [
-        "Energy Recharge",
-        "ATK%",
-        "Elemental Mastery"
-      ],
-      "goblet": [
-        "Hydro DMG Bonus"
-      ],
-      "circlet": [
-        "CRIT Rate",
-        "CRIT DMG"
-      ]
-    },
-    "substats": [
-      "Energy Recharge",
-      "CRIT Rate",
-      "CRIT DMG",
-      "ATK%",
-      "Elemental Mastery"
+      "Emblem of Severed Fate",
+      "Tenacity of the Millelith"
     ],
     "talentPriority": [
       "E.Burst",
@@ -918,41 +891,45 @@
     "constellationPriority": [
       "C1",
       "C4",
-      "C2",
-      "C6 (on-field build)"
+      "C2"
     ],
     "party": [
       {
-        "reaction": "Freeze / Omen support",
+        "reaction": "Freeze",
         "members": [
           "Mona",
           "Ganyu",
-          "Venti",
-          "Diona"
+          "Layla",
+          "Venti"
         ]
       },
       {
-        "reaction": "Hexerei support",
+        "reaction": "Hexerei",
         "members": [
           "Mona",
           "Durin",
-          "Xingqiu",
-          "Sucrose"
+          "Bennett",
+          "Kaedehara Kazuha"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Mona",
+          "Xiangling",
+          "Bennett",
+          "Xianyun"
         ]
       },
       {
         "reaction": "Electro-Charged",
         "members": [
           "Mona",
-          "Fischl",
           "Beidou",
-          "Jean"
+          "Fischl",
+          "Sucrose"
         ]
       }
-    ],
-    "notes": [
-      "For support, prioritize Burst uptime; Thrilling Tales is valuable when buffing an ATK-scaling carry.",
-      "Celestial Gift is a current support option in Hexerei-oriented builds; Emblem remains a strong Burst-damage option."
     ]
   }
   ]
