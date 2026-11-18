@@ -1,0 +1,862 @@
+{
+  "region": "fontaine",
+  "regionName": "Fontaine",
+  "characters": [
+    
+  {
+    "name": "Lyney",
+    "version": "4.0",
+    "element": "Pyro",
+    "banner": "https://paimon.moe/images/characters/full/lyney.png",
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Emperor’s Resolution (46)",
+      "Rainbow Rose (168)",
+      "Recruit’s Insignia (18)",
+      "Sergeant’s Insignia (30)",
+      "Lieutenant’s Insignia (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Equity (9)",
+      "Guide to Equity (63)",
+      "Philosophies of Equity (114)",
+      "Crown of Insight (3)",
+      "Recruit’s Insignia (18)",
+      "Sergeant’s Insignia (30)",
+      "Lieutenant’s Insignia (36)",
+      "Primordial Greenbloom (18)"
+    ],
+    "weapons": [
+      "The First Great Magic",
+      "Aqua Simulacra",
+      "Skyward Harp",
+      "Prototype Crescent"
+    ],
+    "artifacts": [
+      "Marechaussee Hunter",
+      "Wanderer’s Troupe"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "Elemental Skill",
+      "Elemental Burst"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Mono Pyro",
+        "members": [
+          "Lyney",
+          "Bennett",
+          "Xiangling",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Mono Pyro",
+        "members": [
+          "Lyney",
+          "Bennett",
+          "Kazuha",
+          "Dehya"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lynette",
+    "version": "4.0",
+    "element": "Anemo",
+    "banner": "https://paimon.moe/images/characters/full/lynette.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Artificed Spare Clockwork Component — Coppelia (46)",
+      "Lumidouce Bell (168)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Order (9)",
+      "Guide to Order (63)",
+      "Philosophies of Order (114)",
+      "Crown of Insight (3)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)",
+      "Everamber (18)"
+    ],
+    "weapons": [
+      "Freedom-Sworn",
+      "Favonius Sword",
+      "Fleuve Cendre Ferryman",
+      "Sacrificial Sword"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "Elemental Burst",
+      "Elemental Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C4 > C6",
+    "party": [
+      {
+        "reaction": "Anemo Support",
+        "members": [
+          "Lynette",
+          "Lyney",
+          "Bennett",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Lynette",
+          "Ayaka",
+          "Furina",
+          "Charlotte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Freminet",
+    "version": "4.0",
+    "element": "Cryo",
+    "banner": "https://paimon.moe/images/characters/full/freminet.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Artificed Spare Clockwork Component — Coppelius (46)",
+      "Romaritime Flower (168)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Justice (9)",
+      "Guide to Justice (63)",
+      "Philosophies of Justice (114)",
+      "Crown of Insight (3)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)",
+      "Worldspan Fern (18)"
+    ],
+    "weapons": [
+      "Beacon of the Reed Sea",
+      "Serpent Spine",
+      "Tidal Shadow",
+      "Snow-Tombed Starsilver"
+    ],
+    "artifacts": [
+      "Pale Flame",
+      "Golden Troupe",
+      "Blizzard Strayer"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Normal Attack",
+      "Elemental Burst"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Physical",
+        "members": [
+          "Freminet",
+          "Fischl",
+          "Xingqiu",
+          "Mika"
+        ]
+      },
+      {
+        "reaction": "Shatter",
+        "members": [
+          "Freminet",
+          "Furina",
+          "Fischl",
+          "Mika"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Neuvillette",
+    "version": "4.1",
+    "element": "Hydro",
+    "banner": "https://paimon.moe/images/characters/full/neuvillette.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Fontemer Unihorn (46)",
+      "Lumitoile (168)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Equity (9)",
+      "Guide to Equity (63)",
+      "Philosophies of Equity (114)",
+      "Crown of Insight (3)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)",
+      "Everamber (18)"
+    ],
+    "weapons": [
+      "Tome of the Eternal Flow",
+      "Sacrificial Jade",
+      "Prototype Amber",
+      "Lost Prayer to the Sacred Winds"
+    ],
+    "artifacts": [
+      "Marechaussee Hunter",
+      "Heart of Depth"
+    ],
+    "talentPriority": [
+      "Charged Attack",
+      "Elemental Skill",
+      "Elemental Burst"
+    ],
+    "constellationPriority": "C1 > C2 > C3 > C6",
+    "party": [
+      {
+        "reaction": "Hypercarry",
+        "members": [
+          "Neuvillette",
+          "Furina",
+          "Kazuha",
+          "Xilonen"
+        ]
+      },
+      {
+        "reaction": "Hypercarry",
+        "members": [
+          "Neuvillette",
+          "Furina",
+          "Fischl",
+          "Zhongli"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wriothesley",
+    "version": "4.1",
+    "element": "Cryo",
+    "banner": "https://paimon.moe/images/characters/full/wriothesley.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Tourbillon Device (46)",
+      "Subdetection Unit (168)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Order (9)",
+      "Guide to Order (63)",
+      "Philosophies of Order (114)",
+      "Crown of Insight (3)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)",
+      "Primordial Greenbloom (18)"
+    ],
+    "weapons": [
+      "Cashflow Supervision",
+      "Tulaytullah’s Remembrance",
+      "Lost Prayer to the Sacred Winds",
+      "The Widsith"
+    ],
+    "artifacts": [
+      "Marechaussee Hunter",
+      "Blizzard Strayer",
+      "Shimenawa’s Reminiscence"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "Elemental Skill",
+      "Elemental Burst"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Melt",
+        "members": [
+          "Wriothesley",
+          "Nahida",
+          "Bennett",
+          "Xiangling"
+        ]
+      },
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Wriothesley",
+          "Furina",
+          "Kazuha",
+          "Charlotte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Furina",
+    "version": "4.2",
+    "element": "Hydro",
+    "banner": "https://paimon.moe/images/characters/full/furina.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Water That Failed to Transcend (46)",
+      "Lakelight Lily (168)",
+      "Whopperflower Nectar (18)",
+      "Shimmering Nectar (30)",
+      "Energy Nectar (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Justice (9)",
+      "Guide to Justice (63)",
+      "Philosophies of Justice (114)",
+      "Crown of Insight (3)",
+      "Whopperflower Nectar (18)",
+      "Shimmering Nectar (30)",
+      "Energy Nectar (36)",
+      "Lightless Mass (18)"
+    ],
+    "weapons": [
+      "Splendor of Tranquil Waters",
+      "Fleuve Cendre Ferryman",
+      "Favonius Sword",
+      "Festering Desire"
+    ],
+    "artifacts": [
+      "Golden Troupe",
+      "Tenacity of the Millelith",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C1 > C6",
+    "party": [
+      {
+        "reaction": "Neuvillette Hypercarry",
+        "members": [
+          "Neuvillette",
+          "Furina",
+          "Kazuha",
+          "Xilonen"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Hu Tao",
+          "Furina",
+          "Yelan",
+          "Xianyun"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Charlotte",
+    "version": "4.2",
+    "element": "Cryo",
+    "banner": "https://paimon.moe/images/characters/full/charlotte.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Tourbillon Device (46)",
+      "Beryl Conch (168)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Justice (9)",
+      "Guide to Justice (63)",
+      "Philosophies of Justice (114)",
+      "Crown of Insight (3)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)",
+      "Lightless Mass (18)"
+    ],
+    "weapons": [
+      "Thrilling Tales of Dragon Slayers",
+      "Favonius Codex",
+      "Prototype Amber",
+      "Oathsworn Eye"
+    ],
+    "artifacts": [
+      "Noblesse Oblige",
+      "Ocean-Hued Clam",
+      "Song of Days Past"
+    ],
+    "talentPriority": [
+      "Elemental Burst",
+      "Elemental Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C4 > C6",
+    "party": [
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Ayaka",
+          "Furina",
+          "Kazuha",
+          "Charlotte"
+        ]
+      },
+      {
+        "reaction": "Neuvillette Support",
+        "members": [
+          "Neuvillette",
+          "Furina",
+          "Kazuha",
+          "Charlotte"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Navia",
+    "version": "4.3",
+    "element": "Geo",
+    "banner": "https://paimon.moe/images/characters/full/navia.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Artificed Spare Clockwork Component — Coppelius (46)",
+      "Spring of the First Dewdrop (168)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Equity (9)",
+      "Guide to Equity (63)",
+      "Philosophies of Equity (114)",
+      "Crown of Insight (3)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)",
+      "Lightless Silk String (18)"
+    ],
+    "weapons": [
+      "Verdict",
+      "Serpent Spine",
+      "Beacon of the Reed Sea",
+      "Tidal Shadow"
+    ],
+    "artifacts": [
+      "Nighttime Whispers in the Echoing Woods",
+      "Golden Troupe",
+      "Marechaussee Hunter"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Normal Attack",
+      "Elemental Burst"
+    ],
+    "constellationPriority": "C2 > C1 > C6",
+    "party": [
+      {
+        "reaction": "Double Geo",
+        "members": [
+          "Navia",
+          "Zhongli",
+          "Xiangling",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Double Geo",
+        "members": [
+          "Navia",
+          "Chiori",
+          "Furina",
+          "Xianyun"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chevreuse",
+    "version": "4.3",
+    "element": "Pyro",
+    "banner": "https://paimon.moe/images/characters/full/chevreuse.png",
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Fontemer Unihorn (46)",
+      "Lumidouce Bell (168)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Order (9)",
+      "Guide to Order (63)",
+      "Philosophies of Order (114)",
+      "Crown of Insight (3)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)",
+      "Lightless Eye of the Maelstrom (18)"
+    ],
+    "weapons": [
+      "Rightful Reward",
+      "Favonius Lance",
+      "Dialogues of the Desert Sages",
+      "Black Tassel"
+    ],
+    "artifacts": [
+      "Noblesse Oblige",
+      "Song of Days Past",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C6 > C1 > C4",
+    "party": [
+      {
+        "reaction": "Overload",
+        "members": [
+          "Chevreuse",
+          "Raiden Shogun",
+          "Fischl",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Overload",
+        "members": [
+          "Chevreuse",
+          "Arlecchino",
+          "Fischl",
+          "Bennett"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Clorinde",
+    "version": "4.7",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/clorinde.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Fontemer Unihorn (46)",
+      "Lumitoile (168)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Justice (9)",
+      "Guide to Justice (63)",
+      "Philosophies of Justice (114)",
+      "Crown of Insight (3)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)",
+      "Everamber (18)"
+    ],
+    "weapons": [
+      "Absolution",
+      "Haran Geppaku Futsu",
+      "Mistsplitter Reforged",
+      "Finale of the Deep"
+    ],
+    "artifacts": [
+      "Fragment of Harmonic Whimsy",
+      "Thundering Fury",
+      "Gladiator’s Finale"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C1 > C6",
+    "party": [
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Clorinde",
+          "Fischl",
+          "Nahida",
+          "Kazuha"
+        ]
+      },
+      {
+        "reaction": "Quickbloom",
+        "members": [
+          "Clorinde",
+          "Furina",
+          "Nahida",
+          "Baizhu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sigewinne",
+    "version": "4.7",
+    "element": "Hydro",
+    "banner": "https://paimon.moe/images/characters/full/sigewinne.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Water That Failed to Transcend (46)",
+      "Romaritime Flower (168)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Equity (9)",
+      "Guide to Equity (63)",
+      "Philosophies of Equity (114)",
+      "Crown of Insight (3)",
+      "Transoceanic Pearl (18)",
+      "Transoceanic Chunk (30)",
+      "Xenochromatic Crystal (36)",
+      "Lightless Eye of the Maelstrom (18)"
+    ],
+    "weapons": [
+      "Silvershower Heartstrings",
+      "Recurve Bow",
+      "Favonius Warbow",
+      "Aqua Simulacra"
+    ],
+    "artifacts": [
+      "Song of Days Past",
+      "Ocean-Hued Clam",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Furina Support",
+        "members": [
+          "Furina",
+          "Sigewinne",
+          "Yelan",
+          "Kazuha"
+        ]
+      },
+      {
+        "reaction": "Off-field Skill",
+        "members": [
+          "Furina",
+          "Sigewinne",
+          "Fischl",
+          "Kazuha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Emilie",
+    "version": "4.8",
+    "element": "Dendro",
+    "banner": "https://paimon.moe/images/characters/full/emilie.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Fragment of a Golden Melody (46)",
+      "Lakelight Lily (168)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Order (9)",
+      "Guide to Order (63)",
+      "Philosophies of Order (114)",
+      "Crown of Insight (3)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)",
+      "Silken Feather (18)"
+    ],
+    "weapons": [
+      "Lumidouce Elegy",
+      "Staff of the Scarlet Sands",
+      "Deathmatch",
+      "Missive Windspear"
+    ],
+    "artifacts": [
+      "Unfinished Reverie",
+      "Deepwood Memories",
+      "Golden Troupe"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Burning",
+        "members": [
+          "Emilie",
+          "Kinich",
+          "Bennett",
+          "Xiangling"
+        ]
+      },
+      {
+        "reaction": "Burning",
+        "members": [
+          "Emilie",
+          "Dehya",
+          "Nahida",
+          "Bennett"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Escoffier",
+    "version": "5.6",
+    "element": "Cryo",
+    "banner": "https://paimon.moe/images/characters/full/escoffier.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Secret Source Airflow Accumulator (46)",
+      "Beryl Conch (168)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Justice (9)",
+      "Guide to Justice (63)",
+      "Philosophies of Justice (114)",
+      "Crown of Insight (3)",
+      "Meshing Gear (18)",
+      "Mechanical Spur Gear (30)",
+      "Artificed Dynamic Gear (36)",
+      "Eroded Horn (18)"
+    ],
+    "weapons": [
+      "Symphonist of Scents",
+      "Favonius Lance",
+      "Dialogues of the Desert Sages",
+      "Rightful Reward"
+    ],
+    "artifacts": [
+      "Golden Troupe",
+      "Noblesse Oblige",
+      "Song of Days Past"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Escoffier",
+          "Furina",
+          "Wriothesley",
+          "Shenhe"
+        ]
+      },
+      {
+        "reaction": "Hydro Cryo",
+        "members": [
+          "Neuvillette",
+          "Furina",
+          "Escoffier",
+          "Kazuha"
+        ]
+      }
+    ]
+  }
+  ]
+}

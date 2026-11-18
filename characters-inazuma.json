@@ -1,0 +1,1033 @@
+{
+  "region": "inazuma",
+  "regionName": "Inazuma",
+  "characters": [
+    
+  {
+    "name": "Kamisato Ayaka",
+    "version": "2.0",
+    "element": "Cryo",
+    "banner": "https://paimon.moe/images/characters/full/kamisatoayaka.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Perpetual Heart (46)",
+      "Sakura Bloom (168)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (30)",
+      "Famed Handguard (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Elegance (9)",
+      "Guide to Elegance (63)",
+      "Philosophies of Elegance (114)",
+      "Crown of Insight (3)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (66)",
+      "Famed Handguard (93)",
+      "Bloodjade Branch (18)"
+    ],
+    "weapons": [
+      "Mistsplitter Reforged",
+      "Amenoma Kageuchi",
+      "Finale of the Deep"
+    ],
+    "artifacts": [
+      "Blizzard Strayer",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "Elemental Burst",
+      "Elemental Skill"
+    ],
+    "constellationPriority": "C2 > C4 > C6",
+    "party": [
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Ayaka",
+          "Shenhe",
+          "Kokomi",
+          "Kazuha"
+        ]
+      },
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Ayaka",
+          "Furina",
+          "Charlotte",
+          "Kazuha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yoimiya",
+    "version": "2.0",
+    "element": "Pyro",
+    "banner": "https://paimon.moe/images/characters/full/yoimiya.png",
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Smoldering Pearl (46)",
+      "Naku Weed (168)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (30)",
+      "Forbidden Curse Scroll (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Transience (9)",
+      "Guide to Transience (63)",
+      "Philosophies of Transience (114)",
+      "Crown of Insight (3)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (66)",
+      "Forbidden Curse Scroll (93)",
+      "Dragon Lord's Crown (18)"
+    ],
+    "weapons": [
+      "Thundering Pulse",
+      "Rust",
+      "Slingshot"
+    ],
+    "artifacts": [
+      "Shimenawa's Reminiscence",
+      "Crimson Witch of Flames"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "Elemental Skill",
+      "Elemental Burst"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Yoimiya",
+          "Xingqiu",
+          "Yelan",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Overloaded",
+        "members": [
+          "Yoimiya",
+          "Fischl",
+          "Chevreuse",
+          "Bennett"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sayu",
+    "version": "2.0",
+    "element": "Anemo",
+    "banner": "https://paimon.moe/images/characters/full/sayu.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Marionette Core (46)",
+      "Crystal Marrow (168)",
+      "Whopperflower Nectar (18)",
+      "Shimmering Nectar (30)",
+      "Energy Nectar (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Light (9)",
+      "Guide to Light (63)",
+      "Philosophies of Light (114)",
+      "Crown of Insight (3)",
+      "Whopperflower Nectar (18)",
+      "Shimmering Nectar (66)",
+      "Energy Nectar (93)",
+      "Gilded Scale (18)"
+    ],
+    "weapons": [
+      "Wolf’s Gravestone",
+      "Favonius Greatsword",
+      "Rainslasher"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Ocean-Hued Clam"
+    ],
+    "talentPriority": [
+      "Elemental Burst",
+      "Elemental Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C6",
+    "party": [
+      {
+        "reaction": "Swirl",
+        "members": [
+          "Sayu",
+          "Xiangling",
+          "Xingqiu",
+          "Kaedehara Kazuha"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Sayu",
+          "Fischl",
+          "Nahida",
+          "Xingqiu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Raiden Shogun",
+    "version": "2.1",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/raidenshogun.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Storm Beads (46)",
+      "Amakumo Fruit (168)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (30)",
+      "Famed Handguard (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Light (9)",
+      "Guide to Light (63)",
+      "Philosophies of Light (114)",
+      "Crown of Insight (3)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (66)",
+      "Famed Handguard (93)",
+      "Molten Moment (18)"
+    ],
+    "weapons": [
+      "Engulfing Lightning",
+      "The Catch",
+      "Staff of the Scarlet Sands"
+    ],
+    "artifacts": [
+      "Emblem of Severed Fate",
+      "Gilded Dreams"
+    ],
+    "talentPriority": [
+      "Elemental Burst",
+      "Elemental Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C3 > C4",
+    "party": [
+      {
+        "reaction": "National",
+        "members": [
+          "Raiden Shogun",
+          "Xiangling",
+          "Xingqiu",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Hypercarry",
+        "members": [
+          "Raiden Shogun",
+          "Kujou Sara",
+          "Bennett",
+          "Kazuha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sangonomiya Kokomi",
+    "version": "2.1",
+    "element": "Hydro",
+    "banner": "https://paimon.moe/images/characters/full/sangonomiyakokomi.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Dew of Repudiation (46)",
+      "Sango Pearl (168)",
+      "Spectral Husk (18)",
+      "Spectral Heart (30)",
+      "Spectral Nucleus (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Transience (9)",
+      "Guide to Transience (63)",
+      "Philosophies of Transience (114)",
+      "Crown of Insight (3)",
+      "Spectral Husk (18)",
+      "Spectral Heart (66)",
+      "Spectral Nucleus (93)",
+      "Hellfire Butterfly (18)"
+    ],
+    "weapons": [
+      "Everlasting Moonglow",
+      "Thrilling Tales of Dragon Slayers",
+      "Prototype Amber"
+    ],
+    "artifacts": [
+      "Tenacity of the Millelith",
+      "Ocean-Hued Clam"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C4 > C6",
+    "party": [
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Kokomi",
+          "Ayaka",
+          "Shenhe",
+          "Kazuha"
+        ]
+      },
+      {
+        "reaction": "Bloom",
+        "members": [
+          "Kokomi",
+          "Nilou",
+          "Nahida",
+          "Dendro Traveler"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kujou Sara",
+    "version": "2.1",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/kujousara.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Storm Beads (46)",
+      "Dendrobium (168)",
+      "Damaged Mask (18)",
+      "Stained Mask (30)",
+      "Ominous Mask (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Elegance (9)",
+      "Guide to Elegance (63)",
+      "Philosophies of Elegance (114)",
+      "Crown of Insight (3)",
+      "Damaged Mask (18)",
+      "Stained Mask (66)",
+      "Ominous Mask (93)",
+      "Ashen Heart (18)"
+    ],
+    "weapons": [
+      "Skyward Harp",
+      "Elegy for the End",
+      "Sacrificial Bow"
+    ],
+    "artifacts": [
+      "Noblesse Oblige",
+      "Emblem of Severed Fate"
+    ],
+    "talentPriority": [
+      "Elemental Burst",
+      "Elemental Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C6",
+    "party": [
+      {
+        "reaction": "Hypercarry",
+        "members": [
+          "Raiden Shogun",
+          "Kujou Sara",
+          "Bennett",
+          "Kazuha"
+        ]
+      },
+      {
+        "reaction": "Mono Electro",
+        "members": [
+          "Yae Miko",
+          "Kujou Sara",
+          "Raiden Shogun",
+          "Kazuha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Thoma",
+    "version": "2.2",
+    "element": "Pyro",
+    "banner": "https://paimon.moe/images/characters/full/thoma.png",
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Smoldering Pearl (46)",
+      "Fluorescent Fungus (168)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (30)",
+      "Golden Raven Insignia (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Transience (9)",
+      "Guide to Transience (63)",
+      "Philosophies of Transience (114)",
+      "Crown of Insight (3)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (66)",
+      "Golden Raven Insignia (93)",
+      "Hellfire Butterfly (18)"
+    ],
+    "weapons": [
+      "Favonius Lance",
+      "Kitain Cross Spear",
+      "Black Tassel"
+    ],
+    "artifacts": [
+      "Noblesse Oblige",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C4 > C6",
+    "party": [
+      {
+        "reaction": "Burgeon",
+        "members": [
+          "Thoma",
+          "Nahida",
+          "Xingqiu",
+          "Kokomi"
+        ]
+      },
+      {
+        "reaction": "Shield Support",
+        "members": [
+          "Thoma",
+          "Yoimiya",
+          "Yelan",
+          "Bennett"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Arataki Itto",
+    "version": "2.3",
+    "element": "Geo",
+    "banner": "https://paimon.moe/images/characters/full/aratakiitto.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Riftborn Regalia (46)",
+      "Onikabuto (168)",
+      "Slime Condensate (18)",
+      "Slime Secretions (30)",
+      "Slime Concentrate (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Elegance (9)",
+      "Guide to Elegance (63)",
+      "Philosophies of Elegance (114)",
+      "Crown of Insight (3)",
+      "Slime Condensate (18)",
+      "Slime Secretions (66)",
+      "Slime Concentrate (93)",
+      "Ashen Heart (18)"
+    ],
+    "weapons": [
+      "Redhorn Stonethresher",
+      "Serpent Spine",
+      "Whiteblind"
+    ],
+    "artifacts": [
+      "Husk of Opulent Dreams",
+      "Golden Troupe"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "Elemental Burst",
+      "Elemental Skill"
+    ],
+    "constellationPriority": "C2 > C6",
+    "party": [
+      {
+        "reaction": "Mono Geo",
+        "members": [
+          "Arataki Itto",
+          "Gorou",
+          "Albedo",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Geo",
+        "members": [
+          "Arataki Itto",
+          "Gorou",
+          "Chiori",
+          "Zhongli"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gorou",
+    "version": "2.3",
+    "element": "Geo",
+    "banner": "https://paimon.moe/images/characters/full/gorou.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Perpetual Heart (46)",
+      "Sango Pearl (168)",
+      "Spectral Husk (18)",
+      "Spectral Heart (30)",
+      "Spectral Nucleus (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Light (9)",
+      "Guide to Light (63)",
+      "Philosophies of Light (114)",
+      "Crown of Insight (3)",
+      "Spectral Husk (18)",
+      "Spectral Heart (66)",
+      "Spectral Nucleus (93)",
+      "Molten Moment (18)"
+    ],
+    "weapons": [
+      "Favonius Warbow",
+      "Elegy for the End",
+      "Sacrificial Bow"
+    ],
+    "artifacts": [
+      "The Exile",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C4 > C6",
+    "party": [
+      {
+        "reaction": "Mono Geo",
+        "members": [
+          "Arataki Itto",
+          "Gorou",
+          "Albedo",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Geo",
+        "members": [
+          "Noelle",
+          "Gorou",
+          "Fischl",
+          "Zhongli"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yae Miko",
+    "version": "2.5",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/yaemiko.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Dragonheir’s False Fin (46)",
+      "Sea Ganoderma (168)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (30)",
+      "Famed Handguard (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Light (9)",
+      "Guide to Light (63)",
+      "Philosophies of Light (114)",
+      "Crown of Insight (3)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (66)",
+      "Famed Handguard (93)",
+      "The Meaning of Aeons (18)"
+    ],
+    "weapons": [
+      "Kagura’s Verity",
+      "The Widsith",
+      "Oathsworn Eye"
+    ],
+    "artifacts": [
+      "Golden Troupe",
+      "Gilded Dreams"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C6",
+    "party": [
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Yae Miko",
+          "Fischl",
+          "Nahida",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Hypercarry",
+        "members": [
+          "Yae Miko",
+          "Raiden Shogun",
+          "Kujou Sara",
+          "Kazuha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kamisato Ayato",
+    "version": "2.6",
+    "element": "Hydro",
+    "banner": "https://paimon.moe/images/characters/full/kamisatoayato.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Dew of Repudiation (46)",
+      "Sakura Bloom (168)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (30)",
+      "Famed Handguard (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Elegance (9)",
+      "Guide to Elegance (63)",
+      "Philosophies of Elegance (114)",
+      "Crown of Insight (3)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (66)",
+      "Famed Handguard (93)",
+      "Mudra of the Malefic General (18)"
+    ],
+    "weapons": [
+      "Haran Geppaku Futsu",
+      "Mistsplitter Reforged",
+      "Amenoma Kageuchi"
+    ],
+    "artifacts": [
+      "Echoes of an Offering",
+      "Heart of Depth",
+      "Nymph’s Dream"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C3 > C6",
+    "party": [
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Kamisato Ayato",
+          "Xiangling",
+          "Bennett",
+          "Kazuha"
+        ]
+      },
+      {
+        "reaction": "Hyperbloom",
+        "members": [
+          "Kamisato Ayato",
+          "Nahida",
+          "Kuki Shinobu",
+          "Xingqiu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kuki Shinobu",
+    "version": "2.7",
+    "element": "Electro",
+    "banner": "https://paimon.moe/images/characters/full/kukishinobu.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Runic Fang (46)",
+      "Naku Weed (168)",
+      "Spectral Husk (18)",
+      "Spectral Heart (30)",
+      "Spectral Nucleus (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Transience (9)",
+      "Guide to Transience (63)",
+      "Philosophies of Transience (114)",
+      "Crown of Insight (3)",
+      "Spectral Husk (18)",
+      "Spectral Heart (66)",
+      "Spectral Nucleus (93)",
+      "Tears of the Calamitous God (18)"
+    ],
+    "weapons": [
+      "Freedom-Sworn",
+      "Iron Sting",
+      "Xiphos’ Moonlight"
+    ],
+    "artifacts": [
+      "Flower of Paradise Lost",
+      "Gilded Dreams",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C2 > C4 > C6",
+    "party": [
+      {
+        "reaction": "Hyperbloom",
+        "members": [
+          "Kuki Shinobu",
+          "Nahida",
+          "Xingqiu",
+          "Alhaitham"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Kuki Shinobu",
+          "Dendro Traveler",
+          "Fischl",
+          "Sucrose"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shikanoin Heizou",
+    "version": "2.8",
+    "element": "Anemo",
+    "banner": "https://paimon.moe/images/characters/full/shikanoinheizou.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Runic Fang (46)",
+      "Onikabuto (168)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (30)",
+      "Golden Raven Insignia (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Transience (9)",
+      "Guide to Transience (63)",
+      "Philosophies of Transience (114)",
+      "Crown of Insight (3)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (66)",
+      "Golden Raven Insignia (93)",
+      "The Meaning of Aeons (18)"
+    ],
+    "weapons": [
+      "Skyward Atlas",
+      "The Widsith",
+      "Sacrificial Fragments"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Desert Pavilion Chronicle"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Normal Attack",
+      "Elemental Burst"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Taser",
+        "members": [
+          "Shikanoin Heizou",
+          "Xingqiu",
+          "Fischl",
+          "Beidou"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Shikanoin Heizou",
+          "Xiangling",
+          "Xingqiu",
+          "Bennett"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kirara",
+    "version": "3.7",
+    "element": "Dendro",
+    "banner": "https://paimon.moe/images/characters/full/kirara.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Evergloom Ring (46)",
+      "Naku Weed (168)",
+      "Spectral Husk (18)",
+      "Spectral Heart (30)",
+      "Spectral Nucleus (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Transience (9)",
+      "Guide to Transience (63)",
+      "Philosophies of Transience (114)",
+      "Crown of Insight (3)",
+      "Spectral Husk (18)",
+      "Spectral Heart (66)",
+      "Spectral Nucleus (93)",
+      "Everamber (18)"
+    ],
+    "weapons": [
+      "Key of Khaj-Nisut",
+      "Favonius Sword",
+      "Sacrificial Sword"
+    ],
+    "artifacts": [
+      "Tenacity of the Millelith",
+      "Deepwood Memories"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C4 > C6",
+    "party": [
+      {
+        "reaction": "Nilou Bloom",
+        "members": [
+          "Kirara",
+          "Nilou",
+          "Nahida",
+          "Kokomi"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Kirara",
+          "Keqing",
+          "Fischl",
+          "Kazuha"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Chiori",
+    "version": "4.5",
+    "element": "Geo",
+    "banner": "https://paimon.moe/images/characters/full/chiori.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Artificed Spare Clockwork Component — Coppelia (46)",
+      "Dendrobium (168)",
+      "Spectral Husk (18)",
+      "Spectral Heart (30)",
+      "Spectral Nucleus (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Light (9)",
+      "Guide to Light (63)",
+      "Philosophies of Light (114)",
+      "Crown of Insight (3)",
+      "Spectral Husk (18)",
+      "Spectral Heart (66)",
+      "Spectral Nucleus (93)",
+      "Lightless Silk String (18)"
+    ],
+    "weapons": [
+      "Uraku Misugiri",
+      "Cinnabar Spindle",
+      "Harbinger of Dawn"
+    ],
+    "artifacts": [
+      "Husk of Opulent Dreams",
+      "Golden Troupe"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Double Geo",
+        "members": [
+          "Chiori",
+          "Navia",
+          "Furina",
+          "Bennett"
+        ]
+      },
+      {
+        "reaction": "Mono Geo",
+        "members": [
+          "Chiori",
+          "Arataki Itto",
+          "Gorou",
+          "Zhongli"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yumemizuki Mizuki",
+    "version": "5.4",
+    "element": "Anemo",
+    "banner": "https://paimon.moe/images/characters/full/yumemizukimizuki.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Talisman of the Enigmatic Land (46)",
+      "Sea Ganoderma (168)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (30)",
+      "Famed Handguard (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Transience (9)",
+      "Guide to Transience (63)",
+      "Philosophies of Transience (114)",
+      "Crown of Insight (3)",
+      "Old Handguard (18)",
+      "Kageuchi Handguard (66)",
+      "Famed Handguard (93)",
+      "Fading Candle (18)"
+    ],
+    "weapons": [
+      "Sunny Morning Sleep-In",
+      "A Thousand Floating Dreams",
+      "Sacrificial Fragments"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Wanderer’s Troupe"
+    ],
+    "talentPriority": [
+      "Elemental Skill",
+      "Elemental Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": "C1 > C2 > C6",
+    "party": [
+      {
+        "reaction": "Swirl",
+        "members": [
+          "Yumemizuki Mizuki",
+          "Furina",
+          "Xiangling",
+          "Fischl"
+        ]
+      },
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Yumemizuki Mizuki",
+          "Furina",
+          "Xiangling",
+          "Bennett"
+        ]
+      }
+    ]
+  }
+  ]
+}
