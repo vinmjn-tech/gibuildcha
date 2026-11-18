@@ -935,7 +935,82 @@
         ]
       }
     ]
-  }
+  },
+  {
+  "name": "Wanderer",
+  "version": "3.3",
+  "element": "anemo",
+  "banner": "https://paimon.moe/images/characters/full/wanderer.png",
+  "materials": [
+    "Mora (420.000)",
+    "Vayuda Turquoise Sliver (1)",
+    "Vayuda Turquoise Fragment (9)",
+    "Vayuda Turquoise Chunk (9)",
+    "Vayuda Turquoise Gemstone (6)",
+    "Perpetual Caliber (46)",
+    "Rukkhashava Mushrooms (168)",
+    "Old Handguard (18)",
+    "Kageuchi Handguard (30)",
+    "Famed Handguard (36)"
+  ],
+  "talenta": [
+    "Mora (4.957.500)",
+    "Teachings of Praxis (9)",
+    "Guide to Praxis (63)",
+    "Philosophies of Praxis (114)",
+    "Crown of Insight (3)",
+    "Old Handguard (18)",
+    "Kageuchi Handguard (66)",
+    "Famed Handguard (93)",
+    "Daka's Bell (18)"
+  ],
+  "weapons": [
+    "Tulaytullah's Remembrance",
+    "Lost Prayer to the Sacred Winds",
+    "Skyward Atlas",
+    "Memory of Dust",
+    "The Widsith",
+    "Solar Pearl",
+    "Dodoco Tales",
+    "Blackcliff Agate"
+  ],
+  "artifacts": [
+    "Desert Pavilion Chronicle",
+    "Shimenawa's Reminiscence",
+    "Echoes of an Offering",
+    "Viridescent Venerer"
+  ],
+  "talentPriority": [
+    "Normal Attack",
+    "E.Skill",
+    "E.Burst"
+  ],
+  "constellationPriority": [
+    "C2",
+    "C6",
+    "C1"
+  ],
+  "party": [
+    {
+      "reaction": "Anemo Hypercarry",
+      "members": [
+        "Wanderer",
+        "Faruzan",
+        "Bennett",
+        "Zhongli"
+      ]
+    },
+    {
+      "reaction": "Anemo Hypercarry",
+      "members": [
+        "Wanderer",
+        "Faruzan",
+        "Bennett",
+        "Furina"
+      ]
+    }
+  ]
+}
   ]
 }
 

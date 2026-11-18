@@ -1625,86 +1625,152 @@
     ]
   },
   {
-    "name": "Illuga",
-    "version": "6.4",
-    "element": "geo",
-    "banner": "https://paimon.moe/images/characters/full/illuga.png",
-    "materials": [
-      "Mora (420.000)",
-      "Prithiva Topaz Sliver (1)",
-      "Prithiva Topaz Fragment (9)",
-      "Prithiva Topaz Chunk (9)",
-      "Prithiva Topaz Gemstone (6)",
-      "Cyclic Military Kuuvahki Core (46)",
-      "Pine Amber (168)",
-      "Broken Drive Shaft (18)",
-      "Reinforced Drive Shaft (30)",
-      "Precision Drive Shaft (36)"
-    ],
-    "talenta": [
-      "Mora (4.957.500)",
-      "Teachings of Elysium (9)",
-      "Guide to Elysium (63)",
-      "Philosophies of Elysium (114)",
-      "Crown of Insight (3)",
-      "Broken Drive Shaft (18)",
-      "Reinforced Drive Shaft (66)",
-      "Precision Drive Shaft (93)",
-      "Eroded Horn (18)"
-    ],
-    "weapons": [
-      "Favonius Lance",
-      "Dialogues of the Desert Sages",
-      "Kitain Cross Spear",
-      "Deathmatch",
-      "Beacon of the Reed Sea"
-    ],
-    "artifacts": [
-      "Silken Moon's Serenade",
-      "Scroll of the Hero of Cinder City",
-      "Instructor",
-      "Noblesse Oblige"
-    ],
-    "talentPriority": [
-      "E.Skill",
-      "E.Burst",
-      "Normal Attack"
-    ],
-    "constellationPriority": [
-      "C6",
-      "C2",
-      "C4"
-    ],
-    "party": [
-      {
-        "reaction": "Lunar-Crystallize",
-        "members": [
-          "Zibai",
-          "Columbina",
-          "Illuga",
-          "Linnea"
-        ]
-      },
-      {
-        "reaction": "Lunar-Crystallize",
-        "members": [
-          "Zibai",
-          "Columbina",
-          "Illuga",
-          "Zhongli"
-        ]
-      },
-      {
-        "reaction": "Geo Support",
-        "members": [
-          "Navia",
-          "Furina",
-          "Illuga",
-          "Xilonen"
-        ]
-      }
-    ]
-  }
-
+  "name": "Keqing",
+  "version": "1.0",
+  "element": "electro",
+  "banner": "https://paimon.moe/images/characters/full/keqing.png",
+  "materials": [
+    "Mora (420.000)",
+    "Vajrada Amethyst Sliver (1)",
+    "Vajrada Amethyst Fragment (9)",
+    "Vajrada Amethyst Chunk (9)",
+    "Vajrada Amethyst Gemstone (6)",
+    "Lightning Prism (46)",
+    "Cor Lapis (168)",
+    "Whopperflower Nectar (18)",
+    "Shimmering Nectar (30)",
+    "Energy Nectar (36)"
+  ],
+  "talenta": [
+    "Mora (4.957.500)",
+    "Teachings of Prosperity (9)",
+    "Guide to Prosperity (63)",
+    "Philosophies of Prosperity (114)",
+    "Crown of Insight (3)",
+    "Whopperflower Nectar (18)",
+    "Shimmering Nectar (66)",
+    "Energy Nectar (93)",
+    "Ring of Boreas (18)"
+  ],
+  "weapons": [
+    "Mistsplitter Reforged",
+    "Light of Foliar Incision",
+    "Primordial Jade Cutter",
+    "Haran Geppaku Futsu",
+    "The Black Sword",
+    "Lion's Roar"
+  ],
+  "artifacts": [
+    "Thundering Fury",
+    "Gilded Dreams",
+    "Thundering Fury + Gladiator's Finale"
+  ],
+  "talentPriority": [
+    "E.Skill",
+    "Normal Attack",
+    "E.Burst"
+  ],
+  "constellationPriority": [
+    "C4",
+    "C6",
+    "C3"
+  ],
+  "party": [
+    {
+      "reaction": "Aggravate",
+      "members": [
+        "Keqing",
+        "Fischl",
+        "Nahida",
+        "Kazuha"
+      ]
+    },
+    {
+      "reaction": "Aggravate",
+      "members": [
+        "Keqing",
+        "Fischl",
+        "Yaoyao",
+        "Kazuha"
+      ]
+    },
+    {
+      "reaction": "Quickbloom",
+      "members": [
+        "Keqing",
+        "Furina",
+        "Nahida",
+        "Baizhu"
+      ]
+    }
+  ]
+},
+{
+  "name": "Qiqi",
+  "version": "1.0",
+  "element": "cryo",
+  "banner": "https://paimon.moe/images/characters/full/qiqi.png",
+  "materials": [
+    "Mora (420.000)",
+    "Shivada Jade Sliver (1)",
+    "Shivada Jade Fragment (9)",
+    "Shivada Jade Chunk (9)",
+    "Shivada Jade Gemstone (6)",
+    "Hoarfrost Core (46)",
+    "Violetgrass (168)",
+    "Divining Scroll (18)",
+    "Sealed Scroll (30)",
+    "Forbidden Curse Scroll (36)"
+  ],
+  "talenta": [
+    "Mora (4.957.500)",
+    "Teachings of Prosperity (9)",
+    "Guide to Prosperity (63)",
+    "Philosophies of Prosperity (114)",
+    "Crown of Insight (3)",
+    "Divining Scroll (18)",
+    "Sealed Scroll (66)",
+    "Forbidden Curse Scroll (93)",
+    "Tail of Boreas (18)"
+  ],
+  "weapons": [
+    "Sacrificial Sword",
+    "Favonius Sword",
+    "Skyward Blade",
+    "Aquila Favonia",
+    "The Flute",
+    "Amenoma Kageuchi"
+  ],
+  "artifacts": [
+    "Ocean-Hued Clam",
+    "Tenacity of the Millelith",
+    "Noblesse Oblige",
+    "Ocean-Hued Clam + Maiden Beloved"
+  ],
+  "talentPriority": [
+    "E.Skill",
+    "E.Burst",
+    "Normal Attack"
+  ],
+  "constellationPriority": [
+    "C6",
+    "C2",
+    "C4"
+  ],
+  "party": [
+    {
+      "reaction": "Superconduct",
+      "members": ["Qiqi", "Eula", "Fischl", "Raiden Shogun"]
+    },
+    {
+      "reaction": "Freeze",
+      "members": ["Qiqi", "Furina", "Yelan", "Xingqiu"]
+    },
+    {
+      "reaction": "Physical",
+      "members": ["Qiqi", "Fischl", "Rosaria", "Furina"]
+    }
+  ]
+}
   ]
 }

@@ -722,7 +722,87 @@
         ]
       }
     ]
+  },
+{
+    "name": "Illuga",
+    "version": "6.4",
+    "element": "geo",
+    "banner": "https://paimon.moe/images/characters/full/illuga.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Cyclic Military Kuuvahki Core (46)",
+      "Pine Amber (168)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (30)",
+      "Precision Drive Shaft (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Elysium (9)",
+      "Guide to Elysium (63)",
+      "Philosophies of Elysium (114)",
+      "Crown of Insight (3)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (66)",
+      "Precision Drive Shaft (93)",
+      "Eroded Horn (18)"
+    ],
+    "weapons": [
+      "Favonius Lance",
+      "Dialogues of the Desert Sages",
+      "Kitain Cross Spear",
+      "Deathmatch",
+      "Beacon of the Reed Sea"
+    ],
+    "artifacts": [
+      "Silken Moon's Serenade",
+      "Scroll of the Hero of Cinder City",
+      "Instructor",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C4"
+    ],
+    "party": [
+      {
+        "reaction": "Lunar-Crystallize",
+        "members": [
+          "Zibai",
+          "Columbina",
+          "Illuga",
+          "Linnea"
+        ]
+      },
+      {
+        "reaction": "Lunar-Crystallize",
+        "members": [
+          "Zibai",
+          "Columbina",
+          "Illuga",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Geo Support",
+        "members": [
+          "Navia",
+          "Furina",
+          "Illuga",
+          "Xilonen"
+        ]
+      }
+    ]
   }
-
   ]
 }

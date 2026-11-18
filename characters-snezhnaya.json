@@ -82,6 +82,91 @@
       ]
     },
     {
+  "name": "Arlecchino",
+  "version": "4.6",
+  "element": "pyro",
+  "banner": "https://paimon.moe/images/characters/full/arlecchino.png",
+  "materials": [
+    "Mora (420.000)",
+    "Agnidus Agate Sliver (1)",
+    "Agnidus Agate Fragment (9)",
+    "Agnidus Agate Chunk (9)",
+    "Agnidus Agate Gemstone (6)",
+    "Fragment of a Golden Melody (46)",
+    "Rainbow Rose (168)",
+    "Recruit's Insignia (18)",
+    "Sergeant's Insignia (30)",
+    "Lieutenant's Insignia (36)"
+  ],
+  "talenta": [
+    "Mora (4.957.500)",
+    "Teachings of Order (9)",
+    "Guide to Order (63)",
+    "Philosophies of Order (114)",
+    "Crown of Insight (3)",
+    "Recruit's Insignia (18)",
+    "Sergeant's Insignia (66)",
+    "Lieutenant's Insignia (93)",
+    "Fading Candle (18)"
+  ],
+  "weapons": [
+    "Crimson Moon's Semblance",
+    "Primordial Jade Winged-Spear",
+    "Staff of Homa",
+    "Staff of the Scarlet Sands",
+    "Deathmatch",
+    "Ballad of the Fjords",
+    "White Tassel",
+    "Missive Windspear"
+  ],
+  "artifacts": [
+    "Fragment of Harmonic Whimsy",
+    "Gladiator's Finale",
+    "Echoes of an Offering",
+    "Crimson Witch of Flames",
+    "Gilded Dreams"
+  ],
+  "talentPriority": [
+    "Normal Attack",
+    "E.Skill",
+    "E.Burst"
+  ],
+  "constellationPriority": [
+    "C1",
+    "C2",
+    "C6"
+  ],
+  "party": [
+    {
+      "reaction": "Vaporize",
+      "members": [
+        "Arlecchino",
+        "Yelan",
+        "Bennett",
+        "Kazuha"
+      ]
+    },
+    {
+      "reaction": "Overload",
+      "members": [
+        "Arlecchino",
+        "Chevreuse",
+        "Fischl",
+        "Bennett"
+      ]
+    },
+    {
+      "reaction": "Melt",
+      "members": [
+        "Arlecchino",
+        "Citlali",
+        "Bennett",
+        "Sucrose"
+      ]
+    }
+  ]
+},
+    {
       "name": "Alyosha",
       "version": "7.0",
       "element": "electro",

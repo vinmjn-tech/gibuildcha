@@ -841,6 +841,91 @@
       ]
     },
     {
+  "name": "Skirk",
+  "version": "5.7",
+  "element": "cryo",
+  "banner": "https://paimon.moe/images/characters/full/skirk.png",
+  "materials": [
+    "Mora (420.000)",
+    "Shivada Jade Sliver (1)",
+    "Shivada Jade Fragment (9)",
+    "Shivada Jade Chunk (9)",
+    "Shivada Jade Gemstone (6)",
+    "Precision Kuuvahki Stamping Die (46)",
+    "Skysplit Gembloom (168)",
+    "Meshing Gear (18)",
+    "Mechanical Spur Gear (30)",
+    "Artificed Dynamic Gear (36)"
+  ],
+  "talenta": [
+    "Mora (4.957.500)",
+    "Teachings of Contention (9)",
+    "Guide to Contention (63)",
+    "Philosophies of Contention (114)",
+    "Crown of Insight (3)",
+    "Meshing Gear (18)",
+    "Mechanical Spur Gear (66)",
+    "Artificed Dynamic Gear (93)",
+    "Ascended Sample: Rook (18)"
+  ],
+  "weapons": [
+    "Azurelight",
+    "Haran Geppaku Futsu",
+    "Primordial Jade Cutter",
+    "Mistsplitter Reforged",
+    "Beyond the Chrysalis",
+    "Uraku Misugiri",
+    "Finale of the Deep",
+    "Calamity of Eshu",
+    "The Black Sword"
+  ],
+  "artifacts": [
+    "Finale of the Deep Galleries",
+    "Marechaussee Hunter",
+    "Blizzard Strayer",
+    "Gladiator's Finale"
+  ],
+  "talentPriority": [
+    "E.Skill",
+    "E.Burst",
+    "Normal Attack"
+  ],
+  "constellationPriority": [
+    "C2",
+    "C1",
+    "C6"
+  ],
+  "party": [
+    {
+      "reaction": "Freeze",
+      "members": [
+        "Skirk",
+        "Furina",
+        "Escoffier",
+        "Vodyanitsa"
+      ]
+    },
+    {
+      "reaction": "Freeze",
+      "members": [
+        "Skirk",
+        "Furina",
+        "Shenhe",
+        "Charlotte"
+      ]
+    },
+    {
+      "reaction": "Freeze",
+      "members": [
+        "Skirk",
+        "Yelan",
+        "Rosaria",
+        "Charlotte"
+      ]
+    }
+  ]
+},
+    {
       "name": "Escoffier",
       "version": "5.6",
       "element": "Cryo",
