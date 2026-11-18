@@ -88,6 +88,823 @@
           "members": ["Aino", "Kaveh", "Kuki Shinobu", "Xingqiu"]
         }
       ]
-    }
+    },
+    
+  {
+    "name": "Flins",
+    "version": "6.0",
+    "element": "electro",
+    "banner": "https://paimon.moe/images/characters/full/flins.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Precision Kuuvahki Stamping Die (46)",
+      "Frostlamp Flower (168)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (30)",
+      "Precision Drive Shaft (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (66)",
+      "Precision Drive Shaft (93)",
+      "Crown of Insight (3)",
+      "Teachings of Vagrancy (9)",
+      "Guide to Vagrancy (63)",
+      "Philosophies of Vagrancy (114)",
+      "Ascended Sample: Queen (18)"
+    ],
+    "weapons": [
+      "Bloodsoaked Ruins",
+      "Staff of the Scarlet Sands",
+      "Deathmatch",
+      "Ballad of the Fjords",
+      "Staff of Homa",
+      "Primordial Jade Winged-Spear"
+    ],
+    "artifacts": [
+      "Night of the Sky's Unveiling",
+      "Thundering Fury",
+      "Night of the Sky's Unveiling"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Flins",
+          "Ineffa",
+          "Columbina",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Flins",
+          "Fischl",
+          "Columbina",
+          "Jahoda"
+        ]
+      },
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Flins",
+          "Ineffa",
+          "Aino",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Flins",
+          "Fischl",
+          "Mona",
+          "Jahoda"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lauma",
+    "version": "6.0",
+    "element": "dendro",
+    "banner": "https://paimon.moe/images/characters/full/lauma.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Lightbearing Scale-Feather (46)",
+      "Moonfall Silver (168)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (30)",
+      "Frost-Etched Warrant (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (66)",
+      "Frost-Etched Warrant (93)",
+      "Crown of Insight (3)",
+      "Teachings of Moonlight (9)",
+      "Guide to Moonlight (63)",
+      "Philosophies of Moonlight (114)",
+      "Eroded Scale-Feather (18)"
+    ],
+    "weapons": [
+      "Nightweaver's Looking Glass",
+      "A Thousand Floating Dreams",
+      "Wandering Evenstar",
+      "Sacrificial Fragments",
+      "Favonius Codex",
+      "Magic Guide"
+    ],
+    "artifacts": [
+      "Deepwood Memories",
+      "Silken Moon's Serenade",
+      "Gilded Dreams",
+      "Deepwood Memories"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Lauma",
+          "Nefer",
+          "Columbina",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Lauma",
+          "Nefer",
+          "Aino",
+          "Nahida"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Lauma",
+          "Columbina",
+          "Aino",
+          "Ineffa"
+        ]
+      },
+      {
+        "reaction": "Bloom",
+        "members": [
+          "Lauma",
+          "Nilou",
+          "Kokomi",
+          "Nahida"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nefer",
+    "version": "6.1",
+    "element": "dendro",
+    "banner": "https://paimon.moe/images/characters/full/nefer.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Radiant Antler (46)",
+      "Moonfall Silver (168)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (30)",
+      "Frost-Etched Warrant (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (66)",
+      "Frost-Etched Warrant (93)",
+      "Crown of Insight (3)",
+      "Teachings of Elysium (9)",
+      "Guide to Elysium (63)",
+      "Philosophies of Elysium (114)",
+      "Ascended Sample: Rook (18)"
+    ],
+    "weapons": [
+      "Reliquary of Truth",
+      "Nightweaver's Looking Glass",
+      "Surf's Up",
+      "Tome of the Eternal Flow",
+      "Dawning Frost",
+      "Blackmarrow Lantern"
+    ],
+    "artifacts": [
+      "Night of the Sky's Unveiling",
+      "Gilded Dreams"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Nefer",
+          "Lauma",
+          "Columbina",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Nefer",
+          "Lauma",
+          "Aino",
+          "Nahida"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Nefer",
+          "Lauma",
+          "Columbina",
+          "Jahoda"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Nefer",
+          "Lauma",
+          "Columbina",
+          "Linnea"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jahoda",
+    "version": "6.2",
+    "element": "anemo",
+    "banner": "https://paimon.moe/images/characters/full/jahoda.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Lightbearing Scale-Feather (46)",
+      "Portable Bearing (168)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (30)",
+      "Precision Drive Shaft (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (66)",
+      "Precision Drive Shaft (93)",
+      "Crown of Insight (3)",
+      "Teachings of Vagrancy (9)",
+      "Guide to Vagrancy (63)",
+      "Philosophies of Vagrancy (114)",
+      "Ascended Sample: Knight (18)"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Favonius Warbow",
+      "Snare Hook",
+      "Rainbow Serpent's Rain Bow",
+      "End of the Line"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Silken Moon's Serenade",
+      "Tenacity of the Millelith",
+      "Instructor",
+      "Deepwood Memories"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C4"
+    ],
+    "party": [
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Flins",
+          "Ineffa",
+          "Columbina",
+          "Jahoda"
+        ]
+      },
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Flins",
+          "Fischl",
+          "Mona",
+          "Jahoda"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Nefer",
+          "Lauma",
+          "Xingqiu",
+          "Jahoda"
+        ]
+      },
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Ineffa",
+          "Furina",
+          "Jahoda",
+          "Ifa"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Columbina",
+    "version": "6.4",
+    "element": "hydro",
+    "banner": "https://paimon.moe/images/characters/full/columbina.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Radiant Antler (46)",
+      "Winter Icelea (168)",
+      "Slime Condensate (18)",
+      "Slime Secretions (30)",
+      "Slime Concentrate (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Slime Condensate (18)",
+      "Slime Secretions (66)",
+      "Slime Concentrate (93)",
+      "Crown of Insight (3)",
+      "Teachings of Moonlight (9)",
+      "Guide to Moonlight (63)",
+      "Philosophies of Moonlight (114)",
+      "Mask of the Virtuous Doctor (18)"
+    ],
+    "weapons": [
+      "Nocturne's Curtain Call",
+      "Sacrificial Jade",
+      "Tome of the Eternal Flow",
+      "A Thousand Floating Dreams",
+      "Prototype Amber",
+      "Favonius Codex"
+    ],
+    "artifacts": [
+      "Silken Moon's Serenade",
+      "Aubade of Morningstar and Moon",
+      "Golden Troupe",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Columbina",
+          "Flins",
+          "Ineffa",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Columbina",
+          "Nefer",
+          "Lauma",
+          "Sucrose"
+        ]
+      },
+      {
+        "reaction": "Lunar-Crystallize",
+        "members": [
+          "Columbina",
+          "Zibai",
+          "Linnea",
+          "Illuga"
+        ]
+      },
+      {
+        "reaction": "Lunar-Charged",
+        "members": [
+          "Columbina",
+          "Fischl",
+          "Durin",
+          "Jahoda"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Linnea",
+    "version": "6.6",
+    "element": "geo",
+    "banner": "https://paimon.moe/images/characters/full/linnea.png",
+    "materials": [
+      "Mora (420.000)",
+      "Prithiva Topaz Sliver (1)",
+      "Prithiva Topaz Fragment (9)",
+      "Prithiva Topaz Chunk (9)",
+      "Prithiva Topaz Gemstone (6)",
+      "Plume of the Fallen Watcher (46)",
+      "Etherwing Moth (168)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (30)",
+      "Frost-Etched Warrant (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (66)",
+      "Frost-Etched Warrant (93)",
+      "Crown of Insight (3)",
+      "Teachings of Vagrancy (9)",
+      "Guide to Vagrancy (63)",
+      "Philosophies of Vagrancy (114)",
+      "Elixir of the Heretic (18)"
+    ],
+    "weapons": [
+      "Golden Frostbound Oath",
+      "Slingshot",
+      "Snare Hook",
+      "Favonius Warbow",
+      "Polar Star",
+      "Hunter's Path"
+    ],
+    "artifacts": [
+      "Husk of Opulent Dreams",
+      "Aubade of Morningstar and Moon",
+      "Silken Moon's Serenade",
+      "Instructor",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Lunar-Crystallize",
+        "members": [
+          "Zibai",
+          "Columbina",
+          "Linnea",
+          "Illuga"
+        ]
+      },
+      {
+        "reaction": "Lunar-Crystallize",
+        "members": [
+          "Arataki Itto",
+          "Gorou",
+          "Linnea",
+          "Columbina"
+        ]
+      },
+      {
+        "reaction": "Lunar-Crystallize",
+        "members": [
+          "Navia",
+          "Columbina",
+          "Linnea",
+          "Furina"
+        ]
+      },
+      {
+        "reaction": "Lunar-Bloom",
+        "members": [
+          "Nefer",
+          "Lauma",
+          "Columbina",
+          "Linnea"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Prune",
+    "version": "6.7",
+    "element": "anemo",
+    "banner": "https://paimon.moe/images/characters/full/prune.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Radiant Antler (46)",
+      "Winter Icelea (168)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (30)",
+      "Golden Raven Insignia (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Treasure Hoarder Insignia (18)",
+      "Silver Raven Insignia (66)",
+      "Golden Raven Insignia (93)",
+      "Crown of Insight (3)",
+      "Teachings of Resistance (9)",
+      "Guide to Resistance (63)",
+      "Philosophies of Resistance (114)",
+      "Mask of the Virtuous Doctor (18)"
+    ],
+    "weapons": [
+      "Skyward Atlas",
+      "Oathsworn Eye",
+      "Favonius Codex",
+      "Hakushin Ring",
+      "Thrilling Tales of Dragon Slayers",
+      "Flowing Purity"
+    ],
+    "artifacts": [
+      "Viridescent Venerer",
+      "Scroll of the Hero of Cinder City",
+      "Silken Moon's Serenade",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Hexerei",
+        "members": [
+          "Varka",
+          "Durin",
+          "Nicole",
+          "Prune"
+        ]
+      },
+      {
+        "reaction": "Hexerei",
+        "members": [
+          "Venti",
+          "Durin",
+          "Nicole",
+          "Prune"
+        ]
+      },
+      {
+        "reaction": "Hexerei",
+        "members": [
+          "Lohen",
+          "Durin",
+          "Nicole",
+          "Prune"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Keqing",
+          "Fischl",
+          "Kirara",
+          "Prune"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nicole",
+    "version": "6.7",
+    "element": "pyro",
+    "banner": "https://paimon.moe/images/characters/full/nicole.png",
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Remnant of the Dreadwing (46)",
+      "Pine Amber (168)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (30)",
+      "Frost-Etched Warrant (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Tattered Warrant (18)",
+      "Immaculate Warrant (66)",
+      "Frost-Etched Warrant (93)",
+      "Crown of Insight (3)",
+      "Teachings of Elysium (9)",
+      "Guide to Elysium (63)",
+      "Philosophies of Elysium (114)",
+      "Counterfeit Resin (18)"
+    ],
+    "weapons": [
+      "Angelos' Heptades",
+      "Crane's Echoing Call",
+      "Skyward Atlas",
+      "Starcaller's Watch",
+      "Wine and Song",
+      "Oathsworn Eye",
+      "Flowing Purity"
+    ],
+    "artifacts": [
+      "Celestial Gift",
+      "Scroll of the Hero of Cinder City",
+      "Noblesse Oblige"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Hexerei",
+        "members": [
+          "Nicole",
+          "Varka",
+          "Durin",
+          "Prune"
+        ]
+      },
+      {
+        "reaction": "Hexerei",
+        "members": [
+          "Nicole",
+          "Venti",
+          "Durin",
+          "Prune"
+        ]
+      },
+      {
+        "reaction": "Stellar-Conduct",
+        "members": [
+          "Nicole",
+          "Sandrone",
+          "Yae Miko",
+          "Qiqi"
+        ]
+      },
+      {
+        "reaction": "Overloaded",
+        "members": [
+          "Nicole",
+          "Arlecchino",
+          "Chevreuse",
+          "Fischl"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sandrone",
+    "version": "6.8",
+    "element": "cryo",
+    "banner": "https://paimon.moe/images/characters/full/sandrone.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Plume of the Fallen Watcher (46)",
+      "Subdetection Unit (168)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (30)",
+      "Precision Drive Shaft (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Broken Drive Shaft (18)",
+      "Reinforced Drive Shaft (66)",
+      "Precision Drive Shaft (93)",
+      "Crown of Insight (3)",
+      "Teachings of Vagrancy (9)",
+      "Guide to Vagrancy (63)",
+      "Philosophies of Vagrancy (114)",
+      "Madman's Restraint (18)"
+    ],
+    "weapons": [
+      "A Teaspoon of Transcendence",
+      "A Thousand Blazing Suns",
+      "Verdict",
+      "Wolf's Gravestone",
+      "Beacon of the Reed Sea",
+      "Tidal Shadow"
+    ],
+    "artifacts": [
+      "Disenchantment in Deep Shadows",
+      "Gilded Dreams"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "E.Burst",
+      "E.Skill"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C4",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Stellar-Conduct",
+        "members": [
+          "Sandrone",
+          "Yae Miko",
+          "Odette",
+          "Escoffier"
+        ]
+      },
+      {
+        "reaction": "Stellar-Conduct",
+        "members": [
+          "Sandrone",
+          "Mitya",
+          "Prune",
+          "Odette"
+        ]
+      },
+      {
+        "reaction": "Stellar-Conduct",
+        "members": [
+          "Sandrone",
+          "Mitya",
+          "Sucrose",
+          "Odette"
+        ]
+      },
+      {
+        "reaction": "Stellar-Conduct",
+        "members": [
+          "Sandrone",
+          "Nicole",
+          "Yae Miko",
+          "Qiqi"
+        ]
+      }
+    ]
+  }
+
   ]
 }
