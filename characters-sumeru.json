@@ -2,84 +2,940 @@
   "region": "sumeru",
   "regionName": "Sumeru",
   "characters": [
-    {
-      "name": "Alhaitham",
-      "version": "3.4",
-      "element": "dendro",
-      "banner": "https://paimon.moe/images/characters/full/alhaitham.png",
-      
-      "materials": [
-        "Mora (420.000)",
-        "Nagadus Emerald Sliver (1)",
-        "Nagadus Emerald Fragment (9)",
-        "Nagadus Emerald Chunk (9)",
-        "Nagadus Emerald Gemstone (6)",
-        "Pseudostamens (46)",
-        "Sand Grease Pupa (168)",
-        "Faded Red Satin (18)",
-        "Trimmed Red Silk (30)",
-        "Rich Red Brocade (36)"
-      ],
-      
-      "talenta": [
-        "Mora (4.957.500)",
-        "Faded Red Satin (18)",
-        "Trimmed Red Silk (66)",
-        "Rich Red Brocade (93)",
-        "Crown of Insight (3)",
-        "Teachings of Ingenuity (9)",
-        "Guide to Ingenuity (63)",
-        "Philosophies of Ingenuity (114)",
-        "Mirror of Mushin (18)"
-      ],
-      
-      "weapons": [
-        "Light of Foliar Incision",
-        "Harbinger of Dawn",
-        "Uraku Misugiri",
-        "Primordial Jade Cutter",
-        "Haran Geppaku Futsu",
-        "Iron Sting",
-        "Wolf-Fang",
-        "The Black Sword",
-        "Toukabou Shigure"
-      ],
-      
-      "artifacts": [
-        "Gilded Dreams",
-        "Deepwood Memories"
-      ],
-      
-      "talentPriority": [
-        "E.Skill",
-        "Normal Attack"
-      ],
-      
-      "constellationPriority": [
-        "C2",
-        "C4",
-        "C6"
-      ],
-      
-      "party": [
-        {
-          "reaction": "Quick bloom",
-          "members": ["Alhaitham", "Lauma", "Yelan", "Kuki Shinobu"]
-        },
-        {
-          "reaction": "Spread",
-          "members": ["Alhaitham", "Nahida", "Fischl", "Yae Miko"]
-        },
-        {
-          "reaction": "Furina",
-          "members": ["Alhaitham", "Furina", "Lauma", "Kuki Shinobu"]
-        },
-        {
-          "reaction": "Free Team",
-          "members": ["Alhaitham", "Collei", "Xingqiu", "Kuki Shinobu"]
-        }
-      ]
-    }
+    
+  {
+    "name": "Tighnari",
+    "version": "3.0",
+    "element": "dendro",
+    "banner": "https://paimon.moe/images/characters/full/tighnari.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Majestic Hooked Beak (46)",
+      "Nilotpala Lotus (168)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (30)",
+      "Crystalline Cyst Dust (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Admonition (9)",
+      "Guide to Admonition (63)",
+      "Philosophies of Admonition (114)",
+      "Crown of Insight (3)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (66)",
+      "Crystalline Cyst Dust (93)",
+      "The Meaning of Aeons (18)"
+    ],
+    "weapons": [
+      "Hunter's Path",
+      "Aqua Simulacra",
+      "The First Great Magic",
+      "Polar Star",
+      "Prototype Crescent",
+      "Slingshot"
+    ],
+    "artifacts": [
+      "Wanderer's Troupe",
+      "Gilded Dreams",
+      "Deepwood Memories"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "E.Burst",
+      "E.Skill"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C2",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Spread",
+        "members": [
+          "Tighnari",
+          "Yae Miko",
+          "Fischl",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Quicken",
+        "members": [
+          "Tighnari",
+          "Nahida",
+          "Yae Miko",
+          "Kuki Shinobu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Collei",
+    "version": "3.0",
+    "element": "dendro",
+    "banner": "https://paimon.moe/images/characters/full/collei.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Majestic Hooked Beak (46)",
+      "Rukkhashava Mushrooms (168)",
+      "Firm Arrowhead (18)",
+      "Sharp Arrowhead (30)",
+      "Weathered Arrowhead (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Praxis (9)",
+      "Guide to Praxis (63)",
+      "Philosophies of Praxis (114)",
+      "Crown of Insight (3)",
+      "Firm Arrowhead (18)",
+      "Sharp Arrowhead (66)",
+      "Weathered Arrowhead (93)",
+      "Tears of the Calamitous God (18)"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Favonius Warbow",
+      "Sacrificial Bow",
+      "The Stringless",
+      "End of the Line"
+    ],
+    "artifacts": [
+      "Deepwood Memories",
+      "Noblesse Oblige",
+      "Scroll of the Hero of Cinder City"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C6",
+      "C4"
+    ],
+    "party": [
+      {
+        "reaction": "Bloom",
+        "members": [
+          "Nilou",
+          "Kokomi",
+          "Nahida",
+          "Collei"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Clorinde",
+          "Fischl",
+          "Collei",
+          "Lan Yan"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dori",
+    "version": "3.0",
+    "element": "electro",
+    "banner": "https://paimon.moe/images/characters/full/dori.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Thunderclap Fruitcore (46)",
+      "Kalpalata Lotus (168)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (30)",
+      "Rich Red Brocade (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Ingenuity (9)",
+      "Guide to Ingenuity (63)",
+      "Philosophies of Ingenuity (114)",
+      "Crown of Insight (3)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (66)",
+      "Rich Red Brocade (93)",
+      "Bloodjade Branch (18)"
+    ],
+    "weapons": [
+      "Favonius Greatsword",
+      "Forest Regalia",
+      "Sacrificial Greatsword",
+      "The Bell",
+      "Skyward Pride"
+    ],
+    "artifacts": [
+      "Noblesse Oblige",
+      "Ocean-Hued Clam",
+      "Deepwood Memories",
+      "Instructor"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C4",
+      "C2"
+    ],
+    "party": [
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Alhaitham",
+          "Fischl",
+          "Dori",
+          "Nahida"
+        ]
+      },
+      {
+        "reaction": "Hyperbloom",
+        "members": [
+          "Nahida",
+          "Xingqiu",
+          "Dori",
+          "Collei"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Candace",
+    "version": "3.1",
+    "element": "hydro",
+    "banner": "https://paimon.moe/images/characters/full/candace.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Light Guiding Tetrahedron (46)",
+      "Henna Berry (168)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (30)",
+      "Rich Red Brocade (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Admonition (9)",
+      "Guide to Admonition (63)",
+      "Philosophies of Admonition (114)",
+      "Crown of Insight (3)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (66)",
+      "Rich Red Brocade (93)",
+      "Tears of the Calamitous God (18)"
+    ],
+    "weapons": [
+      "Favonius Lance",
+      "Engulfing Lightning",
+      "The Catch",
+      "Kitain Cross Spear",
+      "Black Tassel"
+    ],
+    "artifacts": [
+      "Emblem of Severed Fate",
+      "Noblesse Oblige",
+      "Tenacity of the Millelith"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Vaporize",
+        "members": [
+          "Mualani",
+          "Candace",
+          "Xiangling",
+          "Xilonen"
+        ]
+      },
+      {
+        "reaction": "Bloom",
+        "members": [
+          "Nilou",
+          "Candace",
+          "Nahida",
+          "Yaoyao"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cyno",
+    "version": "3.1",
+    "element": "electro",
+    "banner": "https://paimon.moe/images/characters/full/cyno.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Thunderclap Fruitcore (46)",
+      "Scarabs (168)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (30)",
+      "Forbidden Curse Scroll (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Admonition (9)",
+      "Guide to Admonition (63)",
+      "Philosophies of Admonition (114)",
+      "Crown of Insight (3)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (66)",
+      "Forbidden Curse Scroll (93)",
+      "Mudra of the Malefic General (18)"
+    ],
+    "weapons": [
+      "Staff of the Scarlet Sands",
+      "Staff of Homa",
+      "Primordial Jade Winged-Spear",
+      "Deathmatch",
+      "Ballad of the Fjords",
+      "White Tassel"
+    ],
+    "artifacts": [
+      "Thundering Fury",
+      "Gilded Dreams",
+      "Gladiator's Finale"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "Normal Attack",
+      "E.Skill"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Quickbloom",
+        "members": [
+          "Cyno",
+          "Nahida",
+          "Furina",
+          "Baizhu"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Cyno",
+          "Fischl",
+          "Nahida",
+          "Baizhu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nilou",
+    "version": "3.1",
+    "element": "hydro",
+    "banner": "https://paimon.moe/images/characters/full/nilou.png",
+    "materials": [
+      "Mora (420.000)",
+      "Varunada Lazurite Sliver (1)",
+      "Varunada Lazurite Fragment (9)",
+      "Varunada Lazurite Chunk (9)",
+      "Varunada Lazurite Gemstone (6)",
+      "Perpetual Caliber (46)",
+      "Padisarah (168)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (30)",
+      "Crystalline Cyst Dust (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Praxis (9)",
+      "Guide to Praxis (63)",
+      "Philosophies of Praxis (114)",
+      "Crown of Insight (3)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (66)",
+      "Crystalline Cyst Dust (93)",
+      "Tears of the Calamitous God (18)"
+    ],
+    "weapons": [
+      "Key of Khaj-Nisut",
+      "Freedom-Sworn",
+      "Xiphos' Moonlight",
+      "Iron Sting",
+      "Sapwood Blade"
+    ],
+    "artifacts": [
+      "Vourukasha's Glow",
+      "Tenacity of the Millelith",
+      "Flower of Paradise Lost",
+      "Deepwood Memories"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C1",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Bloom",
+        "members": [
+          "Nilou",
+          "Nahida",
+          "Kokomi",
+          "Collei"
+        ]
+      },
+      {
+        "reaction": "Bloom",
+        "members": [
+          "Nilou",
+          "Lauma",
+          "Columbina",
+          "Yaoyao"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nahida",
+    "version": "3.2",
+    "element": "dendro",
+    "banner": "https://paimon.moe/images/characters/full/nahida.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Quelled Creeper (46)",
+      "Kalpalata Lotus (168)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (30)",
+      "Crystalline Cyst Dust (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Ingenuity (9)",
+      "Guide to Ingenuity (63)",
+      "Philosophies of Ingenuity (114)",
+      "Crown of Insight (3)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (66)",
+      "Crystalline Cyst Dust (93)",
+      "Puppet Strings (18)"
+    ],
+    "weapons": [
+      "A Thousand Floating Dreams",
+      "The Widsith",
+      "Kagura's Verity",
+      "Wandering Evenstar",
+      "Sacrificial Fragments",
+      "Magic Guide"
+    ],
+    "artifacts": [
+      "Deepwood Memories",
+      "Gilded Dreams",
+      "Golden Troupe"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C6",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Hyperbloom",
+        "members": [
+          "Nahida",
+          "Xingqiu",
+          "Kuki Shinobu",
+          "Yelan"
+        ]
+      },
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Nahida",
+          "Yae Miko",
+          "Fischl",
+          "Zhongli"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Layla",
+    "version": "3.2",
+    "element": "cryo",
+    "banner": "https://paimon.moe/images/characters/full/layla.png",
+    "materials": [
+      "Mora (420.000)",
+      "Shivada Jade Sliver (1)",
+      "Shivada Jade Fragment (9)",
+      "Shivada Jade Chunk (9)",
+      "Shivada Jade Gemstone (6)",
+      "Perpetual Caliber (46)",
+      "Nilotpala Lotus (168)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (30)",
+      "Forbidden Curse Scroll (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Ingenuity (9)",
+      "Guide to Ingenuity (63)",
+      "Philosophies of Ingenuity (114)",
+      "Crown of Insight (3)",
+      "Divining Scroll (18)",
+      "Sealed Scroll (66)",
+      "Forbidden Curse Scroll (93)",
+      "Mirror of Mushin (18)"
+    ],
+    "weapons": [
+      "Key of Khaj-Nisut",
+      "Favonius Sword",
+      "Sacrificial Sword",
+      "Primordial Jade Cutter",
+      "Freedom-Sworn"
+    ],
+    "artifacts": [
+      "Tenacity of the Millelith",
+      "Noblesse Oblige",
+      "Blizzard Strayer"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C4",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Shield Support",
+        "members": [
+          "Hu Tao",
+          "Xingqiu",
+          "Yelan",
+          "Layla"
+        ]
+      },
+      {
+        "reaction": "Freeze",
+        "members": [
+          "Ayaka",
+          "Shenhe",
+          "Kokomi",
+          "Layla"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Faruzan",
+    "version": "3.3",
+    "element": "anemo",
+    "banner": "https://paimon.moe/images/characters/full/faruzan.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vayuda Turquoise Sliver (1)",
+      "Vayuda Turquoise Fragment (9)",
+      "Vayuda Turquoise Chunk (9)",
+      "Vayuda Turquoise Gemstone (6)",
+      "Light Guiding Tetrahedron (46)",
+      "Henna Berry (168)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (30)",
+      "Rich Red Brocade (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Admonition (9)",
+      "Guide to Admonition (63)",
+      "Philosophies of Admonition (114)",
+      "Crown of Insight (3)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (66)",
+      "Rich Red Brocade (93)",
+      "Puppet Strings (18)"
+    ],
+    "weapons": [
+      "Elegy for the End",
+      "Favonius Warbow",
+      "End of the Line",
+      "Skyward Harp",
+      "Aqua Simulacra"
+    ],
+    "artifacts": [
+      "Tenacity of the Millelith",
+      "Noblesse Oblige",
+      "Viridescent Venerer"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "E.Skill",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C4"
+    ],
+    "party": [
+      {
+        "reaction": "Anemo Hypercarry",
+        "members": [
+          "Wanderer",
+          "Faruzan",
+          "Bennett",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Anemo Hypercarry",
+        "members": [
+          "Xiao",
+          "Faruzan",
+          "Xianyun",
+          "Furina"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Alhaitham",
+    "version": "3.4",
+    "element": "dendro",
+    "banner": "https://paimon.moe/images/characters/full/alhaitham.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Pseudo-Stamens (46)",
+      "Sand Grease Pupa (168)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (30)",
+      "Rich Red Brocade (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Ingenuity (9)",
+      "Guide to Ingenuity (63)",
+      "Philosophies of Ingenuity (114)",
+      "Crown of Insight (3)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (66)",
+      "Rich Red Brocade (93)",
+      "Mirror of Mushin (18)"
+    ],
+    "weapons": [
+      "Light of Foliar Incision",
+      "Haran Geppaku Futsu",
+      "Primordial Jade Cutter",
+      "Mistsplitter Reforged",
+      "Wolf-Fang",
+      "Toukabou Shigure"
+    ],
+    "artifacts": [
+      "Gilded Dreams",
+      "Deepwood Memories",
+      "Night of the Sky's Unveiling"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "E.Skill",
+      "E.Burst"
+    ],
+    "constellationPriority": [
+      "C2",
+      "C6",
+      "C1"
+    ],
+    "party": [
+      {
+        "reaction": "Spread",
+        "members": [
+          "Alhaitham",
+          "Nahida",
+          "Yae Miko",
+          "Kuki Shinobu"
+        ]
+      },
+      {
+        "reaction": "Hyperbloom",
+        "members": [
+          "Alhaitham",
+          "Nahida",
+          "Xingqiu",
+          "Kuki Shinobu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kaveh",
+    "version": "3.6",
+    "element": "dendro",
+    "banner": "https://paimon.moe/images/characters/full/kaveh.png",
+    "materials": [
+      "Mora (420.000)",
+      "Nagadus Emerald Sliver (1)",
+      "Nagadus Emerald Fragment (9)",
+      "Nagadus Emerald Chunk (9)",
+      "Nagadus Emerald Gemstone (6)",
+      "Quelled Creeper (46)",
+      "Mourning Flower (168)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (30)",
+      "Crystalline Cyst Dust (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Ingenuity (9)",
+      "Guide to Ingenuity (63)",
+      "Philosophies of Ingenuity (114)",
+      "Crown of Insight (3)",
+      "Fungal Spores (18)",
+      "Luminescent Pollen (66)",
+      "Crystalline Cyst Dust (93)",
+      "Primordial Greenbloom (18)"
+    ],
+    "weapons": [
+      "Mailed Flower",
+      "Forest Regalia",
+      "Favonius Greatsword",
+      "Sacrificial Greatsword",
+      "Akuoumaru"
+    ],
+    "artifacts": [
+      "Flower of Paradise Lost",
+      "Deepwood Memories",
+      "Gilded Dreams",
+      "Ocean-Hued Clam"
+    ],
+    "talentPriority": [
+      "E.Burst",
+      "Normal Attack",
+      "E.Skill"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C2",
+      "C4"
+    ],
+    "party": [
+      {
+        "reaction": "Burgeon",
+        "members": [
+          "Kaveh",
+          "Xingqiu",
+          "Thoma",
+          "Yaoyao"
+        ]
+      },
+      {
+        "reaction": "Bloom",
+        "members": [
+          "Kaveh",
+          "Nilou",
+          "Xingqiu",
+          "Baizhu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dehya",
+    "version": "3.5",
+    "element": "pyro",
+    "banner": "https://paimon.moe/images/characters/full/dehya.png",
+    "materials": [
+      "Mora (420.000)",
+      "Agnidus Agate Sliver (1)",
+      "Agnidus Agate Fragment (9)",
+      "Agnidus Agate Chunk (9)",
+      "Agnidus Agate Gemstone (6)",
+      "Light Guiding Tetrahedron (46)",
+      "Sand Grease Pupa (168)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (30)",
+      "Rich Red Brocade (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Praxis (9)",
+      "Guide to Praxis (63)",
+      "Philosophies of Praxis (114)",
+      "Crown of Insight (3)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (66)",
+      "Rich Red Brocade (93)",
+      "Puppet Strings (18)"
+    ],
+    "weapons": [
+      "Beacon of the Reed Sea",
+      "Wolf's Gravestone",
+      "The Unforged",
+      "Serpent Spine",
+      "Akuoumaru",
+      "Favonius Greatsword"
+    ],
+    "artifacts": [
+      "Vourukasha's Glow",
+      "Emblem of Severed Fate",
+      "Tenacity of the Millelith",
+      "Crimson Witch of Flames"
+    ],
+    "talentPriority": [
+      "E.Skill",
+      "E.Burst",
+      "Normal Attack"
+    ],
+    "constellationPriority": [
+      "C1",
+      "C2",
+      "C6"
+    ],
+    "party": [
+      {
+        "reaction": "Mono Pyro",
+        "members": [
+          "Dehya",
+          "Bennett",
+          "Xiangling",
+          "Kazuha"
+        ]
+      },
+      {
+        "reaction": "Burn-Melt",
+        "members": [
+          "Ganyu",
+          "Nahida",
+          "Dehya",
+          "Bennett"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sethos",
+    "version": "4.7",
+    "element": "electro",
+    "banner": "https://paimon.moe/images/characters/full/sethos.png",
+    "materials": [
+      "Mora (420.000)",
+      "Vajrada Amethyst Sliver (1)",
+      "Vajrada Amethyst Fragment (9)",
+      "Vajrada Amethyst Chunk (9)",
+      "Vajrada Amethyst Gemstone (6)",
+      "Cloudseam Scale (46)",
+      "Trishiraite (168)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (30)",
+      "Rich Red Brocade (36)"
+    ],
+    "talenta": [
+      "Mora (4.957.500)",
+      "Teachings of Praxis (9)",
+      "Guide to Praxis (63)",
+      "Philosophies of Praxis (114)",
+      "Crown of Insight (3)",
+      "Faded Red Satin (18)",
+      "Trimmed Red Silk (66)",
+      "Rich Red Brocade (93)",
+      "Daka's Bell (18)"
+    ],
+    "weapons": [
+      "Hunter's Path",
+      "Slingshot",
+      "The First Great Magic",
+      "Aqua Simulacra",
+      "Cloudforged",
+      "Prototype Crescent"
+    ],
+    "artifacts": [
+      "Wanderer's Troupe",
+      "Gilded Dreams",
+      "Thundering Fury"
+    ],
+    "talentPriority": [
+      "Normal Attack",
+      "E.Burst",
+      "E.Skill"
+    ],
+    "constellationPriority": [
+      "C6",
+      "C1",
+      "C2"
+    ],
+    "party": [
+      {
+        "reaction": "Aggravate",
+        "members": [
+          "Sethos",
+          "Fischl",
+          "Nahida",
+          "Zhongli"
+        ]
+      },
+      {
+        "reaction": "Quicken",
+        "members": [
+          "Sethos",
+          "Yae Miko",
+          "Collei",
+          "Kirara"
+        ]
+      }
+    ]
+  }
   ]
 }
 
