@@ -99,7 +99,7 @@
         "Everlasting Moonglow"
       ],
       "artifacts": [
-        "Ocean-Hued Clam",
+        "Ocean Hued Clam",
         "Maiden Beloved",
         "Noblesse Oblige"
       ],
@@ -349,7 +349,7 @@
       "weapons": [
         "Favonius Sword",
         "Amenoma Kageuchi",
-        "Freedom-Sworn",
+        "Freedom Sworn",
         "Skyward Blade"
       ],
       "artifacts": [
@@ -631,7 +631,7 @@
           "members": ["Mona", "Xiangling", "Bennett", "Sucrose"]
         },
         {
-          "reaction": "Electro-Charged",
+          "reaction": "Electro Charged",
           "members": ["Mona", "Beidou", "Fischl", "Sucrose"]
         }
       ]
@@ -731,7 +731,7 @@
         "Wolf's Gravestone",
         "Serpent Spine",
         "Beacon of the Reed Sea",
-        "Snow-Tombed Starsilver"
+        "Snow Tombed Starsilver"
       ],
       "artifacts": [
         "Gilded Dreams",
@@ -861,7 +861,7 @@
       ],
       "artifacts": [
         "Viridescent Venerer",
-        "Elegy-support build"
+        "Elegy support build"
       ],
       "talentPriority": [
         "E.Burst",
@@ -1042,7 +1042,7 @@
       ],
       "weapons": [
         "Staff of Homa",
-        "Primordial Jade Winged-Spear",
+        "Primordial Jade Winged Spear",
         "The Catch",
         "Favonius Lance"
       ],
@@ -1106,7 +1106,7 @@
         "Song of Broken Pines",
         "Beacon of the Reed Sea",
         "Serpent Spine",
-        "Snow-Tombed Starsilver"
+        "Snow Tombed Starsilver"
       ],
       "artifacts": [
         "Pale Flame",
@@ -1152,7 +1152,7 @@
         "Recruit's Insignia (18)",
         "Sergeant's Insignia (30)",
         "Lieutenant's Insignia (36)",
-        "Pseudo-Stamens (46)"
+        "Pseudo Stamens (46)"
       ],
       "talenta": [
         "Mora (4.957.500)",
@@ -1173,7 +1173,7 @@
       ],
       "artifacts": [
         "Noblesse Oblige",
-        "Ocean-Hued Clam",
+        "Ocean Hued Clam",
         "Song of Days Past"
       ],
       "talentPriority": [
@@ -1225,13 +1225,13 @@
         "Firm Arrowhead (18)",
         "Sharp Arrowhead (66)",
         "Weathered Arrowhead (93)",
-        "Eroded Scale-Feather (18)",
+        "Eroded Scale Feather (18)",
         "Crown of Insight (3)"
       ],
       "weapons": [
         "Favonius Sword",
-        "Key of Khaj-Nisut",
-        "Freedom-Sworn",
+        "Key of Khaj Nisut",
+        "Freedom Sworn",
         "Sacrificial Sword",
         "The Dockhand's Assistant"
       ],
@@ -1279,7 +1279,7 @@
         "Frostlamp Flower (168)",
         "Tattered Warrant (18)",
         "Immaculate Warrant (30)",
-        "Frost-Etched Warrant (36)",
+        "Frost Etched Warrant (36)",
         "Cyclic Military Kuuvahki Core (46)"
       ],
       "talenta": [
@@ -1289,7 +1289,7 @@
         "Philosophies of Ballad (114)",
         "Tattered Warrant (18)",
         "Immaculate Warrant (66)",
-        "Frost-Etched Warrant (93)",
+        "Frost Etched Warrant (93)",
         "Eroded Sunfire (18)",
         "Crown of Insight (3)"
       ],
@@ -1297,7 +1297,7 @@
         "Athame Artis",
         "Primordial Jade Cutter",
         "Mistsplitter Reforged",
-        "Wolf-Fang",
+        "Wolf Fang",
         "New Bough"
       ],
       "artifacts": [
@@ -1425,11 +1425,11 @@
       "weapons": [
         "Calamity Queller",
         "Staff of Homa",
-        "Primordial Jade Winged-Spear",
+        "Primordial Jade Winged Spear",
         "Favonius Lance"
       ],
       "artifacts": [
-        "TBA - verify current guide"
+        "TBA   verify current guide"
       ],
       "talentPriority": [
         "E.Skill",
