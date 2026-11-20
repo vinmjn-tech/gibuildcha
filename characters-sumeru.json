@@ -183,7 +183,7 @@
     ],
     "artifacts": [
       "Noblesse Oblige",
-      "Ocean-Hued Clam",
+      "Ocean Hued Clam",
       "Deepwood Memories",
       "Instructor"
     ],
@@ -320,7 +320,7 @@
     "weapons": [
       "Staff of the Scarlet Sands",
       "Staff of Homa",
-      "Primordial Jade Winged-Spear",
+      "Primordial Jade Winged Spear",
       "Deathmatch",
       "Ballad of the Fjords",
       "White Tassel"
@@ -390,8 +390,8 @@
       "Tears of the Calamitous God (18)"
     ],
     "weapons": [
-      "Key of Khaj-Nisut",
-      "Freedom-Sworn",
+      "Key of Khaj Nisut",
+      "Freedom Sworn",
       "Xiphos' Moonlight",
       "Iron Sting",
       "Sapwood Blade"
@@ -534,11 +534,11 @@
       "Mirror of Mushin (18)"
     ],
     "weapons": [
-      "Key of Khaj-Nisut",
+      "Key of Khaj Nisut",
       "Favonius Sword",
       "Sacrificial Sword",
       "Primordial Jade Cutter",
-      "Freedom-Sworn"
+      "Freedom Sworn"
     ],
     "artifacts": [
       "Tenacity of the Millelith",
@@ -658,7 +658,7 @@
       "Nagadus Emerald Fragment (9)",
       "Nagadus Emerald Chunk (9)",
       "Nagadus Emerald Gemstone (6)",
-      "Pseudo-Stamens (46)",
+      "Pseudo Stamens (46)",
       "Sand Grease Pupa (168)",
       "Faded Red Satin (18)",
       "Trimmed Red Silk (30)",
@@ -680,7 +680,7 @@
       "Haran Geppaku Futsu",
       "Primordial Jade Cutter",
       "Mistsplitter Reforged",
-      "Wolf-Fang",
+      "Wolf Fang",
       "Toukabou Shigure"
     ],
     "artifacts": [
@@ -758,7 +758,7 @@
       "Flower of Paradise Lost",
       "Deepwood Memories",
       "Gilded Dreams",
-      "Ocean-Hued Clam"
+      "Ocean Hued Clam"
     ],
     "talentPriority": [
       "E.Burst",
@@ -854,7 +854,7 @@
         ]
       },
       {
-        "reaction": "Burn-Melt",
+        "reaction": "Burn Melt",
         "members": [
           "Ganyu",
           "Nahida",

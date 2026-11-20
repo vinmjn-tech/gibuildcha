@@ -100,7 +100,7 @@
         "Everamber (18)"
       ],
       "weapons": [
-        "Freedom-Sworn",
+        "Freedom Sworn",
         "Favonius Sword",
         "Fleuve Cendre Ferryman",
         "Sacrificial Sword"
@@ -172,7 +172,7 @@
         "Beacon of the Reed Sea",
         "Serpent Spine",
         "Tidal Shadow",
-        "Snow-Tombed Starsilver"
+        "Snow Tombed Starsilver"
       ],
       "artifacts": [
         "Pale Flame",
@@ -456,7 +456,7 @@
       ],
       "artifacts": [
         "Noblesse Oblige",
-        "Ocean-Hued Clam",
+        "Ocean Hued Clam",
         "Song of Days Past"
       ],
       "talentPriority": [
@@ -736,7 +736,7 @@
       ],
       "artifacts": [
         "Song of Days Past",
-        "Ocean-Hued Clam",
+        "Ocean Hued Clam",
         "Tenacity of the Millelith"
       ],
       "talentPriority": [
@@ -760,7 +760,7 @@
           ]
         },
         {
-          "reaction": "Off-field Skill",
+          "reaction": "Off field Skill",
           "members": [
             "Furina",
             "Sigewinne",

@@ -76,7 +76,7 @@
           "members": ["Vodyanitsa", "Lohen", "Escoffier", "Mona"]
         },
         {
-          "reaction": "Freeze Semi-Premium",
+          "reaction": "Freeze Semi Premium",
           "members": ["Vodyanitsa", "Chongyun", "Escoffier", "Xingqiu"]
         }
       ]
@@ -111,7 +111,7 @@
   ],
   "weapons": [
     "Crimson Moon's Semblance",
-    "Primordial Jade Winged-Spear",
+    "Primordial Jade Winged Spear",
     "Staff of Homa",
     "Staff of the Scarlet Sands",
     "Deathmatch",
@@ -226,7 +226,7 @@
       
       "party": [
         {
-          "reaction": "Sandrone-Stellar",
+          "reaction": "Sandrone Stellar",
           "members": ["Alyosha", "Sandrone", "Odette", "Yae Miko"]
         },
         {
@@ -278,7 +278,7 @@
         "Whitelake Frostfeather",
         "Exaiphanes Blade",
         "Azurelight",
-        "Freedom-Sworn",
+        "Freedom Sworn",
         "Emberwell",
         "Finale of the Deep",
         "Heretics Molten Blade",
